@@ -71,3 +71,16 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBAneka.bn@SD" tvg-logo="https://i.imgur.com/MY40GrC.png" group-title="General",RTB Aneka (720p)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
+#EXTINF:-1 ,DAZN 1
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:-1 ,DAZN 2
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+#EXTINF:-1 ,DAZN 3
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#EXTINF:-1 ,DAZN 4
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+#EXTINF:-1 ,DAZN 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+
+#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png" group-title="Piala Dunia 2026 ððâ½", NHK BS Premium 4K
+http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
