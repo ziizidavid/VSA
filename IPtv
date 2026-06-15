@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="RERE GANTENG" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",RERE GANTENG
+#EXTINF:-1 tvg-name="TYC ARGENTINA " tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",RERE GANTENG
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Bein Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
@@ -10,13 +10,13 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-name="GO Live" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-name="Football World Cup 2026 link hindi" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 link hindi
+#EXTINF:-1 tvg-name="United Sport 1 (in)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 link hindi
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1 tvg-name="Football World Cup 2026 1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 1
+#EXTINF:-1 tvg-name="United Sport 2 (eng)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 1
 http://202.70.146.135:8000/play/a06s/index.m3u8
-#EXTINF:-1 tvg-name="Football World Cup 2026 (4K)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 (4K)
+#EXTINF:-1 tvg-name="Fusball German( vpn 4K)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 (4K)
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
-#EXTINF:-1 tvg-name="Football World Cup 2026 (4K) 2" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 (4K) 2
+#EXTINF:-1 tvg-name="Fusball German(4K) No vpn" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 (4K) 2
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 tvg-name="Football World Cup 2026 (BIOSCOPE PLUS)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 (BIOSCOPE PLUS)
 https://streamsportixa.ajmainearafat.workers.dev/live.m3u8
