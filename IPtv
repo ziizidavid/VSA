@@ -6,6 +6,11 @@ http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K
 http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-name="FS1" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png",FS1
+#EXTVLCOPT:http-referrer=https://sportspass.dad/soccer/fifa2026.html
+#EXTVLCOPT:http-origin=https://sportspass.dad/soccer/fifa2026.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://ogilbert.s3.us-east-1.amazonaws.com/btsport.m3u8
 #EXTINF:-1 tvg-name="TYC ARGENTINA" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",TYC ARGENTINA
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Bein Sports 1
@@ -16,39 +21,30 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-name="GO Live" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-name="United 1 (in)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026
+#EXTINF:-1 tvg-name="United 1 (in)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",United 1 (in)
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1 tvg-name="United 2 (eng)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 1
+#EXTINF:-1 tvg-name="United 2 (eng)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",United 2 (eng)
 http://202.70.146.135:8000/play/a06s/index.m3u8
-#EXTINF:-1 tvg-name="Football World Cup 2026 Bioscope Plus" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 Bioscope Plus
+#EXTINF:-1 tvg-name="Bioscope Plus" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Bioscope Plus
 https://streamsportixa.ajmainearafat.workers.dev/live.m3u8
 
-#EXTINF:-1 tvg-name="FIFA World Cup 2026 Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World[...]
+#EXTINF:-1 tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",Win Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 tvg-name="FIFA World Cup 2026 Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA Worl[...]
+#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",Bein
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-name="FIFA World Cup 2026 DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup 2[...]
+#EXTINF:-1 tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",Dazn
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-name="FIFA World Cup 2026 TVP Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World[...]
+#EXTINF:-1 tvg-name="TVP Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",Tvp
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-#EXTINF:-1 tvg-name="FIFA World Cup 2026 D Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World C[...]
+#EXTINF:-1 tvg-name="D Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",D sport
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-#EXTINF:-1 tvg-name="FIFA World Cup 2026 Caze TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cu[...]
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-name="FIFA World Cup 2026 Tudn Sports" tvg-logo="https://upload.wikimedia.org/wiki.../1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA Worl[...]
+#EXTINF:-1 tvg-name="Tudn Sports" tvg-logo="https://upload.wikimedia.org/wiki.../1280px-2026_FIFA_World_Cup_emblem.svg.png",TUDN
 https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-
 #EXTINF:-1 tvg-name="FSPSRT" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png",FSPSRT
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn8.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=coCkmVm4_X2ZZUV0XcXVcA&expires=1781549409
-#EXTINF:-1 tvg-name="FS1" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png",FS1
-#EXTVLCOPT:http-referrer=https://sportspass.dad/soccer/fifa2026.html
-#EXTVLCOPT:http-origin=https://sportspass.dad/soccer/fifa2026.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://ogilbert.s3.us-east-1.amazonaws.com/btsport.m3u8
-
 #EXTINF:-1 tvg-name="WC2026" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png",WC2026 
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -57,44 +53,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Caze_TV" tvg-name="Caze TV" tvg-logo="https://i.ibb.co.com/9JJ04g9/1000284076.png",Caze TV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="RTBGo.bn@SD" tvg-name="RTB Go 720p" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go 720p
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1 tvg-id="RTBAneka.bn@SD" tvg-name="RTB Aneka 720p" tvg-logo="https://i.imgur.com/MY40GrC.png",RTB Aneka 720p
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://www.cancunairporttransportations.com/blog/wp-content/uploads/FIFA-world-cup-2026-752x440.webp",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 http://103.148.44.38:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://www.cancunairporttransportations.com/blog/wp-content/uploads/FIFA-world-cup-2026-752x440.webp",TSN1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
-
-#EXTINF:-1 tvg-name="Piala Dunia 2026 CH3" tvg-logo="https://www.cancunairporttransportations.com/blog/wp-content/uploads/FIFA-world-cup-2026-752x440.webp",Piala Dunia 2026 CH3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-#EXTINF:-1 tvg-name="Piala Dunia 2026 CH4" tvg-logo="https://www.cancunairporttransportations.com/blog/wp-content/uploads/FIFA-world-cup-2026-752x440.webp",Piala Dunia 2026 CH4
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
-#EXTINF:-1 tvg-name="Piala Dunia 2026 CH5" tvg-logo="https://www.cancunairporttransportations.com/blog/wp-content/uploads/FIFA-world-cup-2026-752x440.webp",Piala Dunia 2026 CH5
-#EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-name="Piala Dunia 2026 CH6" tvg-logo="https://www.cancunairporttransportations.com/blog/wp-content/uploads/FIFA-world-cup-2026-752x440.webp",Piala Dunia 2026 CH6
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
-#EXTINF:-1 tvg-name="Piala Dunia 2026 CH7" tvg-logo="https://www.cancunairporttransportations.com/blog/wp-content/uploads/FIFA-world-cup-2026-752x440.webp",Piala Dunia 2026 CH7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-#EXTINF:-1 tvg-name="Piala Dunia 2026 CH8" tvg-logo="https://www.cancunairporttransportations.com/blog/wp-content/uploads/FIFA-world-cup-2026-752x440.webp",Piala Dunia 2026 CH8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
-#EXTINF:-1 tvg-name="Piala Dunia 2026 CH9" tvg-logo="https://www.cancunairporttransportations.com/blog/wp-content/uploads/FIFA-world-cup-2026-752x440.webp",Piala Dunia 2026 CH9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
-
