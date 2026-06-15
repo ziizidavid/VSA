@@ -38,6 +38,17 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 tvg-name="FIFA World Cup 2026 Tudn Sports" tvg-logo="https://upload.wikimedia.org/wiki.../1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA Worl[...]
 https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
 
+#EXTINF:-1 tvg-name="FSPSRT" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png",FSPSRT
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cdn8.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=coCkmVm4_X2ZZUV0XcXVcA&expires=1781549409
+#EXTINF:-1 tvg-name="FS1" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png",FS1
+#EXTVLCOPT:http-referrer=https://sportspass.dad/soccer/fifa2026.html
+#EXTVLCOPT:http-origin=https://sportspass.dad/soccer/fifa2026.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://ogilbert.s3.us-east-1.amazonaws.com/btsport.m3u8
+
 #EXTINF:-1 tvg-name="WC2026" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png",WC2026 
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -53,36 +64,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBAneka.bn@SD" tvg-name="RTB Aneka 720p" tvg-logo="https://i.imgur.com/MY40GrC.png",RTB Aneka 720p
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTINF:-1 tvg-name="UFC Stream 1" tvg-logo="https://i.imgur.com/nJ7n6hX.png",UFC Stream 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://lba5.lefiles.cfd/live/ufc/stream.m3u8
-#EXTINF:-1 tvg-name="UFC Stream 2" tvg-logo="https://i.imgur.com/nJ7n6hX.png",UFC Stream 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/DDDDD.m3u8
-#EXTINF:-1 tvg-name="UFC Stream 3" tvg-logo="https://i.imgur.com/nJ7n6hX.png",UFC Stream 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/jjjjdd.m3u8
-#EXTINF:-1 tvg-name="UFC Stream 4" tvg-logo="https://i.imgur.com/nJ7n6hX.png",UFC Stream 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://live12.xiazhix1.top/live/23898522.m3u8
-#EXTINF:-1 tvg-name="UFC Stream 5" tvg-logo="https://i.imgur.com/nJ7n6hX.png",UFC Stream 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://live12.xiazhix1.top/live/036823906.m3u8
-#EXTINF:-1 tvg-name="UFC Stream 6" tvg-logo="https://i.imgur.com/nJ7n6hX.png",UFC Stream 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://www.cancunairporttransportations.com/blog/wp-content/uploads/FIFA-world-cup-2026-752x440.webp",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
