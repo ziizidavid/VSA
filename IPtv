@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Football World Cup 2026 4K VPN" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 4K VPN
+http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
+#EXTINF:-1 tvg-name="Football World Cup 2026 4K 2" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 4K 2
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K
+http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="TYC ARGENTINA" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",TYC ARGENTINA
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Bein Sports 1
@@ -10,14 +16,10 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-name="GO Live" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-name="Football World Cup 2026" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026
+#EXTINF:-1 tvg-name="United 1 (in)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1 tvg-name="Football World Cup 2026 1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 1
+#EXTINF:-1 tvg-name="United 2 (eng)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 1
 http://202.70.146.135:8000/play/a06s/index.m3u8
-#EXTINF:-1 tvg-name="Football World Cup 2026 4K VPN" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 4K VPN
-http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
-#EXTINF:-1 tvg-name="Football World Cup 2026 4K 2" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 4K 2
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 tvg-name="Football World Cup 2026 Bioscope Plus" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Football World Cup 2026 Bioscope Plus
 https://streamsportixa.ajmainearafat.workers.dev/live.m3u8
 
@@ -47,15 +49,10 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Caze_TV" tvg-name="Caze TV" tvg-logo="https://i.ibb.co.com/9JJ04g9/1000284076.png",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
 #EXTINF:-1 tvg-id="RTBGo.bn@SD" tvg-name="RTB Go 720p" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go 720p
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBAneka.bn@SD" tvg-name="RTB Aneka 720p" tvg-logo="https://i.imgur.com/MY40GrC.png",RTB Aneka 720p
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K
-http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-name="UFC Stream 1" tvg-logo="https://i.imgur.com/nJ7n6hX.png",UFC Stream 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
