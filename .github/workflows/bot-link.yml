@@ -1,0 +1,39 @@
+name: Bot Auto Update IPtv
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Jalan otomatis setiap hari (jam 7 pagi WIB)
+  workflow_dispatch: # Memunculkan tombol agar bisa dijalankan manual
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ambil data dari repository
+        uses: actions/checkout@v4
+
+      - name: Bot mengetik link ke dalam file IPtv
+        run: |
+          LINK="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
+          
+          # TARGET FILE DIUBAH MENJADI "IPtv"
+          FILE="IPtv"
+          
+          # Pastikan file ada
+          touch "$FILE"
+          
+          # Cek kalau link belum ada di dalam file IPtv, bot akan menambahkannya di baris paling bawah
+          if ! grep -q "$LINK" "$FILE"; then
+            echo "$LINK" >> "$FILE"
+          fi
+
+      - name: Simpan pekerjaan (Commit & Push)
+        run: |
+          git config --global user.name 'Bot VSA'
+          git config --global user.email 'bot@users.noreply.github.com'
+          
+          # TARGET FILE YANG DISIMPAN ADALAH "IPtv"
+          git add IPtv
+          
+          # Cek ada perubahan atau tidak, lalu simpan
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Bot: Menambahkan link ke file IPtv" && git push)
