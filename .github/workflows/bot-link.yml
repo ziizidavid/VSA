@@ -1,39 +1,98 @@
-name: Bot Auto Update IPtv
+name: Sync IPTV playlist (append only)
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Jalan otomatis setiap hari (jam 7 pagi WIB)
-  workflow_dispatch: # Memunculkan tombol agar bisa dijalankan manual
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-iptv
+  cancel-in-progress: true
 
 jobs:
-  update-file:
+  sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Ambil data dari repository
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - name: Bot mengetik link ke dalam file IPtv
+      - name: Fetch upstream playlist
         run: |
-          LINK="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
-          
-          # TARGET FILE DIUBAH MENJADI "IPtv"
-          FILE="IPtv"
-          
-          # Pastikan file ada
-          touch "$FILE"
-          
-          # Cek kalau link belum ada di dalam file IPtv, bot akan menambahkannya di baris paling bawah
-          if ! grep -q "$LINK" "$FILE"; then
-            echo "$LINK" >> "$FILE"
+          set -euo pipefail
+          URL="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
+          curl -fsSL "$URL" -o /tmp/events.m3u8 || { echo "Failed to download upstream; exiting"; exit 0; }
+          # normalize line endings
+          tr -d '\r' < /tmp/events.m3u8 > /tmp/events.normalized
+
+      - name: Append only new entries (Python)
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          upfile = Path("/tmp/events.normalized")
+          localfile = Path("IPtv")
+
+          upstream_text = upfile.read_text(encoding="utf-8")
+          local_text = localfile.read_text(encoding="utf-8") if localfile.exists() else ""
+
+          # Ensure local file begins with #EXTM3U (if empty, add header)
+          if not local_text.strip():
+              local_text = "#EXTM3U\n\n"
+              localfile.write_text(local_text, encoding="utf-8")
+
+          # Find all entries that start with #EXTINF and include following lines until next #EXTINF
+          # Each entry may include option lines (#EXTVLCOPT ...) and then the url line(s)
+          entries = re.findall(r'(#EXTINF[^\n]*(?:\n(?!#EXTINF).*)*)', upstream_text, flags=re.MULTILINE)
+
+          def extract_url(entry):
+              for line in entry.splitlines():
+                  line = line.strip()
+                  if re.match(r'^(https?://|//|rtmp:|rtsp:|udp:|mms:)', line, flags=re.IGNORECASE):
+                      return line
+              return None
+
+          existing_urls = set(re.findall(r'^\s*(https?://|//|rtmp:|rtsp:|udp:|mms:).+', local_text, flags=re.MULTILINE | re.IGNORECASE))
+          to_append = []
+          for e in entries:
+              url = extract_url(e)
+              if not url:
+                  continue
+              if url not in existing_urls:
+                  # ensure entry ends with newline
+                  entry_block = e.rstrip() + "\n"
+                  to_append.append(entry_block)
+                  existing_urls.add(url)
+
+          if to_append:
+              with localfile.open("a", encoding="utf-8") as f:
+                  # add a separating newline then all new entries
+                  f.write("\n")
+                  f.write("\n".join(to_append))
+              print(f"Appended {len(to_append)} new entries to {localfile}")
+              # signal success
+              raise SystemExit(0)
+          else:
+              print("No new entries to append.")
+              raise SystemExit(2)
+          PY
+        continue-on-error: true
+
+      - name: Commit & push if appended
+        if: ${{ steps.python.outcome == 'success' || steps.python.outcome == 'skipped' || always() }}
+        run: |
+          set -e
+          # Detect if there are changes (new appended lines)
+          if ! git status --porcelain | grep -q "^ M IPtv\|^A  IPtv" ; then
+            echo "No changes detected; nothing to commit."
+            exit 0
           fi
-
-      - name: Simpan pekerjaan (Commit & Push)
-        run: |
-          git config --global user.name 'Bot VSA'
-          git config --global user.email 'bot@users.noreply.github.com'
-          
-          # TARGET FILE YANG DISIMPAN ADALAH "IPtv"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add IPtv
-          
-          # Cek ada perubahan atau tidak, lalu simpan
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Bot: Menambahkan link ke file IPtv" && git push)
+          git commit -m "Automated append: add new IPTV entries from doms9/events.m3u8"
+          git push
