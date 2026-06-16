@@ -25,6 +25,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 #EXTINF:-1 tvg-name="United 2 (eng)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",United 2 (eng)
 http://202.70.146.135:8000/play/a06s/index.m3u8
+# #EXTINF:-1 tvg-name="beIN SPORTS 4k" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",beIN SPORTS 4k
+# http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
 #EXTINF:-1 tvg-name="Bioscope Plus" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Bioscope Plus
 https://streamsportixa.ajmainearafat.workers.dev/live.m3u8
 
@@ -50,7 +52,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
 #EXTINF:-1 tvg-chno="54" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="TV",Fox Sports 2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
 
-#EXTINF:-1 tvg-name="TSN1" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" TSN 1
+#EXTINF:-1 tvg-name="TSN1" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",TSN 1
 #EXTVLCOPT:http-referrer=https://soccerball.st/rampages/unoair1/
 #EXTVLCOPT:http-origin=https://soccerball.st/rampages/unoair1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
