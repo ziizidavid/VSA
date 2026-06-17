@@ -19,6 +19,8 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-name="TSN 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/banner/sealcf1700573094.jpg",TSN 4
 https://sportzfylive.com/stream/hd1-mexico-x-korea-republic-2026-06-18/manifest.m3u8
+#EXTINF:-1 tvg-name="RTE" tvg-logo="https://simple.wikipedia.org/wiki/RT%C3%892#/media/File:RTE2logo.png",RTE
+https://sportzfylive.com/stream/hd5-portugal-x-congo-dr-2026-06-17/manifest.m3u8
 #EXTINF:-1 tvg-name="WIN Sports" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",WIN Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-name="Caze TV BR" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Caze TV BR
