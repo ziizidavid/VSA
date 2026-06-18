@@ -32,6 +32,8 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-name="GO Live" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#EXTINF:-1,Claro Sports 1
+http://45.167.1.136:8000/play/a00d
 #EXTINF:-1 tvg-name="United 1 (in)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",United 1 (in)
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 #EXTINF:-1 tvg-name="United 2 (eng)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",United 2 (eng)
