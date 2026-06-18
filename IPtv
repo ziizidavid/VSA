@@ -20,10 +20,10 @@ https://ogilbert.s3.us-east-1.amazonaws.com/btsport.m3u8
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",Bein Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-name="TSN 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/banner/sealcf1700573094.jpg",TSN 4
-https://sportzfylive.com/stream/hd1-mexico-x-korea-republic-2026-06-18/manifest.m3u8
-#EXTINF:-1 tvg-name="RTE" tvg-logo="https://simple.wikipedia.org/wiki/RT%C3%892#/media/File:RTE2logo.png",RTE
-https://sportzfylive.com/stream/hd5-portugal-x-congo-dr-2026-06-17/manifest.m3u8
+#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",DAZN 1
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",ESPN
+https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
 #EXTINF:-1 tvg-name="TUDN" tvg-logo="https://simple.wikipedia.org/wiki/RT%C3%892#/media/File:RTE2logo.png",TUDN
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd
 #EXTINF:-1 tvg-name="WIN Sports" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png",WIN Sports
