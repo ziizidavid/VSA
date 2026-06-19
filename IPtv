@@ -86,23 +86,6 @@ http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 group-title="Group Viva" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Fox Deportes 
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
-#EXTINF:-1 group-title="Group Viva" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Bein US
-http://23.237.104.106:8080/USA_BEIN/index.m3u8  
-
-#EXTINF:-1 group-title="Group Viva" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Dazn 2
-http://23.237.104.106:8080/DAZN_2/index.m3u8  
-
-#EXTINF:-1 group-title="Group Viva" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Dazn 3
-http://23.237.104.106:8080/DAZN_3/index.m3u8 
-
-#EXTINF:-1 group-title="Group Viva" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Dazn 4
-http://23.237.104.106:8080/DAZN_4/index.m3u8  
-
-#EXTINF:-1 group-title="Group Viva" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Dazn 5
-http://23.237.104.106:8080/DAZN_5/index.m3u8  
-
-#EXTINF:-1 group-title="Group Viva" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Dazn 6
-http://23.237.104.106:8080/DAZN_6/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksg9aF_4Z9PpYd2RlahU6f-VJX5GDcAeAVyNXwb5Opg&s=10" group-title="Group Viva" tvg-id="001" tvg-name="016-LABURATV", DSPORT ARG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -117,16 +100,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 
-#EXTINF:-1 tvg-name="TELEMUNDO FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Group Viva",TELEMUNDO FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-#EXTINF:-1 tvg-name="TYC ARGENTINA" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",TYC ARGENTINA
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",Bein Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",DAZN 1
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",ESPN
