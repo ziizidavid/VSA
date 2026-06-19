@@ -14,7 +14,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FOX&code=us&user=cdnlivetv&pla
 https://ogilbert.s3.us-east-1.amazonaws.com/btsport.m3u8
 #EXTINF:-1 group-title="Group Viva" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png",ELTA SPORT 1 
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
-
+#EXTINF:-1 group-title="Group Viva" tvg-logo="https://epg.v1.mk/logo/cctv5.png",Caze Tv (YT BR)
+https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
 #EXTINF:-1 group-title="Group Viva" tvg-logo="https://epg.v1.mk/logo/cctv5.png",CCTV5 hd
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
