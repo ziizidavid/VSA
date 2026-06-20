@@ -27,8 +27,10 @@ http://107.150.60.122/live/cctv5hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://107.150.60.122/live/cctv5p.m3u8
 
-#EXTINF:-1 group-title="Group Viva" tvg-logo="https://flagcdn.com/w40/us.png",BBC ONE UK
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-name="UNITE8 SPORTS 1HD" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",UNITE8 SPORTS 1HD
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="UNITE8 SPORTS 2HD" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",UNITE8 SPORTS 2HD
+http://198.195.239.50:8095/tsports/index.m3u8
 
 #EXTINF:-1 group-title="Group Viva" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5ca85501a4694_01x0-480x320.jpg", RTM SPORTS HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
