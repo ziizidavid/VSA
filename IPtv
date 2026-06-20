@@ -6,6 +6,8 @@ http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png" group-title="Group Viva",NHK BSP4K
 http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-name="FWC stream" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",FWC stream
+https://fifaworldcup.cfd/api/stream?q=english
 #EXTINF:-1 tvg-name="FOX" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",FOX
 https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 #EXTINF:-1 group-title="Group Viva" tvg-logo="https://imgs.search.brave.com/jh0j6c_UNEDcCd9_p2xQeqzIN32FlPM_spAOifh-nvs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXBhcmF0Y2hpLmNv/bS9pbWFnZXMvY2hh/bmVsbHMtbG9nby9p/cmliL2lyaWItZmFy/YXRhci5zdmc",FARATAR 4k IRAN
@@ -16,7 +18,8 @@ https://junkieembeds.pages.dev/1781977848/fe307db0b1ae446b94dfd0356cb06b35/_l2Vv
 https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
 #EXTINF:-1 group-title="Group Viva" tvg-logo="https://epg.v1.mk/logo/cctv5.png",CCTV5 hd
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-
+#EXTINF:-1 group-title="Group Viva" tvg-logo="https://imgs.search.brave.com/VeRBENb5ZGZDXtUrbvsWsd7VIBaLV2A8J5z0BYi1p-A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTIy/NjY2OTUyL3ZlY3Rv/ci9pcmFuLWJ1dHRv/bi13aXRoLWlyYW5p/YW4tZmxhZy1pc29s/YXRlZC1vbi13aGl0/ZS5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9emlSRE9QaGx2/S2ZNX0d5azk4UDU5/RTFFakRFaTlDeGtP/WEp2NGE0SE1DMD0",9 sport Iran
+https://live-aburayhan1101.telewebion.ir/ek/varzesh/live/108050p/index.m3u8
 #EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="Group Viva",CCTV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://107.150.60.122/live/cctv5hd.m3u8
