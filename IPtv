@@ -8,8 +8,10 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="FOX" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",FOX
 https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
-#EXTINF:-1 group-title="Group Viva" tvg-logo="https://epg.v1.mk/logo/cctv5.png",FARATAR 4k IRAN
+#EXTINF:-1 group-title="Group Viva" tvg-logo="https://imgs.search.brave.com/jh0j6c_UNEDcCd9_p2xQeqzIN32FlPM_spAOifh-nvs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXBhcmF0Y2hpLmNv/bS9pbWFnZXMvY2hh/bmVsbHMtbG9nby9p/cmliL2lyaWItZmFy/YXRhci5zdmc",FARATAR 4k IRAN
 https://live-aburayhan1105.telewebion.ir/ek/faratar/live/2160p/index.m3u8
+#EXTINF:-1 group-title="Group Viva" tvg-logo="https://images.seeklogo.com/logo-png/17/1/deutscher-fussball-bund-logo-png_seeklogo-176510.png",Fussball de 4k
+https://junkieembeds.pages.dev/1781977848/fe307db0b1ae446b94dfd0356cb06b35/_l2Vv33fFc8nx_aDTAGBGuaeabBsgjMf8hBmMD4XsY8/fusballtvuhd-de.m3u8
 #EXTINF:-1 group-title="Group Viva" tvg-logo="https://epg.v1.mk/logo/cctv5.png",Caze Tv (YT BR)
 https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
 #EXTINF:-1 group-title="Group Viva" tvg-logo="https://epg.v1.mk/logo/cctv5.png",CCTV5 hd
