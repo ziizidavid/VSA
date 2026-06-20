@@ -7,7 +7,7 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png" group-title="Group Viva",NHK BSP4K
 http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="FOX" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",FOX
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX&code=us&user=cdnlivetv&plan=free
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 #EXTVLCOPT:http-referrer=https://sportspass.dad/soccer/fifa2026.html
 #EXTVLCOPT:http-origin=https://sportspass.dad/soccer/fifa2026.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
