@@ -39,12 +39,24 @@ jobs:
           if not IPTV.exists():
               IPTV.write_text("#EXTM3U\n", encoding="utf-8")
 
-          text = IPTV.read_text(encoding="utf-8")
+          text = IPTV.read_text(
+              encoding="utf-8",
+              errors="ignore"
+          )
 
           markers = [
-              ("# --- BEGIN SHAJON PERMANENT ---","# --- END SHAJON PERMANENT ---"),
-              ("# --- BEGIN SHAJON LIVE ---","# --- END SHAJON LIVE ---"),
-              ("# --- BEGIN DOMS EVENT ---","# --- END DOMS EVENT ---")
+              (
+                  "# --- BEGIN SHAJON PERMANENT ---",
+                  "# --- END SHAJON PERMANENT ---"
+              ),
+              (
+                  "# --- BEGIN SHAJON LIVE ---",
+                  "# --- END SHAJON LIVE ---"
+              ),
+              (
+                  "# --- BEGIN DOMS EVENT ---",
+                  "# --- END DOMS EVENT ---"
+              )
           ]
 
           for begin,end in markers:
@@ -55,26 +67,25 @@ jobs:
                   flags=re.S
               )
 
-          permanent=[]
-          live=[]
+          permanent = []
+          live = []
 
           if Path("sports.json").exists():
               try:
-                  data=json.loads(
+                  data = json.loads(
                       Path("sports.json").read_text(
                           encoding="utf-8"
                       )
                   )
 
-                  seen=set()
+                  seen = set()
 
                   for item in data:
-
-                      name=str(
+                      name = str(
                           item.get("name","")
                       ).strip()
 
-                      url=str(
+                      url = str(
                           item.get("url","")
                       ).strip()
 
@@ -86,13 +97,13 @@ jobs:
 
                       seen.add(url)
 
-                      row=(
+                      row = (
                           f'#EXTINF:-1 tvg-name="{name}" '
                           f'group-title="Group Viva",{name}\n'
                           f'{url}'
                       )
 
-                      upper=name.upper()
+                      upper = name.upper()
 
                       if (
                           upper.startswith("LIVE")
@@ -103,23 +114,30 @@ jobs:
                       else:
                           permanent.append(row)
 
-              except:
-                  pass
+              except Exception as e:
+                  print(e)
 
-          doms=""
+          doms = ""
 
           if Path("events.m3u8").exists():
               try:
-                  doms=Path(
+                  doms = Path(
                       "events.m3u8"
                   ).read_text(
                       encoding="utf-8",
                       errors="ignore"
-                  ).strip()
-              except:
-                  pass
+                  )
 
-          text=text.rstrip()
+                  doms = re.sub(
+                      r'group-title="[^"]*"',
+                      'group-title="Group Event"',
+                      doms
+                  )
+
+              except Exception as e:
+                  print(e)
+
+          text = text.rstrip()
 
           text += "\n\n# --- BEGIN SHAJON PERMANENT ---\n"
           text += "\n\n".join(permanent)
@@ -139,7 +157,7 @@ jobs:
           )
           PY
 
-      - name: Commit
+      - name: Commit Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -151,5 +169,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Sync IPTV"
+          git commit -m "Sync IPTV Sources"
           git push
