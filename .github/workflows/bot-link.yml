@@ -1,17 +1,16 @@
 name: Sync IPTV
 
 on:
-schedule:
-- cron: “*/30 * * * *”
-workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-sync:
-runs-on: ubuntu-latest
-
+  sync:
+    runs-on: ubuntu-latest
 steps:
   - name: Checkout
     uses: actions/checkout@v4
