@@ -1,77 +1,45 @@
 name: Sync IPTV
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+schedule:
+- cron: "*/30 * * * *"
+workflow_dispatch:
 
 permissions:
-  contents: write
+contents: write
 
 jobs:
-  sync:
-    runs-on: ubuntu-latest
+sync:
+runs-on: ubuntu-latest
+
+```
 steps:
   - name: Checkout
     uses: actions/checkout@v4
-  - name: Download SHAJON
+
+  - name: Download Sources
     run: |
       curl -fsSL "https://raw.githubusercontent.com/SHAJON-404/iptv-playlist/refs/heads/main/channel_data/all_sports_channel.json" -o sports.json || true
-  - name: Download DOMS
-    run: |
       curl -fsSL "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8" -o events.m3u8 || true
+
   - name: Build IPTV
     run: |
       python3 << 'PY'
       from pathlib import Path
-      import json, re, urllib.request
-      IPTV = Path("IPtv")
-      if not IPTV.exists():
-          IPTV.write_text("#EXTM3U\n", encoding="utf-8")
-      text = IPTV.read_text(
+      import json
+      import re
+
+      iptv = Path("IPtv")
+
+      if not iptv.exists():
+          iptv.write_text("#EXTM3U\n", encoding="utf-8")
+
+      text = iptv.read_text(
           encoding="utf-8",
           errors="ignore"
       )
-      # ==========================
-      # FWC FOx 4k Auto Fallback
-      # ==========================
-      candidates = [
-          "https://fifaworldcup.cfd/api/stream?q=4k",
-          "https://fifaworldcup.cfd/api/stream?q=english",
-          "https://fifaworldcup.cfd/api/stream?q=football"
-      ]
-      active_fwc = candidates[0]
-      for url in candidates:
-          try:
-              req = urllib.request.Request(
-                  url,
-                  headers={
-                      "User-Agent": "Mozilla/5.0"
-                  }
-              )
-              with urllib.request.urlopen(req, timeout=15) as r:
-                  body = r.read(4096).decode(
-                      "utf-8",
-                      errors="ignore"
-                  )
-              if (
-                  "#EXTM3U" in body
-                  or "#EXTINF" in body
-                  or ".m3u8" in body
-              ):
-                  active_fwc = url
-                  break
-          except:
-              pass
-      text = re.sub(
-          r'(#EXTINF:-1[^\n]*FWC FOx 4k[^\n]*\n)(https://[^\n]+)',
-          r'\1' + active_fwc,
-          text,
-          flags=re.I
-      )
-      # ==========================
+
       # Hapus blok lama
-      # ==========================
       blocks = [
           (
               "# --- BEGIN DOMS EVENT ---",
@@ -82,6 +50,7 @@ steps:
               "# --- END SHAJON ALTERNATIF ---"
           )
       ]
+
       for begin, end in blocks:
           text = re.sub(
               rf"\n?{re.escape(begin)}.*?{re.escape(end)}",
@@ -89,33 +58,32 @@ steps:
               text,
               flags=re.S
           )
-      # ==========================
+
       # DOMS
-      # ==========================
       doms = ""
+
       if Path("events.m3u8").exists():
-          try:
-              doms = Path(
-                  "events.m3u8"
-              ).read_text(
-                  encoding="utf-8",
-                  errors="ignore"
-              )
-              doms = doms.replace(
-                  "#EXTM3U",
-                  ""
-              )
-              doms = re.sub(
-                  r'group-title="[^"]*"',
-                  'group-title="Group Event"',
-                  doms
-              )
-          except Exception as e:
-              print(e)
-      # ==========================
+          doms = Path(
+              "events.m3u8"
+          ).read_text(
+              encoding="utf-8",
+              errors="ignore"
+          )
+
+          doms = doms.replace(
+              "#EXTM3U",
+              ""
+          )
+
+          doms = re.sub(
+              r'group-title="[^"]*"',
+              'group-title="Group Event"',
+              doms
+          )
+
       # SHAJON
-      # ==========================
       alternatif = []
+
       if Path("sports.json").exists():
           try:
               data = json.loads(
@@ -123,54 +91,59 @@ steps:
                       encoding="utf-8"
                   )
               )
-              seen = set()
+
               for item in data:
+
                   name = str(
                       item.get("name", "")
                   ).strip()
+
                   url = str(
                       item.get("url", "")
                   ).strip()
+
                   if not name or not url:
                       continue
-                  if url in seen:
-                      continue
-                  seen.add(url)
-                  row = (
-                      f'#EXTINF:-1 tvg-name="{name}" '
-                      f'group-title="Group Alternatif",{name}\n'
-                      f'{url}'
+
+                  alternatif.append(
+                      f'#EXTINF:-1 tvg-name="{name}" group-title="Group Alternatif",{name}\n{url}'
                   )
-                  alternatif.append(row)
+
           except Exception as e:
               print(e)
-      # ==========================
-      # Tulis ulang
-      # ==========================
+
       text = text.rstrip()
+
       text += (
           "\n\n# --- BEGIN DOMS EVENT ---\n"
           + doms.strip()
           + "\n# --- END DOMS EVENT ---"
       )
+
       text += (
           "\n\n# --- BEGIN SHAJON ALTERNATIF ---\n"
           + "\n\n".join(alternatif)
           + "\n# --- END SHAJON ALTERNATIF ---\n"
       )
-      IPTV.write_text(
+
+      iptv.write_text(
           text,
           encoding="utf-8"
       )
       PY
+
   - name: Commit Changes
     run: |
       git config user.name "github-actions[bot]"
       git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       git add IPtv
+
       if git diff --cached --quiet; then
         echo "No changes"
         exit 0
       fi
+
       git commit -m "Auto sync IPTV"
       git push
+```
