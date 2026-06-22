@@ -40,9 +40,9 @@ jobs:
               errors="ignore"
           )
 
-          # =========================
-          # FWC FOX AUTO FALLBACK
-          # =========================
+          # =====================================
+          # FWC FOX 4K AUTO FALLBACK
+          # =====================================
 
           candidates = [
               "https://fifaworldcup.cfd/api/stream?q=4k",
@@ -85,18 +85,14 @@ jobs:
               flags=re.I
           )
 
-          # =========================
-          # REMOVE OLD BLOCKS
-          # =========================
+          # =====================================
+          # HAPUS BLOK LAMA
+          # =====================================
 
           blocks = [
               (
                   "# --- BEGIN SHAJON ALTERNATIF ---",
                   "# --- END SHAJON ALTERNATIF ---"
-              ),
-              (
-                  "# --- BEGIN SHAJON LIVE ---",
-                  "# --- END SHAJON LIVE ---"
               ),
               (
                   "# --- BEGIN DOMS EVENT ---",
@@ -112,12 +108,11 @@ jobs:
                   flags=re.S
               )
 
-          alternatif = []
-          live = []
-
-          # =========================
+          # =====================================
           # SHAJON
-          # =========================
+          # =====================================
+
+          alternatif = []
 
           if Path("sports.json").exists():
 
@@ -148,37 +143,20 @@ jobs:
 
                       seen.add(url)
 
-                      upper = name.upper()
+                      row = (
+                          f'#EXTINF:-1 tvg-name="{name}" '
+                          f'group-title="Group Alternatif",{name}\n'
+                          f'{url}'
+                      )
 
-                      if (
-                          upper.startswith("LIVE")
-                          or upper.startswith("SD LIVE")
-                      ):
-
-                          row = (
-                              f'#EXTINF:-1 tvg-name="{name}" '
-                              f'group-title="Group Event",{name}\n'
-                              f'{url}'
-                          )
-
-                          live.append(row)
-
-                      else:
-
-                          row = (
-                              f'#EXTINF:-1 tvg-name="{name}" '
-                              f'group-title="Group Alternatif",{name}\n'
-                              f'{url}'
-                          )
-
-                          alternatif.append(row)
+                      alternatif.append(row)
 
               except Exception as e:
                   print(e)
 
-          # =========================
+          # =====================================
           # DOMS
-          # =========================
+          # =====================================
 
           doms = ""
 
@@ -202,28 +180,24 @@ jobs:
               except Exception as e:
                   print(e)
 
-          # =========================
-          # APPEND BLOCKS
-          # =========================
+          # =====================================
+          # TULIS ULANG
+          # =====================================
 
           text = text.rstrip()
 
-          text += (
-              "\n\n# --- BEGIN SHAJON ALTERNATIF ---\n"
-              + "\n\n".join(alternatif)
-              + "\n# --- END SHAJON ALTERNATIF ---"
-          )
-
-          text += (
-              "\n\n# --- BEGIN SHAJON LIVE ---\n"
-              + "\n\n".join(live)
-              + "\n# --- END SHAJON LIVE ---"
-          )
-
+          # DOMS DULU
           text += (
               "\n\n# --- BEGIN DOMS EVENT ---\n"
               + doms.strip()
-              + "\n# --- END DOMS EVENT ---\n"
+              + "\n# --- END DOMS EVENT ---"
+          )
+
+          # SHAJON SETELAH DOMS
+          text += (
+              "\n\n# --- BEGIN SHAJON ALTERNATIF ---\n"
+              + "\n\n".join(alternatif)
+              + "\n# --- END SHAJON ALTERNATIF ---\n"
           )
 
           IPTV.write_text(
