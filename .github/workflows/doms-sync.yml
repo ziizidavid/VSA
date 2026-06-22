@@ -1,1 +1,83 @@
+name: DOMS Sync
 
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download DOMS Events
+        run: |
+          curl -L \
+          "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8" \
+          -o events.m3u8
+
+      - name: Update IPTV
+        run: |
+          python3 << 'PY'
+          from pathlib import Path
+          import re
+
+          IPTV = Path("IPtv")
+
+          if not IPTV.exists():
+              IPTV.write_text("#EXTM3U\n", encoding="utf-8")
+
+          text = IPTV.read_text(encoding="utf-8")
+
+          BEGIN = "# --- BEGIN DOMS EVENT ---"
+          END   = "# --- END DOMS EVENT ---"
+
+          text = re.sub(
+              r"\n?# --- BEGIN DOMS EVENT ---.*?# --- END DOMS EVENT ---",
+              "",
+              text,
+              flags=re.S
+          )
+
+          doms = Path("events.m3u8").read_text(
+              encoding="utf-8",
+              errors="ignore"
+          )
+
+          block = (
+              "\n\n"
+              + BEGIN
+              + "\n"
+              + doms.strip()
+              + "\n"
+              + END
+          )
+
+          text = text.rstrip() + block + "\n"
+
+          IPTV.write_text(
+              text,
+              encoding="utf-8"
+          )
+          PY
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add IPtv
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Update DOMS events"
+          git push
