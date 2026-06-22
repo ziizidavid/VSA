@@ -830,51 +830,158 @@ https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_360p/chunklist_DVR
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 # --- END SHAJON PERMANENT ---
 
+# --- BEGIN SHAJON ALTERNATIF ---
+#EXTINF:-1 tvg-name="BEIN Sports 5" group-title="Group Alternatif",BEIN Sports 5
+http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
+
+#EXTINF:-1 tvg-name="BeIN MAX 1" group-title="Group Alternatif",BeIN MAX 1
+https://tmaxapp.site/beinmax1.m3u8
+
+#EXTINF:-1 tvg-name="BeIN MAX 2" group-title="Group Alternatif",BeIN MAX 2
+https://tmaxapp.site/beinmax2.m3u8
+
+#EXTINF:-1 tvg-name="BeIN MAX SD" group-title="Group Alternatif",BeIN MAX SD
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="Group Alternatif",BeIN Sports 1
+http://41.205.70.146/BEINSPORT1/index.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="Group Alternatif",BeIN Sports 2
+http://41.205.70.146/BEINSPORT2/index.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports 5" group-title="Group Alternatif",BeIN Sports 5
+http://41.205.70.146/BEINSPORT5/index.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 1" group-title="Group Alternatif",Bein Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-name="D SPORTS" group-title="Group Alternatif",D SPORTS
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
+
+#EXTINF:-1 tvg-name="D SPORTS FHD +" group-title="Group Alternatif",D SPORTS FHD +
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+
+#EXTINF:-1 tvg-name="D Sports (Alt)" group-title="Group Alternatif",D Sports (Alt)
+http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+
+#EXTINF:-1 tvg-name="D Sports 2" group-title="Group Alternatif",D Sports 2
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
+
+#EXTINF:-1 tvg-name="FOX 1080p [No VPN]" group-title="Group Alternatif",FOX 1080p [No VPN]
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 tvg-name="FOX 4K [No VPN]" group-title="Group Alternatif",FOX 4K [No VPN]
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/7ruw77zpm1/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
+
+#EXTINF:-1 tvg-name="FS1 [No VPN]" group-title="Group Alternatif",FS1 [No VPN]
+https://vizio.kuvuslov.cymru/fs1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="FIFA +" group-title="Group Alternatif",FIFA +
+https://e3be9ac5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/9c1dd781-4ee3-4668-a957-fa1e6f81d613/3.m3u8
+
+#EXTINF:-1 tvg-name="SERVER 1" group-title="Group Alternatif",SERVER 1
+https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+
+#EXTINF:-1 tvg-name="SERVER 3" group-title="Group Alternatif",SERVER 3
+http://193.47.62.55/hls/Xlplplpqqq.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORTS HD [No VPN]" group-title="Group Alternatif",SKY SPORTS HD [No VPN]
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+
+#EXTINF:-1 tvg-name="Sky Sports La Liga" group-title="Group Alternatif",Sky Sports La Liga
+https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#EXTINF:-1 tvg-name="Sky Sports La Liga 1" group-title="Group Alternatif",Sky Sports La Liga 1
+https://aca-live-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265/default.mpd
+
+#EXTINF:-1 tvg-name="SporTV 3" group-title="Group Alternatif",SporTV 3
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+#EXTINF:-1 tvg-name="TNT" group-title="Group Alternatif",TNT
+https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
+
+#EXTINF:-1 tvg-name="TNT SPORTS" group-title="Group Alternatif",TNT SPORTS
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
+
+#EXTINF:-1 tvg-name="TNT Sports 3" group-title="Group Alternatif",TNT Sports 3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN [No VPN]" group-title="Group Alternatif",TSN [No VPN]
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-name="ARABIC LIVE" group-title="Group Alternatif",ARABIC LIVE
+https://live-aburayhan1111.telewebion.ir/ek/sport1/live/720p/index.m3u8
+
+#EXTINF:-1 tvg-name="CAZE TV" group-title="Group Alternatif",CAZE TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-name="CTV" group-title="Group Alternatif",CTV
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
+
+#EXTINF:-1 tvg-name="DAZN FIFA" group-title="Group Alternatif",DAZN FIFA
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 tvg-name="FANCODE  HD" group-title="Group Alternatif",FANCODE  HD
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-name="FUSSBALL TV (USE GERMAN VPN)" group-title="Group Alternatif",FUSSBALL TV (USE GERMAN VPN)
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+
+#EXTINF:-1 tvg-name="GOLIVE - English" group-title="Group Alternatif",GOLIVE - English
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="LVE  1" group-title="Group Alternatif",LVE  1
+https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
+
+#EXTINF:-1 tvg-name="M6 Direct TV" group-title="Group Alternatif",M6 Direct TV
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+
+#EXTINF:-1 tvg-name="Match! Football 1" group-title="Group Alternatif",Match! Football 1
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+#EXTINF:-1 tvg-name="RTB" group-title="Group Alternatif",RTB
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTE SPORTS" group-title="Group Alternatif",RTE SPORTS
+https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd
+
+#EXTINF:-1 tvg-name="SPO TV" group-title="Group Alternatif",SPO TV
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+#EXTINF:-1 tvg-name="Somoy TV" group-title="Group Alternatif",Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TAPMAD" group-title="Group Alternatif",TAPMAD
+https://serieAleague.akamaized.net/hls/live/2107107/PSLE_tapmad2026-Backup/master.m3u8
+
+#EXTINF:-1 tvg-name="TELEMUNDO (USA VPN)" group-title="Group Alternatif",TELEMUNDO (USA VPN)
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+#EXTINF:-1 tvg-name="TIPIK HD" group-title="Group Alternatif",TIPIK HD
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
+
+#EXTINF:-1 tvg-name="TRT 1" group-title="Group Alternatif",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TUDN" group-title="Group Alternatif",TUDN
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd
+
+#EXTINF:-1 tvg-name="Toffee" group-title="Group Alternatif",Toffee
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782131769~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ_HfwTejFgmS6WY7BzJBc4A8U8ZkNxJHYKpKAsjnLgGy0BYXc-SyHOjdxFYRfHoF8507i1oe1VE_ZBnI0J_s2oH
+
+#EXTINF:-1 tvg-name="ZDF (USE GERMAN VPN)" group-title="Group Alternatif",ZDF (USE GERMAN VPN)
+https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpdhttps://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd
+
+#EXTINF:-1 tvg-name="iOS 2" group-title="Group Alternatif",iOS 2
+https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_360p/chunklist_DVR.m3u8
+
+#EXTINF:-1 tvg-name="Win Sports [No VPN]" group-title="Group Alternatif",Win Sports [No VPN]
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+# --- END SHAJON ALTERNATIF ---
+
 # --- BEGIN SHAJON LIVE ---
-#EXTINF:-1 tvg-name="LIVE 1" group-title="Group Viva",LIVE 1
+#EXTINF:-1 tvg-name="LIVE 1" group-title="Group Event",LIVE 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-name="LIVE 1" group-title="Group Viva",LIVE 1
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ahxrr80pjw/out/v1/dcdacb49d8cb40bc9b21ed25c507c84c/cenc.mpd
-
-#EXTINF:-1 tvg-name="LIVE 1" group-title="Group Viva",LIVE 1
-http://193.47.62.42/hls/HAAAZQQQQQQ.m3u8
-
-#EXTINF:-1 tvg-name="LIVE 1" group-title="Group Viva",LIVE 1
-http://193.47.62.42/hls/JJJJd.m3u8
-
-#EXTINF:-1 tvg-name="LIVE 1" group-title="Group Viva",LIVE 1
-http://193.47.62.42/hls/GDDDD.m3u8
-
-#EXTINF:-1 tvg-name="LIVE 1" group-title="Group Viva",LIVE 1
-http://193.47.62.42/hls/GDDDDQ.m3u8
-
-#EXTINF:-1 tvg-name="LIVE 1" group-title="Group Viva",LIVE 1
-http://193.47.62.42/hls/GDDDDQQ.m3u8
-
-#EXTINF:-1 tvg-name="LIVE 1" group-title="Group Viva",LIVE 1
-http://193.47.62.42/hls/GDDDDQQQ.m3u8
-
-#EXTINF:-1 tvg-name="SD LIVE" group-title="Group Viva",SD LIVE
-http://193.47.62.41/hls/EEEEDDD.m3u8
-
-#EXTINF:-1 tvg-name="SD LIVE" group-title="Group Viva",SD LIVE
-http://193.47.62.42/hls/DPPP.m3u8
-
-#EXTINF:-1 tvg-name="SD LIVE" group-title="Group Viva",SD LIVE
-http://193.47.62.41/hls/eaeaeaZZ.m3u8
-
-#EXTINF:-1 tvg-name="SD LIVE" group-title="Group Viva",SD LIVE
-http://193.47.62.42/hls/udddQQ.m3u8
-
-#EXTINF:-1 tvg-name="SD LIVE" group-title="Group Viva",SD LIVE
-http://193.47.62.42/hls/uddd.m3u8
-
-#EXTINF:-1 tvg-name="SD LIVE" group-title="Group Viva",SD LIVE
-http://193.47.62.42/hls/udddQ.m3u8
-
-#EXTINF:-1 tvg-name="SD LIVE" group-title="Group Viva",SD LIVE
-http://193.47.62.42/hls/udddQQQ.m3u8
 # --- END SHAJON LIVE ---
 
 # --- BEGIN DOMS EVENT ---
