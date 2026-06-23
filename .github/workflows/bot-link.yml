@@ -11,6 +11,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -22,6 +23,10 @@ jobs:
       - name: Download DOMS
         run: |
           curl -fsSL "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8" -o events.m3u8 || true
+
+      - name: Download WORLD CUP 2026
+        run: |
+          curl -fsSL "https://raw.githubusercontent.com/HeruAje23/IPTV-VOUCHER/refs/heads/master/IPTV2026.m3u" -o wc2026.m3u || true
 
       - name: Build IPTV
         run: |
@@ -40,11 +45,18 @@ jobs:
               errors="ignore"
           )
 
+          # ==========================
           # Hapus blok lama
+          # ==========================
+
           blocks = [
               (
                   "# --- BEGIN DOMS EVENT ---",
                   "# --- END DOMS EVENT ---"
+              ),
+              (
+                  "# --- BEGIN WORLD CUP 2026 ---",
+                  "# --- END WORLD CUP 2026 ---"
               ),
               (
                   "# --- BEGIN SHAJON ALTERNATIF ---",
@@ -67,7 +79,9 @@ jobs:
           doms = ""
 
           if Path("events.m3u8").exists():
+
               try:
+
                   doms = Path(
                       "events.m3u8"
                   ).read_text(
@@ -90,13 +104,59 @@ jobs:
                   print(e)
 
           # ==========================
+          # WORLD CUP 2026
+          # ==========================
+
+          wc2026 = []
+
+          if Path("wc2026.m3u").exists():
+
+              try:
+
+                  lines = Path(
+                      "wc2026.m3u"
+                  ).read_text(
+                      encoding="utf-8",
+                      errors="ignore"
+                  ).splitlines()
+
+                  inside = False
+
+                  for i, line in enumerate(lines):
+
+                      if "#WORLD CUP 2026#" in line.upper():
+                          inside = True
+                          continue
+
+                      if inside and line.startswith("#EXTINF"):
+
+                          if i + 1 < len(lines):
+
+                              url = lines[i + 1].strip()
+
+                              row = re.sub(
+                                  r'group-title="[^"]*"',
+                                  'group-title="Group Event"',
+                                  line
+                              )
+
+                              wc2026.append(
+                                  row + "\n" + url
+                              )
+
+              except Exception as e:
+                  print(e)
+
+          # ==========================
           # SHAJON
           # ==========================
 
           alternatif = []
 
           if Path("sports.json").exists():
+
               try:
+
                   data = json.loads(
                       Path("sports.json").read_text(
                           encoding="utf-8"
@@ -104,6 +164,7 @@ jobs:
                   )
 
                   for item in data:
+
                       name = str(
                           item.get("name", "")
                       ).strip()
@@ -139,6 +200,12 @@ jobs:
           )
 
           text += (
+              "\n\n# --- BEGIN WORLD CUP 2026 ---\n"
+              + "\n\n".join(wc2026)
+              + "\n# --- END WORLD CUP 2026 ---"
+          )
+
+          text += (
               "\n\n# --- BEGIN SHAJON ALTERNATIF ---\n"
               + "\n\n".join(alternatif)
               + "\n# --- END SHAJON ALTERNATIF ---\n"
@@ -148,6 +215,7 @@ jobs:
               text,
               encoding="utf-8"
           )
+
           PY
 
       - name: Commit Changes
