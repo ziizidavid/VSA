@@ -20,7 +20,7 @@ jobs:
         run: |
           curl -fsSL "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8" -o events.m3u8 || true
 
-      - name: Download WORLD CUP 2026
+      - name: Download WORLD CUP HD
         run: |
           curl -fsSL "https://raw.githubusercontent.com/HeruAje23/IPTV-VOUCHER/refs/heads/master/IPTV2026.m3u" -o wc2026.m3u || true
 
@@ -40,15 +40,14 @@ jobs:
               errors="ignore"
           )
 
-          # Hapus blok lama
           blocks = [
               (
                   "# --- BEGIN DOMS EVENT ---",
                   "# --- END DOMS EVENT ---"
               ),
               (
-                  "# --- BEGIN WORLD CUP 2026 ---",
-                  "# --- END WORLD CUP 2026 ---"
+                  "# --- BEGIN ALTERNATIF HD ---",
+                  "# --- END ALTERNATIF HD ---"
               )
           ]
 
@@ -92,7 +91,7 @@ jobs:
                   print(e)
 
           # ==========================
-          # WORLD CUP 2026
+          # ALTERNATIF HD
           # ==========================
 
           wc2026 = []
@@ -118,25 +117,50 @@ jobs:
 
                       if inside and line.startswith("#EXTINF"):
 
-                          if i + 1 < len(lines):
+                          if i + 1 >= len(lines):
+                              continue
 
-                              url = lines[i + 1].strip()
+                          url = lines[i + 1].strip()
 
-                              row = re.sub(
-                                  r'group-title="[^"]*"',
-                                  'group-title="Group Event"',
-                                  line
-                              )
+                          title = line.upper()
 
-                              wc2026.append(
-                                  row + "\n" + url
-                              )
+                          # Skip banner / info
+                          if "INFO & UPDATE" in title:
+                              continue
+
+                          if "🚫" in title:
+                              continue
+
+                          if "BANNER" in url.upper():
+                              continue
+
+                          # Skip MLB / Cricket
+                          blacklist = [
+                              "MLB",
+                              "CRICKET",
+                              "IPL",
+                              "T20",
+                              "BASEBALL"
+                          ]
+
+                          if any(x in title for x in blacklist):
+                              continue
+
+                          row = re.sub(
+                              r'group-title="[^"]*"',
+                              'group-title="Group Alternatif HD"',
+                              line
+                          )
+
+                          wc2026.append(
+                              row + "\n" + url
+                          )
 
               except Exception as e:
                   print(e)
 
           # ==========================
-          # Tulis ulang
+          # WRITE
           # ==========================
 
           text = text.rstrip()
@@ -148,9 +172,9 @@ jobs:
           )
 
           text += (
-              "\n\n# --- BEGIN WORLD CUP 2026 ---\n"
+              "\n\n# --- BEGIN ALTERNATIF HD ---\n"
               + "\n\n".join(wc2026)
-              + "\n# --- END WORLD CUP 2026 ---\n"
+              + "\n# --- END ALTERNATIF HD ---\n"
           )
 
           IPTV.write_text(
