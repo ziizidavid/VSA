@@ -1,0 +1,39 @@
+{
+  "Group Viva": [
+    {
+      "name": "WC Channel 1",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-1-embed.html"
+    },
+    {
+      "name": "WC Channel 2",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-2-embed.html"
+    },
+    {
+      "name": "WC Channel 3",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-3-embed.html"
+    },
+    {
+      "name": "WC Channel 4",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-4-embed.html"
+    },
+    {
+      "name": "WC Channel 5",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-5-embed.html"
+    },
+    {
+      "name": "WC Channel 6",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-6-embed.html"
+    },
+    {
+      "name": "WC Channel 7",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-7-embed.html"
+    }
+  ]
+}
