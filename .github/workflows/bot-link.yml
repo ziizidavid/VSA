@@ -12,7 +12,6 @@ jobs:
 sync:
 runs-on: ubuntu-latest
 
-```
 steps:
   - name: Checkout
     uses: actions/checkout@v4
@@ -61,16 +60,10 @@ steps:
               flags=re.S
           )
 
-      # ==========================
-      # DOMS EVENT
-      # ==========================
-
       doms = ""
 
       if Path("events.m3u8").exists():
-
           try:
-
               doms = Path(
                   "events.m3u8"
               ).read_text(
@@ -91,10 +84,6 @@ steps:
 
           except Exception as e:
               print(e)
-
-      # ==========================
-      # WORLD CUP HD
-      # ==========================
 
       wc2026 = []
 
@@ -159,10 +148,6 @@ steps:
           except Exception as e:
               print(e)
 
-      # ==========================
-      # WRITE IPTV
-      # ==========================
-
       text = text.rstrip()
 
       text += (
@@ -181,10 +166,6 @@ steps:
           text,
           encoding="utf-8"
       )
-
-      # ==========================
-      # GENERATE CHANNELS JSON
-      # ==========================
 
       channels = {}
 
@@ -227,7 +208,8 @@ steps:
           item = {
               "name": name,
               "logo": logo,
-              "stream": stream
+              "stream": stream,
+              "group": group
           }
 
           channels.setdefault(
