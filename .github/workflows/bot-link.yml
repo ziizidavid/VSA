@@ -1,200 +1,265 @@
 name: Sync IPTV
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+schedule:
+- cron: "*/30 * * * *"
+workflow_dispatch:
 
 permissions:
-  contents: write
+contents: write
 
 jobs:
-  sync:
-    runs-on: ubuntu-latest
+sync:
+runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+```
+steps:
+  - name: Checkout
+    uses: actions/checkout@v4
 
-      - name: Download DOMS
-        run: |
-          curl -fsSL "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8" -o events.m3u8 || true
+  - name: Download DOMS
+    run: |
+      curl -fsSL "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8" -o events.m3u8 || true
 
-      - name: Download WORLD CUP HD
-        run: |
-          curl -fsSL "https://raw.githubusercontent.com/HeruAje23/IPTV-VOUCHER/refs/heads/master/IPTV2026.m3u" -o wc2026.m3u || true
+  - name: Download WORLD CUP HD
+    run: |
+      curl -fsSL "https://raw.githubusercontent.com/HeruAje23/IPTV-VOUCHER/refs/heads/master/IPTV2026.m3u" -o wc2026.m3u || true
 
-      - name: Build IPTV
-        run: |
-          python3 << 'PY'
-          from pathlib import Path
-          import re
+  - name: Build IPTV & JSON
+    run: |
+      python3 << 'PY'
+      from pathlib import Path
+      import re
+      import json
 
-          IPTV = Path("IPtv")
+      IPTV = Path("IPtv")
 
-          if not IPTV.exists():
-              IPTV.write_text("#EXTM3U\n", encoding="utf-8")
+      if not IPTV.exists():
+          IPTV.write_text("#EXTM3U\n", encoding="utf-8")
 
-          text = IPTV.read_text(
-              encoding="utf-8",
-              errors="ignore"
+      text = IPTV.read_text(
+          encoding="utf-8",
+          errors="ignore"
+      )
+
+      blocks = [
+          (
+              "# --- BEGIN DOMS EVENT ---",
+              "# --- END DOMS EVENT ---"
+          ),
+          (
+              "# --- BEGIN ALTERNATIF HD ---",
+              "# --- END ALTERNATIF HD ---"
+          )
+      ]
+
+      for begin, end in blocks:
+          text = re.sub(
+              rf"\n?{re.escape(begin)}.*?{re.escape(end)}",
+              "",
+              text,
+              flags=re.S
           )
 
-          blocks = [
-              (
-                  "# --- BEGIN DOMS EVENT ---",
-                  "# --- END DOMS EVENT ---"
-              ),
-              (
-                  "# --- BEGIN ALTERNATIF HD ---",
-                  "# --- END ALTERNATIF HD ---"
-              )
-          ]
+      # ==========================
+      # DOMS EVENT
+      # ==========================
 
-          for begin, end in blocks:
-              text = re.sub(
-                  rf"\n?{re.escape(begin)}.*?{re.escape(end)}",
-                  "",
-                  text,
-                  flags=re.S
+      doms = ""
+
+      if Path("events.m3u8").exists():
+
+          try:
+
+              doms = Path(
+                  "events.m3u8"
+              ).read_text(
+                  encoding="utf-8",
+                  errors="ignore"
               )
 
-          # ==========================
-          # DOMS
-          # ==========================
+              doms = doms.replace(
+                  "#EXTM3U",
+                  ""
+              )
 
-          doms = ""
+              doms = re.sub(
+                  r'group-title="[^"]*"',
+                  'group-title="Group Event"',
+                  doms
+              )
 
-          if Path("events.m3u8").exists():
+          except Exception as e:
+              print(e)
 
-              try:
+      # ==========================
+      # WORLD CUP HD
+      # ==========================
 
-                  doms = Path(
-                      "events.m3u8"
-                  ).read_text(
-                      encoding="utf-8",
-                      errors="ignore"
-                  )
+      wc2026 = []
 
-                  doms = doms.replace(
-                      "#EXTM3U",
-                      ""
-                  )
+      if Path("wc2026.m3u").exists():
 
-                  doms = re.sub(
-                      r'group-title="[^"]*"',
-                      'group-title="Group Event"',
-                      doms
-                  )
+          try:
 
-              except Exception as e:
-                  print(e)
+              lines = Path(
+                  "wc2026.m3u"
+              ).read_text(
+                  encoding="utf-8",
+                  errors="ignore"
+              ).splitlines()
 
-          # ==========================
-          # ALTERNATIF HD
-          # ==========================
+              inside = False
 
-          wc2026 = []
+              for i, line in enumerate(lines):
 
-          if Path("wc2026.m3u").exists():
+                  if "#WORLD CUP 2026#" in line.upper():
+                      inside = True
+                      continue
 
-              try:
+                  if inside and line.startswith("#EXTINF"):
 
-                  lines = Path(
-                      "wc2026.m3u"
-                  ).read_text(
-                      encoding="utf-8",
-                      errors="ignore"
-                  ).splitlines()
-
-                  inside = False
-
-                  for i, line in enumerate(lines):
-
-                      if "#WORLD CUP 2026#" in line.upper():
-                          inside = True
+                      if i + 1 >= len(lines):
                           continue
 
-                      if inside and line.startswith("#EXTINF"):
+                      url = lines[i + 1].strip()
 
-                          if i + 1 >= len(lines):
-                              continue
+                      title = line.upper()
 
-                          url = lines[i + 1].strip()
+                      if "INFO & UPDATE" in title:
+                          continue
 
-                          title = line.upper()
+                      if "🚫" in title:
+                          continue
 
-                          # Skip banner / info
-                          if "INFO & UPDATE" in title:
-                              continue
+                      if "BANNER" in url.upper():
+                          continue
 
-                          if "🚫" in title:
-                              continue
+                      blacklist = [
+                          "MLB",
+                          "CRICKET",
+                          "IPL",
+                          "T20",
+                          "BASEBALL"
+                      ]
 
-                          if "BANNER" in url.upper():
-                              continue
+                      if any(x in title for x in blacklist):
+                          continue
 
-                          # Skip MLB / Cricket
-                          blacklist = [
-                              "MLB",
-                              "CRICKET",
-                              "IPL",
-                              "T20",
-                              "BASEBALL"
-                          ]
+                      row = re.sub(
+                          r'group-title="[^"]*"',
+                          'group-title="Group Alternatif HD"',
+                          line
+                      )
 
-                          if any(x in title for x in blacklist):
-                              continue
+                      wc2026.append(
+                          row + "\n" + url
+                      )
 
-                          row = re.sub(
-                              r'group-title="[^"]*"',
-                              'group-title="Group Alternatif HD"',
-                              line
-                          )
+          except Exception as e:
+              print(e)
 
-                          wc2026.append(
-                              row + "\n" + url
-                          )
+      # ==========================
+      # WRITE IPTV
+      # ==========================
 
-              except Exception as e:
-                  print(e)
+      text = text.rstrip()
 
-          # ==========================
-          # WRITE
-          # ==========================
+      text += (
+          "\n\n# --- BEGIN DOMS EVENT ---\n"
+          + doms.strip()
+          + "\n# --- END DOMS EVENT ---"
+      )
 
-          text = text.rstrip()
+      text += (
+          "\n\n# --- BEGIN ALTERNATIF HD ---\n"
+          + "\n\n".join(wc2026)
+          + "\n# --- END ALTERNATIF HD ---\n"
+      )
 
-          text += (
-              "\n\n# --- BEGIN DOMS EVENT ---\n"
-              + doms.strip()
-              + "\n# --- END DOMS EVENT ---"
+      IPTV.write_text(
+          text,
+          encoding="utf-8"
+      )
+
+      # ==========================
+      # GENERATE CHANNELS JSON
+      # ==========================
+
+      channels = {}
+
+      lines = text.splitlines()
+
+      for i, line in enumerate(lines):
+
+          line = line.strip()
+
+          if not line.startswith("#EXTINF"):
+              continue
+
+          if i + 1 >= len(lines):
+              continue
+
+          stream = lines[i + 1].strip()
+
+          logo_match = re.search(
+              r'tvg-logo="([^"]*)"',
+              line
           )
 
-          text += (
-              "\n\n# --- BEGIN ALTERNATIF HD ---\n"
-              + "\n\n".join(wc2026)
-              + "\n# --- END ALTERNATIF HD ---\n"
+          group_match = re.search(
+              r'group-title="([^"]*)"',
+              line
           )
 
-          IPTV.write_text(
-              text,
-              encoding="utf-8"
+          logo = (
+              logo_match.group(1)
+              if logo_match else ""
           )
 
-          PY
+          group = (
+              group_match.group(1)
+              if group_match else "Unknown"
+          )
 
-      - name: Commit Changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          name = line.split(",")[-1].strip()
 
-          git add IPtv
+          item = {
+              "name": name,
+              "logo": logo,
+              "stream": stream
+          }
 
-          if git diff --cached --quiet; then
-            echo "No changes"
-            exit 0
-          fi
+          channels.setdefault(
+              group,
+              []
+          ).append(item)
 
-          git commit -m "Auto sync IPTV"
-          git push
+      Path("channels.json").write_text(
+          json.dumps(
+              channels,
+              indent=2,
+              ensure_ascii=False
+          ),
+          encoding="utf-8"
+      )
+
+      print("channels.json generated")
+
+      PY
+
+  - name: Commit Changes
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      git add IPtv channels.json
+
+      if git diff --cached --quiet; then
+        echo "No changes"
+        exit 0
+      fi
+
+      git commit -m "Auto sync IPTV & channels.json"
+      git push
+```
