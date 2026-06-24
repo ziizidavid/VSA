@@ -784,19 +784,7 @@
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup 2026] Bosnia-herzegovina vs Qatar (FSPRTS)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup 2026] Morocco vs Haiti (FSPRTS)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup 2026] Switzerland vs Canada (FSPRTS)",
+      "name": "[FIFA World Cup 2026] Scotland vs Brazil (FSPRTS)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
@@ -865,12 +853,6 @@
       "name": "[FIFA World Cup] Bulgarian Feed (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=fq0wnvxdtq",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Canada vs Switzerland (CDNTV)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -976,6 +958,24 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIFA World Cup] Morocco vs Haiti (STRMHUB)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=n8ilhjbzdh",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Morocco vs Haiti (WATCHFTY)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/760464/morocco-haiti/easy/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Morocco vs Haiti (iSTRMEAST)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52473?ad=111",
+      "group": "Group Event"
+    },
+    {
       "name": "[FIFA World Cup] Morocco vs Haiti 1 (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1006,15 +1006,21 @@
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup] Qatar vs Bosnia-Herzegovina (CDNTV)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
       "name": "[FIFA World Cup] Scotland vs Brazil (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Scotland vs Brazil (WATCHFTY)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/760465/scotland-brazil/easy/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Scotland vs Brazil (iSTRMEAST)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52474?ad=111",
       "group": "Group Event"
     },
     {
@@ -1348,9 +1354,15 @@
       "group": "Group Event"
     },
     {
-      "name": "[Lithuania Cup] Dainava Alytus vs Transinvest (FAWA)",
+      "name": "[Live Event] Brazil vs Scotalnd (OVO)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "stream": "#EXTVLCOPT:http-referrer=https://soccerball.st/rampages/unoair1/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Live Event] Haiti vs Morocco (OVO)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://soccerball.st/rampages/unoair2/",
       "group": "Group Event"
     },
     {
@@ -1379,12 +1391,6 @@
     },
     {
       "name": "[MLB Baseball] Los Angeles Angels vs Baltimore Orioles (FAWA)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB Baseball] Miami Marlins vs Texas Rangers (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1504,12 +1510,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Boston Red Sox vs Colorado Rockies (MP66)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://mlb24all.ir",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Boston Red Sox vs Colorado Rockies (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
@@ -1564,12 +1564,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Colorado Rockies - Boston Red Sox (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Colorado Rockies vs Boston Red Sox (WATCHFTY)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401815893/colorado-rockies-boston-red-sox/regular/1?player=clappr&autoplay=true",
@@ -1585,6 +1579,12 @@
       "name": "[MLB] Cubs vs Mets (WEBCAST)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://mlbwebcast.com",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Detroit Tigers - New York Yankees (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
     },
     {
@@ -1621,6 +1621,12 @@
       "name": "[MLB] Los Angeles Angels - Baltimore Orioles (EMBEDHD)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Los Angeles Angels vs Baltimore Orioles (WATCHFTY)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4555641/los-angeles-angels-baltimore-orioles/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -1672,6 +1678,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[MLB] Pittsburgh Pirates - Seattle Mariners (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
       "name": "[MLB] Rangers vs Marlins (WEBCAST)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://mlbwebcast.com",
@@ -1696,9 +1708,21 @@
       "group": "Group Event"
     },
     {
+      "name": "[MLB] Tampa Bay Rays - Kansas City Royals (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
       "name": "[MLB] Texas Rangers vs Miami Marlins (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Washington Nationals - Philadelphia Phillies (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
     },
     {
@@ -1732,21 +1756,27 @@
       "group": "Group Event"
     },
     {
-      "name": "Group Stage (SPRTSPASS)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportspass.cfd/soccer/qatar.html",
-      "group": "Group Event"
-    },
-    {
       "name": "[Soccer] Mexico vs Czech (ROXIE)",
       "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
       "group": "Group Event"
     },
     {
+      "name": "Group Stage (SPRTSPASS)",
+      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportspass.cfd/soccer/morocco.html",
+      "group": "Group Event"
+    },
+    {
       "name": "[Soccer] Scotland vs Brazil (ROXIE)",
       "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
+      "group": "Group Event"
+    },
+    {
+      "name": "Group Stage (SPRTSPASS)",
+      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportspass.cfd/soccer/fifa2026.html",
       "group": "Group Event"
     },
     {
@@ -1774,61 +1804,7 @@
       "group": "Group Event"
     },
     {
-      "name": "[Sweden Division 1] Karlbergs vs Pitea (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Sweden Women Allsvenskan] AIK W vs Eskilstuna Utd W (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Sweden Women Allsvenskan] Norrkoping W vs Vittsjo W (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Sweden Women Allsvenskan] Uppsala W vs Hacken W (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Sweden Women Allsvenskan] Vaxjo DFF W vs IF Brommapojkarna W (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Volleyball Nations League] France vs Iran (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Volleyball Nations League] France vs Iran (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4668188/france-iran/regular/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
       "name": "[Volleyball Nations League] Poland vs Belgium (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Volleyball Nations League] Poland vs Belgium (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4668130/poland-belgium/regular/2?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Volleyball Nations League] Slovenia vs Canada (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1842,25 +1818,25 @@
   ],
   "Unknown": [
     {
-      "name": "#EXTINF:-1 tvg-chno=\"74\" tvg-id=\"Soccer.Dummy.us\" tvg-name=\"[Futbol] Copa del Mundo: Marruecos vs Haití",
+      "name": "#EXTINF:-1 tvg-chno=\"75\" tvg-id=\"Soccer.Dummy.us\" tvg-name=\"[Futbol] Copa del Mundo: Marruecos vs Haití",
       "logo": "",
       "stream": "| ESPAÑOL 1 (PLIBRE)\" tvg-logo=\"https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png\" group-title=\"Group Event\",[Futbol] Copa del Mundo: Marruecos vs Haití",
       "group": "Unknown"
     },
     {
-      "name": "#EXTINF:-1 tvg-chno=\"75\" tvg-id=\"Soccer.Dummy.us\" tvg-name=\"[Futbol] Copa del Mundo: Marruecos vs Haití",
+      "name": "#EXTINF:-1 tvg-chno=\"76\" tvg-id=\"Soccer.Dummy.us\" tvg-name=\"[Futbol] Copa del Mundo: Marruecos vs Haití",
       "logo": "",
       "stream": "| ESPAÑOL 2 (PLIBRE)\" tvg-logo=\"https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png\" group-title=\"Group Event\",[Futbol] Copa del Mundo: Marruecos vs Haití",
       "group": "Unknown"
     },
     {
-      "name": "#EXTINF:-1 tvg-chno=\"76\" tvg-id=\"Soccer.Dummy.us\" tvg-name=\"[Futbol] Copa del Mundo: Marruecos vs Haití",
+      "name": "#EXTINF:-1 tvg-chno=\"77\" tvg-id=\"Soccer.Dummy.us\" tvg-name=\"[Futbol] Copa del Mundo: Marruecos vs Haití",
       "logo": "",
       "stream": "| ESPAÑOL 3 (PLIBRE)\" tvg-logo=\"https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png\" group-title=\"Group Event\",[Futbol] Copa del Mundo: Marruecos vs Haití",
       "group": "Unknown"
     },
     {
-      "name": "#EXTINF:-1 tvg-chno=\"77\" tvg-id=\"Soccer.Dummy.us\" tvg-name=\"[Futbol] Copa del Mundo: Marruecos vs Haití",
+      "name": "#EXTINF:-1 tvg-chno=\"78\" tvg-id=\"Soccer.Dummy.us\" tvg-name=\"[Futbol] Copa del Mundo: Marruecos vs Haití",
       "logo": "",
       "stream": "| INGLÉS 1 (PLIBRE)\" tvg-logo=\"https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png\" group-title=\"Group Event\",[Futbol] Copa del Mundo: Marruecos vs Haití",
       "group": "Unknown"
