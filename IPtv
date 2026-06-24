@@ -1,4 +1,34 @@
 #EXTM3U
+[
+  {
+    "name": "WC Channel 1",
+    "embed": "https://xyzstreams.shop/wc-1-embed.html"
+  },
+  {
+    "name": "WC Channel 2",
+    "embed": "https://xyzstreams.shop/wc-2-embed.html"
+  },
+  {
+    "name": "WC Channel 3",
+    "embed": "https://xyzstreams.shop/wc-3-embed.html"
+  },
+  {
+    "name": "WC Channel 4",
+    "embed": "https://xyzstreams.shop/wc-4-embed.html"
+  },
+  {
+    "name": "WC Channel 5",
+    "embed": "https://xyzstreams.shop/wc-5-embed.html"
+  },
+  {
+    "name": "WC Channel 6",
+    "embed": "https://xyzstreams.shop/wc-6-embed.html"
+  },
+  {
+    "name": "WC Channel 7",
+    "embed": "https://xyzstreams.shop/wc-7-embed.html"
+  }
+]
 
 #EXTINF:-1 tvg-name="Football World Cup 2026 4K VPN" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",Football World Cup 2026 4K VPN
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
