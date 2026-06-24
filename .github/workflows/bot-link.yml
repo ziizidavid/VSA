@@ -11,6 +11,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,8 +28,8 @@ jobs:
         run: |
           python3 << 'PY'
           from pathlib import Path
-          import re
           import json
+          import re
 
           IPTV = Path("IPtv")
 
@@ -62,7 +63,9 @@ jobs:
           doms = ""
 
           if Path("events.m3u8").exists():
+
               try:
+
                   doms = Path(
                       "events.m3u8"
                   ).read_text(
@@ -113,15 +116,6 @@ jobs:
                           url = lines[i + 1].strip()
 
                           title = line.upper()
-
-                          if "INFO & UPDATE" in title:
-                              continue
-
-                          if "🚫" in title:
-                              continue
-
-                          if "BANNER" in url.upper():
-                              continue
 
                           blacklist = [
                               "MLB",
@@ -216,16 +210,57 @@ jobs:
                   []
               ).append(item)
 
-          Path("channels.json").write_text(
+          # ==========================
+          # MERGE embed.json
+          # ==========================
+
+          embed_file = Path("embed.json")
+
+          if embed_file.exists():
+
+              try:
+
+                  embeds = json.loads(
+                      embed_file.read_text(
+                          encoding="utf-8"
+                      )
+                  )
+
+                  for group, items in embeds.items():
+
+                      channels.setdefault(
+                          group,
+                          []
+                      )
+
+                      channels[group] = (
+                          items +
+                          channels[group]
+                      )
+
+                  print(
+                      "embed.json merged"
+                  )
+
+              except Exception as e:
+                  print(e)
+
+          Path(
+              "channels.json"
+          ).write_text(
+
               json.dumps(
                   channels,
                   indent=2,
                   ensure_ascii=False
               ),
+
               encoding="utf-8"
           )
 
-          print("channels.json generated")
+          print(
+              "channels.json generated"
+          )
 
           PY
 
@@ -241,5 +276,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Auto sync IPTV & channels.json"
+          git commit -m "Auto sync IPTV"
           git push
