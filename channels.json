@@ -1,10 +1,40 @@
 {
   "Group Viva": [
     {
-      "name": "Football temp",
-      "logo": "https://i.postimg.cc/661Rm2z8/image.png",
-      "stream": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master_1440.m3u8",
-      "group": "Group Viva"
+      "name": "World Cup Channel 1",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-1-embed.html"
+    },
+    {
+      "name": "World Cup Channel 2",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-2-embed.html"
+    },
+    {
+      "name": "World Cup Channel 3",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-3-embed.html"
+    },
+    {
+      "name": "World Cup Channel 4",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-4-embed.html"
+    },
+    {
+      "name": "World Cup Channel 5",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-5-embed.html"
+    },
+    {
+      "name": "World Cup Channel 6",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-6-embed.html"
+    },
+    {
+      "name": "World Cup Channel 7",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-7-embed.html"
+    }
     },
     {
       "name": "Football World Cup 2026 4K VPN",
