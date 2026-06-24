@@ -1,248 +1,245 @@
 name: Sync IPTV
 
 on:
-schedule:
-- cron: "*/30 * * * *"
-workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-sync:
-runs-on: ubuntu-latest
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-```
-steps:
-  - name: Checkout
-    uses: actions/checkout@v4
+      - name: Download DOMS
+        run: |
+          curl -fsSL "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8" -o events.m3u8 || true
 
-  - name: Download DOMS
-    run: |
-      curl -fsSL "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8" -o events.m3u8 || true
+      - name: Download WORLD CUP HD
+        run: |
+          curl -fsSL "https://raw.githubusercontent.com/HeruAje23/IPTV-VOUCHER/refs/heads/master/IPTV2026.m3u" -o wc2026.m3u || true
 
-  - name: Download WORLD CUP HD
-    run: |
-      curl -fsSL "https://raw.githubusercontent.com/HeruAje23/IPTV-VOUCHER/refs/heads/master/IPTV2026.m3u" -o wc2026.m3u || true
+      - name: Build IPTV & JSON
+        run: |
+          python3 << 'PY'
+          from pathlib import Path
+          import re
+          import json
 
-  - name: Build IPTV & JSON
-    run: |
-      python3 << 'PY'
-      from pathlib import Path
-      import re
-      import json
+          IPTV = Path("IPtv")
 
-      IPTV = Path("IPtv")
+          if not IPTV.exists():
+              IPTV.write_text("#EXTM3U\n", encoding="utf-8")
 
-      if not IPTV.exists():
-          IPTV.write_text("#EXTM3U\n", encoding="utf-8")
-
-      text = IPTV.read_text(
-          encoding="utf-8",
-          errors="ignore"
-      )
-
-      blocks = [
-          (
-              "# --- BEGIN DOMS EVENT ---",
-              "# --- END DOMS EVENT ---"
-          ),
-          (
-              "# --- BEGIN ALTERNATIF HD ---",
-              "# --- END ALTERNATIF HD ---"
+          text = IPTV.read_text(
+              encoding="utf-8",
+              errors="ignore"
           )
-      ]
 
-      for begin, end in blocks:
-          text = re.sub(
-              rf"\n?{re.escape(begin)}.*?{re.escape(end)}",
-              "",
+          blocks = [
+              (
+                  "# --- BEGIN DOMS EVENT ---",
+                  "# --- END DOMS EVENT ---"
+              ),
+              (
+                  "# --- BEGIN ALTERNATIF HD ---",
+                  "# --- END ALTERNATIF HD ---"
+              )
+          ]
+
+          for begin, end in blocks:
+              text = re.sub(
+                  rf"\n?{re.escape(begin)}.*?{re.escape(end)}",
+                  "",
+                  text,
+                  flags=re.S
+              )
+
+          doms = ""
+
+          if Path("events.m3u8").exists():
+              try:
+                  doms = Path(
+                      "events.m3u8"
+                  ).read_text(
+                      encoding="utf-8",
+                      errors="ignore"
+                  )
+
+                  doms = doms.replace(
+                      "#EXTM3U",
+                      ""
+                  )
+
+                  doms = re.sub(
+                      r'group-title="[^"]*"',
+                      'group-title="Group Event"',
+                      doms
+                  )
+
+              except Exception as e:
+                  print(e)
+
+          wc2026 = []
+
+          if Path("wc2026.m3u").exists():
+
+              try:
+
+                  lines = Path(
+                      "wc2026.m3u"
+                  ).read_text(
+                      encoding="utf-8",
+                      errors="ignore"
+                  ).splitlines()
+
+                  inside = False
+
+                  for i, line in enumerate(lines):
+
+                      if "#WORLD CUP 2026#" in line.upper():
+                          inside = True
+                          continue
+
+                      if inside and line.startswith("#EXTINF"):
+
+                          if i + 1 >= len(lines):
+                              continue
+
+                          url = lines[i + 1].strip()
+
+                          title = line.upper()
+
+                          if "INFO & UPDATE" in title:
+                              continue
+
+                          if "🚫" in title:
+                              continue
+
+                          if "BANNER" in url.upper():
+                              continue
+
+                          blacklist = [
+                              "MLB",
+                              "CRICKET",
+                              "IPL",
+                              "T20",
+                              "BASEBALL"
+                          ]
+
+                          if any(x in title for x in blacklist):
+                              continue
+
+                          row = re.sub(
+                              r'group-title="[^"]*"',
+                              'group-title="Group Alternatif HD"',
+                              line
+                          )
+
+                          wc2026.append(
+                              row + "\n" + url
+                          )
+
+              except Exception as e:
+                  print(e)
+
+          text = text.rstrip()
+
+          text += (
+              "\n\n# --- BEGIN DOMS EVENT ---\n"
+              + doms.strip()
+              + "\n# --- END DOMS EVENT ---"
+          )
+
+          text += (
+              "\n\n# --- BEGIN ALTERNATIF HD ---\n"
+              + "\n\n".join(wc2026)
+              + "\n# --- END ALTERNATIF HD ---\n"
+          )
+
+          IPTV.write_text(
               text,
-              flags=re.S
+              encoding="utf-8"
           )
 
-      doms = ""
+          channels = {}
 
-      if Path("events.m3u8").exists():
-          try:
-              doms = Path(
-                  "events.m3u8"
-              ).read_text(
-                  encoding="utf-8",
-                  errors="ignore"
+          lines = text.splitlines()
+
+          for i, line in enumerate(lines):
+
+              line = line.strip()
+
+              if not line.startswith("#EXTINF"):
+                  continue
+
+              if i + 1 >= len(lines):
+                  continue
+
+              stream = lines[i + 1].strip()
+
+              logo_match = re.search(
+                  r'tvg-logo="([^"]*)"',
+                  line
               )
 
-              doms = doms.replace(
-                  "#EXTM3U",
-                  ""
+              group_match = re.search(
+                  r'group-title="([^"]*)"',
+                  line
               )
 
-              doms = re.sub(
-                  r'group-title="[^"]*"',
-                  'group-title="Group Event"',
-                  doms
+              logo = (
+                  logo_match.group(1)
+                  if logo_match else ""
               )
 
-          except Exception as e:
-              print(e)
+              group = (
+                  group_match.group(1)
+                  if group_match else "Unknown"
+              )
 
-      wc2026 = []
+              name = line.split(",")[-1].strip()
 
-      if Path("wc2026.m3u").exists():
+              item = {
+                  "name": name,
+                  "logo": logo,
+                  "stream": stream,
+                  "group": group
+              }
 
-          try:
+              channels.setdefault(
+                  group,
+                  []
+              ).append(item)
 
-              lines = Path(
-                  "wc2026.m3u"
-              ).read_text(
-                  encoding="utf-8",
-                  errors="ignore"
-              ).splitlines()
-
-              inside = False
-
-              for i, line in enumerate(lines):
-
-                  if "#WORLD CUP 2026#" in line.upper():
-                      inside = True
-                      continue
-
-                  if inside and line.startswith("#EXTINF"):
-
-                      if i + 1 >= len(lines):
-                          continue
-
-                      url = lines[i + 1].strip()
-
-                      title = line.upper()
-
-                      if "INFO & UPDATE" in title:
-                          continue
-
-                      if "🚫" in title:
-                          continue
-
-                      if "BANNER" in url.upper():
-                          continue
-
-                      blacklist = [
-                          "MLB",
-                          "CRICKET",
-                          "IPL",
-                          "T20",
-                          "BASEBALL"
-                      ]
-
-                      if any(x in title for x in blacklist):
-                          continue
-
-                      row = re.sub(
-                          r'group-title="[^"]*"',
-                          'group-title="Group Alternatif HD"',
-                          line
-                      )
-
-                      wc2026.append(
-                          row + "\n" + url
-                      )
-
-          except Exception as e:
-              print(e)
-
-      text = text.rstrip()
-
-      text += (
-          "\n\n# --- BEGIN DOMS EVENT ---\n"
-          + doms.strip()
-          + "\n# --- END DOMS EVENT ---"
-      )
-
-      text += (
-          "\n\n# --- BEGIN ALTERNATIF HD ---\n"
-          + "\n\n".join(wc2026)
-          + "\n# --- END ALTERNATIF HD ---\n"
-      )
-
-      IPTV.write_text(
-          text,
-          encoding="utf-8"
-      )
-
-      channels = {}
-
-      lines = text.splitlines()
-
-      for i, line in enumerate(lines):
-
-          line = line.strip()
-
-          if not line.startswith("#EXTINF"):
-              continue
-
-          if i + 1 >= len(lines):
-              continue
-
-          stream = lines[i + 1].strip()
-
-          logo_match = re.search(
-              r'tvg-logo="([^"]*)"',
-              line
+          Path("channels.json").write_text(
+              json.dumps(
+                  channels,
+                  indent=2,
+                  ensure_ascii=False
+              ),
+              encoding="utf-8"
           )
 
-          group_match = re.search(
-              r'group-title="([^"]*)"',
-              line
-          )
+          print("channels.json generated")
 
-          logo = (
-              logo_match.group(1)
-              if logo_match else ""
-          )
+          PY
 
-          group = (
-              group_match.group(1)
-              if group_match else "Unknown"
-          )
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          name = line.split(",")[-1].strip()
+          git add IPtv channels.json
 
-          item = {
-              "name": name,
-              "logo": logo,
-              "stream": stream,
-              "group": group
-          }
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
 
-          channels.setdefault(
-              group,
-              []
-          ).append(item)
-
-      Path("channels.json").write_text(
-          json.dumps(
-              channels,
-              indent=2,
-              ensure_ascii=False
-          ),
-          encoding="utf-8"
-      )
-
-      print("channels.json generated")
-
-      PY
-
-  - name: Commit Changes
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      git add IPtv channels.json
-
-      if git diff --cached --quiet; then
-        echo "No changes"
-        exit 0
-      fi
-
-      git commit -m "Auto sync IPTV & channels.json"
-      git push
-```
+          git commit -m "Auto sync IPTV & channels.json"
+          git push
