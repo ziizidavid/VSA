@@ -1,6 +1,41 @@
 {
   "Group Viva": [
     {
+      "name": "WC Channel 1",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-1-embed.html"
+    },
+    {
+      "name": "WC Channel 2",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-2-embed.html"
+    },
+    {
+      "name": "WC Channel 3",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-3-embed.html"
+    },
+    {
+      "name": "WC Channel 4",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-4-embed.html"
+    },
+    {
+      "name": "WC Channel 5",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-5-embed.html"
+    },
+    {
+      "name": "WC Channel 6",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-6-embed.html"
+    },
+    {
+      "name": "WC Channel 7",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-7-embed.html"
+    },
+    {
       "name": "Football World Cup 2026 4K VPN",
       "logo": "https://i.postimg.cc/661Rm2z8/image.png",
       "stream": "http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8",
@@ -1682,6 +1717,12 @@
     }
   ],
   "Group Alternatif HD": [
+    {
+      "name": "🚫INFO & UPDATE🚫",
+      "logo": "",
+      "stream": "https://heruaje23.github.io/IPTV/BANNER/Banner.m3u8",
+      "group": "Group Alternatif HD"
+    },
     {
       "name": "STARHUB",
       "logo": "",

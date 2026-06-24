@@ -1453,6 +1453,9 @@ http://193.47.62.42/hls/STTTTQ.m3u8
 # --- END DOMS EVENT ---
 
 # --- BEGIN ALTERNATIF HD ---
+#EXTINF:-1 group-title="Group Alternatif HD", 🚫INFO & UPDATE🚫
+https://heruaje23.github.io/IPTV/BANNER/Banner.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Group Alternatif HD", STARHUB
 http://starhub.pro/live/farhat-3379/67897-913379/745149.ts
 
