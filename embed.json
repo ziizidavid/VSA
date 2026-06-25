@@ -1,39 +1,49 @@
 {
   "Group Viva": [
     {
-      "name": "WC Channel 1",
+      "name": "FOX ENG",
       "logo": "assets/logo.png",
       "embed": "https://xyzstreams.shop/wc-1-embed.html"
     },
     {
-      "name": "WC Channel 2",
+      "name": "(4K) FOX",
       "logo": "assets/logo.png",
       "embed": "https://xyzstreams.shop/wc-2-embed.html"
     },
     {
-      "name": "WC Channel 3",
+      "name": "BBC ENG",
       "logo": "assets/logo.png",
       "embed": "https://xyzstreams.shop/wc-3-embed.html"
     },
     {
-      "name": "WC Channel 4",
+      "name": "TSN CANADA",
       "logo": "assets/logo.png",
       "embed": "https://xyzstreams.shop/wc-4-embed.html"
     },
     {
-      "name": "WC Channel 5",
+      "name": "TSN CANADA",
       "logo": "assets/logo.png",
       "embed": "https://xyzstreams.shop/wc-5-embed.html"
     },
     {
-      "name": "WC Channel 6",
+      "name": "(4k TSN CANADA",
       "logo": "assets/logo.png",
       "embed": "https://xyzstreams.shop/wc-6-embed.html"
     },
     {
-      "name": "WC Channel 7",
+      "name": "Bein Max Arabic",
       "logo": "assets/logo.png",
       "embed": "https://xyzstreams.shop/wc-7-embed.html"
     }
+    {
+      "name": "(4K) Bein Max Arabic",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-8-embed.html"
+    },
+    {
+      "name": "TELEMUNDO MEX",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-9-embed.html"
+    },
   ]
 }
