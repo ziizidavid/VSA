@@ -259,6 +259,26 @@
       "group": "Group Viva"
     }
   ],
+  "FOX": [
+    {
+      "name": "FOX 1080p [No VPN]",
+      "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2025/05/13115423/Fox-One-Logo.jpg",
+      "stream": "#KODIPROP:inputstream=inputstream.adaptive",
+      "group": "FOX"
+    },
+    {
+      "name": "FOX 4K [No VPN]",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/250px-Fox_Broadcasting_Company_logo_%282019%29.svg.png",
+      "stream": "#KODIPROP:inputstream=inputstream.adaptive",
+      "group": "FOX"
+    },
+    {
+      "name": "FS1 [No VPN]",
+      "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2025/05/13115423/Fox-One-Logo.jpg",
+      "stream": "https://vizio.kuvuslov.cymru/fs1/tracks-v1a1/mono.m3u8",
+      "group": "FOX"
+    }
+  ],
   "FIFA 2026": [
     {
       "name": "UNITE8 SPORTS 1HD",
