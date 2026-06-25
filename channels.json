@@ -793,9 +793,15 @@
       "group": "Group Event"
     },
     {
-      "name": "[Basketball] Hapoel Tel Aviv vs Major league basketball: Maccabi Tel Aviv (CDNTV)",
-      "logo": "https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%2B%20HD%20IL&code=il&user=cdnlivetv&plan=free",
+      "name": "[Botola Pro] US Touarga vs El Jadida (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4739958/us-touarga-el-jadida/regular/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Botola Pro] Wydad Casablanca vs MAS Fes (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5793747/wydad-casablanca-mas-fes/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -823,9 +829,9 @@
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup] Arabic Feed (XYZSTRM)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://xyzstreams.shop",
+      "name": "[English Rugby Super League] Warrington vs Catalans Dragons (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -835,21 +841,51 @@
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup] English Feed 1 (XYZSTRM)",
+      "name": "[FIFA World Cup] Curacao vs Ivory Coast (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://xyzstreams.shop",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup] English Feed 2 (XYZSTRM)",
+      "name": "[FIFA World Cup] Curacao vs Ivory Coast 1 (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://xyzstreams.shop",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup] English Feed 3 (XYZSTRM)",
+      "name": "[FIFA World Cup] Curacao vs Ivory Coast HD (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://xyzstreams.shop",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Curacao vs Ivory CoastILI (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Côte d'Ivoire vs Curaçao (CDNTV)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20FHD%20UK&code=gb&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Ecuador vs Germany (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Ecuador vs Germany 1 (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Ecuador vs Germany HD (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -871,12 +907,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup] Spanish Feed (XYZSTRM)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://xyzstreams.shop",
-      "group": "Group Event"
-    },
-    {
       "name": "[FIFA World Cup] Sweden vs Japan (STRMSGATE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC3",
@@ -889,9 +919,21 @@
       "group": "Group Event"
     },
     {
-      "name": "[FIVB Volleyball Mens Nations League] USA Volleyball vs Iran Volleyball (CDNTV)",
+      "name": "[FIVB Volleyball Mens Nations League] Bulgaria Volleyball vs Slovenia Volleyball (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIVB Volleyball Mens Nations League] Cuba Volleyball vs France Volleyball (CDNTV)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIVB Volleyball Mens Nations League] Turkey Volleyball vs Poland Volleyball (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -1255,13 +1297,25 @@
       "group": "Group Event"
     },
     {
-      "name": "[Latvia Virsliga] BFC Daugavpils vs Riga FC (FAWA)",
+      "name": "[Iceland League] Breidablik vs Vikingur Reykjavik (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[Latvia Virsliga] Grobina vs Auda (FAWA)",
+      "name": "[KORN FERRY TOUR: Memorial Health Championship (USA)] KORN FERRY TOUR: Memorial Health Championship (USA) (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/23_QNGcQnoL/pga-tour-travelers-championship-usa/prime/4?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[LPGA TOUR: KPMG Women's PGA Championship (USA)] LPGA TOUR: KPMG Women's PGA Championship (USA) (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/23_6V9GvRrH/pga-tour-travelers-championship-usa/prime/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Latvia Virsliga] BFC Daugavpils vs Riga FC (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1273,7 +1327,19 @@
       "group": "Group Event"
     },
     {
+      "name": "[Liga SportZone] Benfica vs Sporting (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2011%20PT&code=pt&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[MLB Baseball] Pittsburgh Pirates vs Seattle Mariners (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB Baseball] San Francisco Giants vs Athletics (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1447,6 +1513,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[Mens FIH Pro League] Spain Hockey vs Germany Hockey (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Magenta%20Sport%20FHD%20DE&code=&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[Morocco Botola Pro] Berkane vs FAR Rabat (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1549,12 +1621,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Speedway: Metalkas 2. Ekstraliga] H. Skrzydlewska Orzeł Łódź vs INNPRO ROW Rybnik (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%205%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
       "name": "[Sweden Women Allsvenskan] Pitea W vs Hammarby W (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1585,7 +1651,7 @@
       "group": "Group Event"
     },
     {
-      "name": "[Volleyball Nations League] China vs Belgium (FAWA)",
+      "name": "[Volleyball Nations League] France vs Cuba (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1597,9 +1663,21 @@
       "group": "Group Event"
     },
     {
-      "name": "[Volleyball Nations League] Ukraine vs Italy (FAWA)",
+      "name": "[Volleyball Nations League] Poland vs Turkey (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Volleyball Nations League] Slovenia vs Bulgaria (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Volleyball Nations League] Slovenia vs Bulgaria (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4668107/slovenia-bulgaria/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
