@@ -25,27 +25,9 @@
       "group": "Group Viva"
     },
     {
-      "name": "Fx 4k (1-30minutes Before play)",
+      "name": "FOX HD",
       "logo": "https://i.postimg.cc/661Rm2z8/image.png",
-      "stream": "https://inproviszon.st/fox4k.m3u8",
-      "group": "Group Viva"
-    },
-    {
-      "name": "TSN 4 (1-30minutes Before play)",
-      "logo": "https://i.postimg.cc/661Rm2z8/image.png",
-      "stream": "https://inproviszon.st/tsn4k.m3u8",
-      "group": "Group Viva"
-    },
-    {
-      "name": "Bein 4k (1-30minutes Before play)",
-      "logo": "https://i.postimg.cc/661Rm2z8/image.png",
-      "stream": "https://inproviszon.st/bein4k.m3u8",
-      "group": "Group Viva"
-    },
-    {
-      "name": "TELEMUNDO",
-      "logo": "https://i.postimg.cc/661Rm2z8/image.png",
-      "stream": "https://inproviszon.st/telemundo-1.m3u8",
+      "stream": "https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8",
       "group": "Group Viva"
     },
     {
