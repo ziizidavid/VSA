@@ -8,14 +8,8 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-name="FWC FOx 4k" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",FWC FOx 4k
 https://fifaworldcup.cfd/api/stream?q=4k
-#EXTINF:-1 tvg-name="FX4k (1-30minutes Before play)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",Fx 4k (1-30minutes Before play)
-https://inproviszon.st/fox4k.m3u8
-#EXTINF:-1 tvg-name="TSN 4 (1-30minutes Before play)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",TSN 4 (1-30minutes Before play)
-https://inproviszon.st/tsn4k.m3u8
-#EXTINF:-1 tvg-name="Bein 4k (1-30minutes Before play)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",Bein 4k (1-30minutes Before play)
-https://inproviszon.st/bein4k.m3u8
-#EXTINF:-1 tvg-name="TELEMUNDO" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",TELEMUNDO
-https://inproviszon.st/telemundo-1.m3u8
+#EXTINF:-1 tvg-name="FOX HD" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",FOX HD
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="Group Viva",BBC One
 http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:-1 group-title="Group Viva" tvg-logo="https://imgs.search.brave.com/jh0j6c_UNEDcCd9_p2xQeqzIN32FlPM_spAOifh-nvs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXBhcmF0Y2hpLmNv/bS9pbWFnZXMvY2hh/bmVsbHMtbG9nby9p/cmliL2lyaWItZmFy/YXRhci5zdmc",FARATAR 4k IRAN
