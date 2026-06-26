@@ -841,7 +841,19 @@
       "group": "Group Event"
     },
     {
-      "name": "[Belarus Vysshaya Liga] Baranovici vs Slavia Mozyr (FAWA)",
+      "name": "[Boxing] McCrory vs Budera (iSTRMEAST)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52554?ad=111",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Brazil Serie B] Novorizontino vs Vila Nova FC (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Canada Premier League] HFX Wanderers vs Pacific FC (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -853,33 +865,63 @@
       "group": "Group Event"
     },
     {
-      "name": "[Cricket T20] Ireland vs India (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[Cricket Test Series] England vs New Zealand (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[FIA Formula 2] FIA Formula 2 Austria (FAWA)",
+      "name": "[Darts] Darts World Series US (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[FIA Formula 3] FIA Formula 3 Austria (FAWA)",
+      "name": "[English Rugby Super League] Castleford vs York RLFC (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[English Rugby Super League] Leeds vs Hull KR (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Ettan Norra] Assyriska FF vs Vasalunds IF (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5127516/assyriska-ff-vasalunds-if/regular/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup 2026] Norway vs France (FSPRTS)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup 2026] Senegal vs Iraq (FSPRTS)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
     },
     {
       "name": "[FIFA World Cup] Arabic Feed (XYZSTRM)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://xyzstreams.st",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Arabic Feed 1 (STRMCNTR)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Arabic Feed 2 (STRMCNTR)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
       "group": "Group Event"
     },
     {
@@ -895,6 +937,168 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIFA World Cup] Copa del Mundo:  Senegal vs Iraq | ESPAÑOL 1 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=dsports2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo:  Senegal vs Iraq | ESPAÑOL 2 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=universo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo:  Senegal vs Iraq | INGLÉS 1 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=foxsports1_usa",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Egipto vs Irán | ESPAÑOL 1 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=dsportsplus",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Egipto vs Irán | ESPAÑOL 2 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=tycsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Egipto vs Irán | ESPAÑOL 3 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=universo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Egipto vs Irán | INGLÉS 1 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=foxsports1_usa",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Islas de Cabo Verde vs Arabia Saudita | ESPAÑOL 1 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=dsports2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Islas de Cabo Verde vs Arabia Saudita | ESPAÑOL 2 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=universo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Islas de Cabo Verde vs Arabia Saudita | INGLÉS 1 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=foxsports1_usa",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Islas de Cabo Verde vs Arabia Saudita | PORTUGUÉS 1 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=sportv2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Noruega vs Francia | ESPAÑOL 1 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=vtvplus",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Noruega vs Francia | ESPAÑOL 2 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=disney1",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Noruega vs Francia | ESPAÑOL 3 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=tycsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Noruega vs Francia | ESPAÑOL 4 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=telemundo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Noruega vs Francia | ESPAÑOL 5 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=americatv",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Noruega vs Francia | ESPAÑOL 6 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=winsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Nueva Zelanda vs Bélgica | ESPAÑOL 1 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=dsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Nueva Zelanda vs Bélgica | ESPAÑOL 2 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=vtvplus",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Nueva Zelanda vs Bélgica | ESPAÑOL 3 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=telemundo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Uruguay vs España | ESPAÑOL 1 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=dsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Uruguay vs España | ESPAÑOL 2 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=disney2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Uruguay vs España | ESPAÑOL 3 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=vtvplus",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Uruguay vs España | ESPAÑOL 4 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=americatv",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Uruguay vs España | ESPAÑOL 5 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=tycsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Uruguay vs España | ESPAÑOL 6 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=caracol",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Copa del Mundo: Uruguay vs España | ESPAÑOL 7 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=telemundo",
+      "group": "Group Event"
+    },
+    {
       "name": "[FIFA World Cup] Croatian Feed (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=hcicvcycw2",
@@ -907,6 +1111,30 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIFA World Cup] Egipto vs Irán | ESPAÑOL 1 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=dsportsplus",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Egipto vs Irán | ESPAÑOL 2 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=vix1",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Egipto vs Irán | ESPAÑOL 3 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global1.php?stream=tycsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] English Feed 1 (STRMCNTR)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
+      "group": "Group Event"
+    },
+    {
       "name": "[FIFA World Cup] English Feed 1 (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y",
@@ -916,6 +1144,12 @@
       "name": "[FIFA World Cup] English Feed 1 (XYZSTRM)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://xyzstreams.st",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] English Feed 2 (STRMCNTR)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
       "group": "Group Event"
     },
     {
@@ -940,6 +1174,12 @@
       "name": "[FIFA World Cup] English Feed 3 (XYZSTRM)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://xyzstreams.st",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] France vs Norway (CDNTV)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -973,15 +1213,99 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIFA World Cup] Iraq vs Senegal (CDNTV)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%204%20FHD%20UK&code=gb&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[FIFA World Cup] Iraq vs Senegal (STRMSGATE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC3",
       "group": "Group Event"
     },
     {
+      "name": "[FIFA World Cup] Islas de Cabo Verde vs Arabia Saudita  | ESPAÑOL 1 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=dsports2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Islas de Cabo Verde vs Arabia Saudita  | ESPAÑOL 2 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=vix3",
+      "group": "Group Event"
+    },
+    {
       "name": "[FIFA World Cup] Italian Feed (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=cgmcvhenrq",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Noruega vs Francia | ESPAÑOL 1 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=dsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Noruega vs Francia | ESPAÑOL 2 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=vix1",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Norway vs France (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Norway vs France (STRMHUB)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Norway vs France (WATCHFTY)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/760475/norway-france/easy/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Norway vs France (iSTRMEAST)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52548?ad=111",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Norway vs France 1 (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Norway vs France HD (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Norway vs FranceILI (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Nueva Zelanda vs Bélgica | ESPAÑOL 1 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=dsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Nueva Zelanda vs Bélgica | ESPAÑOL 2 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=vix2",
       "group": "Group Event"
     },
     {
@@ -1000,6 +1324,54 @@
       "name": "[FIFA World Cup] Saudi Arabia vs Cape Verde (STRMSGATE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC3",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Senegal vs Iraq (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Senegal vs Iraq (STRMHUB)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=pj2xunzfkx",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Senegal vs Iraq (WATCHFTY)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/760474/senegal-iraq/easy/2?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Senegal vs Iraq (iSTRMEAST)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52553?ad=111",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Senegal vs Iraq 1 (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Senegal vs Iraq HD (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Senegal vs Iraq | ESPAÑOL 1 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=dsports2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Senegal vs Iraq | ESPAÑOL 2 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=vix2",
       "group": "Group Event"
     },
     {
@@ -1051,21 +1423,45 @@
       "group": "Group Event"
     },
     {
-      "name": "[FIVB Volleyball Mens Nations League] Argentina Volleyball vs China Volleyball (CDNTV)",
+      "name": "[FIFA World Cup] Uruguay vs España | ESPAÑOL 1 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=dsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Uruguay vs España | ESPAÑOL 2 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=vix4",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Uruguay vs España | ESPAÑOL 3 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global1.php?stream=tycsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Uruguay vs España | ESPAÑOL 4 (STP)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global1.php?stream=disney2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIVB Volleyball Mens Nations League] Cuba Volleyball vs Serbia Volleyball (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIVB Volleyball Mens Nations League] Germany Volleyball vs Belgium Volleyball (CDNTV)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
-      "name": "[FIVB Volleyball Mens Nations League] Canada Volleyball vs Ukraine Volleyball (CDNTV)",
+      "name": "[FIVB Volleyball Mens Nations League] Italy Volleyball vs Brazil Volleyball (CDNTV)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIVB Volleyball Mens Nations League] Japan Volleyball vs Iran Volleyball (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -1075,21 +1471,27 @@
       "group": "Group Event"
     },
     {
+      "name": "[Field Hockey Pro League] Netherlands vs Australia (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Fifa World Cup] Norway - France (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Fifa World Cup] Senegal - Iraq (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
       "name": "[Fighting] WWE Smackdown (ROXIE)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Finland Ykkosliiga] Klubi 04 vs SJK Akatemia (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Finland Ykkosliiga] PK-35 vs Mikkeli (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1171,24 +1573,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Formula 1 GP] Formula 1 GP Austria (FAWA)",
-      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Formula 1] Austrian Grand Prix - Practice 2 (EMBEDHD)",
-      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Formula 1] Formula 1 - Practice 1 vs Formula 1 (STRMHUB)",
-      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=ht2gdxicpk",
-      "group": "Group Event"
-    },
-    {
       "name": "[Formula 1] Formula 1 - Practice 2 vs Formula 1 (STRMHUB)",
       "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=ht2gdxicpk",
@@ -1201,278 +1585,8 @@
       "group": "Group Event"
     },
     {
-      "name": "[Formula 1] Lenovo Austrian Grand Prix - FP2 (WATCHFTY)",
-      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401839074/lenovo-austrian-grand-prix/easy/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Friendly Match] Ried vs Austria Salzburg (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo:  Senegal vs Iraq | ESPAÑOL 1 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=dsports2",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo:  Senegal vs Iraq | ESPAÑOL 2 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=universo",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo:  Senegal vs Iraq | INGLÉS 1 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=foxsports1_usa",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Egipto vs Irán | ESPAÑOL 1 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=dsportsplus",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Egipto vs Irán | ESPAÑOL 2 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=tycsports",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Egipto vs Irán | ESPAÑOL 3 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=universo",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Egipto vs Irán | INGLÉS 1 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=foxsports1_usa",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Islas de Cabo Verde vs Arabia Saudita | ESPAÑOL 1 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=dsports2",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Islas de Cabo Verde vs Arabia Saudita | ESPAÑOL 2 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=universo",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Islas de Cabo Verde vs Arabia Saudita | INGLÉS 1 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=foxsports1_usa",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Islas de Cabo Verde vs Arabia Saudita | PORTUGUÉS 1 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=sportv2",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Noruega vs Francia | ESPAÑOL 1 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=vtvplus",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Noruega vs Francia | ESPAÑOL 2 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=disney1",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Noruega vs Francia | ESPAÑOL 3 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=tycsports",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Noruega vs Francia | ESPAÑOL 4 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=telemundo",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Noruega vs Francia | ESPAÑOL 5 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=americatv",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Noruega vs Francia | ESPAÑOL 6 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=winsports",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Nueva Zelanda vs Bélgica | ESPAÑOL 1 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=dsports",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Nueva Zelanda vs Bélgica | ESPAÑOL 2 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=vtvplus",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Nueva Zelanda vs Bélgica | ESPAÑOL 3 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=telemundo",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Uruguay vs España | ESPAÑOL 1 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=dsports",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Uruguay vs España | ESPAÑOL 2 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=disney2",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Uruguay vs España | ESPAÑOL 3 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=vtvplus",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Uruguay vs España | ESPAÑOL 4 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=americatv",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Uruguay vs España | ESPAÑOL 5 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=tycsports",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Uruguay vs España | ESPAÑOL 6 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=caracol",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Futbol] Copa del Mundo: Uruguay vs España | ESPAÑOL 7 (PLIBRE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://la18hd.com/vivo/canales.php?stream=telemundo",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Egipto vs Irán | ESPAÑOL 1 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=dsportsplus",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Egipto vs Irán | ESPAÑOL 2 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=vix1",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Egipto vs Irán | ESPAÑOL 3 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global1.php?stream=tycsports",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Islas de Cabo Verde vs Arabia Saudita  | ESPAÑOL 1 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=dsports2",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Islas de Cabo Verde vs Arabia Saudita  | ESPAÑOL 2 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=vix3",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Noruega vs Francia | ESPAÑOL 1 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=dsports",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Noruega vs Francia | ESPAÑOL 2 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=vix1",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Nueva Zelanda vs Bélgica | ESPAÑOL 1 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=dsports",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Nueva Zelanda vs Bélgica | ESPAÑOL 2 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=vix2",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Senegal vs Iraq | ESPAÑOL 1 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=dsports2",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Senegal vs Iraq | ESPAÑOL 2 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=vix2",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Uruguay vs España | ESPAÑOL 1 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=dsports",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Uruguay vs España | ESPAÑOL 2 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=vix4",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Uruguay vs España | ESPAÑOL 3 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global1.php?stream=tycsports",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Uruguay vs España | ESPAÑOL 4 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global1.php?stream=disney2",
-      "group": "Group Event"
-    },
-    {
       "name": "[Golf PGA] Golf PGA Travelers Championship (FAWA)",
       "logo": "https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Golf] Golf Open d'Italia (FAWA)",
-      "logo": "https://i.gyazo.com/14a883f22796f631e6f97c34dbeb6ada.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
@@ -1495,13 +1609,25 @@
       "group": "Group Event"
     },
     {
-      "name": "[Latvia Virsliga] FK Liepaja vs RFS (FAWA)",
+      "name": "[Ireland Premier Division] Bohemians vs St Patricks (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[Latvia Virsliga] Ogre United vs Tukums 2000 (FAWA)",
+      "name": "[Ireland Premier Division] Derry City vs Drogheda (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Ireland Premier Division] Dundalk vs Waterford (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Ireland Premier Division] Shamrock Rovers vs Galway (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1513,9 +1639,33 @@
       "group": "Group Event"
     },
     {
+      "name": "[Live Event] France vs Norwey (OVO)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://ziangel.st/rampages/unoair1/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Live Event] Iraq vs Senegal (OVO)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://ziangel.st/rampages/unoair2/",
+      "group": "Group Event"
+    },
+    {
       "name": "[Live Event] Motogp Netherlands Grand Prix vs Live (FSPRTS)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB Baseball] Detroit Tigers vs Houston Astros (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB Baseball] Pittsburgh Pirates vs Cincinnati Reds (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1705,21 +1855,33 @@
       "group": "Group Event"
     },
     {
-      "name": "[Mens FIH Pro League] Argentina Hockey vs Spain Hockey (CDNTV)",
+      "name": "[Nations League] Canada vs Bulgaria (CDNTV)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=ar&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MotoGP] MotoGP Grand Prix of Netherlands (FAWA)",
-      "logo": "https://1000logos.net/wp-content/uploads/2021/03/MotoGP-Logo-500x281.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CBC%20HD%20CA&code=ca&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
       "name": "[PGA TOUR: Travelers Championship (USA)] PGA TOUR: Travelers Championship (USA) (WATCHFTY)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/23_YRfMYBIj/pga-tour-travelers-championship-usa/prime/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Peru Copa] Alianza Huanuco vs Minas (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Peru Copa] Cajamarca vs FC Cajamarca (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Peru Copa] Sport Huancayo vs AD Tarma (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1753,9 +1915,45 @@
       "group": "Group Event"
     },
     {
+      "name": "[Soccer] Cape Verde vs Saudi Araba (ROXIE)",
+      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Soccer] Egypt vs Iran (ROXIE)",
+      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
+      "group": "Group Event"
+    },
+    {
       "name": "[Soccer] New Zealand vs Belgium (ROXIE)",
       "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Soccer] Norway vs France (ROXIE)",
+      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
+      "group": "Group Event"
+    },
+    {
+      "name": "Group Stage (SPRTSPASS)",
+      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportspass.cfd/soccer/fifa2026.html",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Soccer] Senegal vs Iraq (ROXIE)",
+      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
+      "group": "Group Event"
+    },
+    {
+      "name": "Group Stage (SPRTSPASS)",
+      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportspass.cfd/soccer/fifawc.html",
       "group": "Group Event"
     },
     {
@@ -1765,15 +1963,9 @@
       "group": "Group Event"
     },
     {
-      "name": "[Speedway: PGE Ekstraliga] 🇵Krono-Plast Włókniarz Częstochowa vs 🇵PRES Grupa Deweloperska Toruń (CDNTV)",
+      "name": "[Superettan] IK Brage vs Falkenbergs FF (WATCHFTY)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Sweden - Superettan] Falkenberg vs Brage (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Sportkanalen%20SE&code=se&user=cdnlivetv&plan=free",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4640776/ik-brage-falkenbergs-ff/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -1819,39 +2011,27 @@
       "group": "Group Event"
     },
     {
-      "name": "[Tennis ATP] Tennis ATP Eastbourne (FAWA)",
-      "logo": "https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Tennis ATP] Tennis ATP Hurlingham (FAWA)",
-      "logo": "https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Tennis ATP] Tennis ATP Mallorca (FAWA)",
-      "logo": "https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Tennis WTA] Tennis WTA Bad Homburg (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[Virsliga] FK Liepaja vs Rigas FS (WATCHFTY)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4663507/fk-liepaja-rigas-fs/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
-      "name": "[Volleyball Nations League] China vs Argentina (FAWA)",
+      "name": "[Volleyball Nations League] Belgium vs Germany (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Volleyball Nations League] Brazil vs Italy (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Volleyball Nations League] Brazil vs Italy (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4668145/brazil-italy/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -1861,21 +2041,39 @@
       "group": "Group Event"
     },
     {
-      "name": "[Volleyball Nations League] Iran vs Japan (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4668112/iran-japan/regular/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Volleyball Nations League] Ukraine vs Canada (FAWA)",
+      "name": "[Volleyball Nations League] Serbia vs Cuba (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[World Rally] World Rally Championship Greece (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "name": "[World Cup] Norway vs France 1 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbol-x.xyz",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Norway vs France 2 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbol-x.xyz",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Norway vs France 3 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbol-x.xyz",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Senegal vs Iraq 1 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbol-x.xyz",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Senegal vs Iraq 2 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbol-x.xyz",
       "group": "Group Event"
     }
   ],
