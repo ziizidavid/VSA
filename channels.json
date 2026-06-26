@@ -745,96 +745,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Baseball] Arizona Diamondbacks at Tampa Bay Rays | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] Athletics Athletics at Los Angeles Angels | English 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/3e1119df65dee3290afdad55b84ac332.webp",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] Atlanta Braves at San Francisco Giants | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] Chicago Cubs at Milwaukee Brewers | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] Cincinnati Reds at Pittsburgh Pirates | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] Colorado Rockies at Minnesota Twins | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] Houston Astros at Detroit Tigers | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] Kansas City Royals at Chicago White Sox | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] Los Angeles Dodgers at San Diego Padres | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] Miami Marlins at St. Louis Cardinals | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] New York Yankees at Boston Red Sox | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] Philadelphia Phillies at New York Mets | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] Seattle Mariners at Cleveland Guardians | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] Texas Rangers at Toronto Blue Jays | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Baseball] Washington Nationals at Baltimore Orioles | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
       "name": "[Belarus Vysshaya Liga] Arsenal Dzerzhinsk vs FC Gomel (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -859,13 +769,13 @@
       "group": "Group Event"
     },
     {
-      "name": "[Cricket T20 World Cup] Sri Lanka W vs Scotland W (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "name": "[Canadian Premier League] Pacific FC vs HFX Wanderers (CDNTV)",
+      "logo": "https://i.gyazo.com/f61986e2ccfbf88f7d753b4e7f2c9fdc.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%202%20FHD%20US&code=us&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
-      "name": "[Cricket Test Series] England vs New Zealand (FAWA)",
+      "name": "[Cricket T20 World Cup] Sri Lanka W vs Scotland W (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1453,18 +1363,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[FIVB Volleyball Mens Nations League] Germany Volleyball vs Belgium Volleyball (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIVB Volleyball Mens Nations League] Italy Volleyball vs Brazil Volleyball (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
       "name": "[Field Hockey Pro League] India vs Pakistan (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1495,90 +1393,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Football] Belgium at New Zealand | Arabic 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Football] Belgium at New Zealand | English 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Football] France at Norway | Arabic 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Football] France at Norway | English 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Football] Iran at Egypt | Arabic 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Football] Iran at Egypt | English 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Football] Iraq at Senegal | Arabic 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Football] Iraq at Senegal | English 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Football] Saudi Arabia at Cape Verde | Arabic 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Football] Saudi Arabia at Cape Verde | English 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Football] Spain at Uruguay | Arabic 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Football] Spain at Uruguay | English 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Football] Spain at Uruguay | Spanish 1 (STRMCNTR)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Formula 1] Formula 1 - Practice 2 vs Formula 1 (STRMHUB)",
-      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=ht2gdxicpk",
-      "group": "Group Event"
-    },
-    {
       "name": "[Formula 1] Formula 1 2026 - Austria GP (iSTRMEAST)",
       "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
       "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52517?ad=111",
@@ -1591,21 +1405,9 @@
       "group": "Group Event"
     },
     {
-      "name": "[Horse Racing] Horse Racing 1 (FAWA)",
+      "name": "[Inkasso Deildin] Leiknir Reykjavik vs IR Reykjavik (WATCHFTY)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Horse Racing] Horse Racing 2 (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[ICC Womens T20 World Cup] Sri Lanka Cricket Women vs Scotland Cricket Women (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ASTRO%20CRICKET%20HD&code=&user=cdnlivetv&plan=free",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4662037/leiknir-reykjavik-ir-reykjavik/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -1630,6 +1432,24 @@
       "name": "[Ireland Premier Division] Shamrock Rovers vs Galway (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Irish Premier Division] Bohemian FC vs St. Patrick's Athletic (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5100921/bohemians-st-patrick-s-athletic/regular/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Irish Premier Division] Derry City vs Drogheda United (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5100922/derry-city-drogheda-united/regular/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Irish Premier Division] Dundalk vs Waterford (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/763146/dundalk-waterford/regular/4?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -1855,6 +1675,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[Major League Cricket] Texas Super Kings vs MI New York (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Cricket%20FHD%20UK&code=gb&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[Nations League] Canada vs Bulgaria (CDNTV)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CBC%20HD%20CA&code=ca&user=cdnlivetv&plan=free",
@@ -1903,18 +1729,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Snooker] Snooker China Opene 1 (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Snooker] Snooker China Opene 2 (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[Soccer] Cape Verde vs Saudi Araba (ROXIE)",
       "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
@@ -1954,12 +1768,6 @@
       "name": "Group Stage (SPRTSPASS)",
       "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
       "stream": "#EXTVLCOPT:http-referrer=https://sportspass.cfd/soccer/fifawc.html",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Speedway: PGE Ekstraliga] 🇵BAYERSYSTEM GKM Grudziądz vs 🇵Betard Sparta Wrocław (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -2005,18 +1813,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[T20 Blast] Notts Outlaws vs Kent Spitfires (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Select%20NZ&code=nz&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Virsliga] FK Liepaja vs Rigas FS (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4663507/fk-liepaja-rigas-fs/regular/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
       "name": "[Volleyball Nations League] Belgium vs Germany (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -2032,12 +1828,6 @@
       "name": "[Volleyball Nations League] Brazil vs Italy (WATCHFTY)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4668145/brazil-italy/regular/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Volleyball Nations League] Iran vs Japan (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
