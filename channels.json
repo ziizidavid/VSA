@@ -745,19 +745,7 @@
       "group": "Group Event"
     },
     {
-      "name": "[AFL Aussie Rules] Hawthorn Hawks vs GWS Giants (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[Austrian Grand Prix] Austrian Grand Prix Practice 2 1 (FUTBOLX)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://futbol-x.xyz",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Austrian Grand Prix] F1 Austrian Grand Prix Practice 1 1 (FUTBOLX)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://futbol-x.xyz",
       "group": "Group Event"
@@ -769,7 +757,7 @@
       "group": "Group Event"
     },
     {
-      "name": "[China Super League] Qingdao Hainiu vs Yunnan Yukun (FAWA)",
+      "name": "[Belarus Vysshaya Liga] Baranovici vs Slavia Mozyr (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -979,6 +967,24 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIVB Volleyball Mens Nations League] Argentina Volleyball vs China Volleyball (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIVB Volleyball Mens Nations League] Canada Volleyball vs Ukraine Volleyball (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIVB Volleyball Mens Nations League] Japan Volleyball vs Iran Volleyball (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[Fighting] WWE Smackdown (ROXIE)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
@@ -997,7 +1003,19 @@
       "group": "Group Event"
     },
     {
+      "name": "[Formula 1] Austrian Grand Prix - Practice 2 (EMBEDHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
       "name": "[Formula 1] Formula 1 - Practice 1 vs Formula 1 (STRMHUB)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=ht2gdxicpk",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 1] Formula 1 - Practice 2 vs Formula 1 (STRMHUB)",
       "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=ht2gdxicpk",
       "group": "Group Event"
@@ -1012,6 +1030,12 @@
       "name": "[Formula 1] Lenovo Austrian Grand Prix - FP1 (WATCHFTY)",
       "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
       "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401839073/lenovo-austrian-grand-prix/easy/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Friendly Match] Ried vs Austria Salzburg (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1225,6 +1249,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[Latvia Virsliga] Ogre United vs Tukums 2000 (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[Live Event] F1 Austrian Grand Prix vs Live (FSPRTS)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
@@ -1423,6 +1453,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[Mens FIH Pro League] Argentina Hockey vs Spain Hockey (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=ar&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[MotoGP] MotoGP Grand Prix of Netherlands (FAWA)",
       "logo": "https://1000logos.net/wp-content/uploads/2021/03/MotoGP-Logo-500x281.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1435,9 +1471,9 @@
       "group": "Group Event"
     },
     {
-      "name": "[NRL] Brisbane Broncos vs Sydney Roosters (FAWA)",
+      "name": "[PGA TOUR: Travelers Championship (USA)] PGA TOUR: Travelers Championship (USA) (WATCHFTY)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/23_YRfMYBIj/pga-tour-travelers-championship-usa/prime/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -1477,6 +1513,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[Speedway: PGE Ekstraliga] 🇵Krono-Plast Włókniarz Częstochowa vs 🇵PRES Grupa Deweloperska Toruń (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[Tennis ATP] Tennis ATP Eastbourne (FAWA)",
       "logo": "https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1501,13 +1543,13 @@
       "group": "Group Event"
     },
     {
-      "name": "[Tennis WTA] Tennis WTA Eastbourne (FAWA)",
+      "name": "[Volleyball Nations League] China vs Argentina (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[Volleyball Nations League] China vs Argentina (FAWA)",
+      "name": "[Volleyball Nations League] Iran vs Japan (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
