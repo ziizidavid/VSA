@@ -11,19 +11,19 @@ https://fifaworldcup.cfd/api/stream?q=4k
 https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="Group Viva",BBC One
 http://193.239.186.231/BBC1/index.m3u8
-#EXTINF:-1,FIFA WORLDCUP itv
+#EXTINF:-1,group-title="Group Viva",itv
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/501.ts
-#EXTINF:-1,FIFA WORLDCUP unite8
+#EXTINF:-1,group-title="Group Viva",unite8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1064.ts
-#EXTINF:-1,FIFA WORLDCUP fox
+#EXTINF:-1,group-title="Group Viva",fox
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1140.ts
-#EXTINF:-1,TSN 4 HD
+#EXTINF:-1,group-title="Group Viva",TSN 4 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6654.ts
-#EXTINF:-1,TSN 3 HD
+#EXTINF:-1,group-title="Group Viva",TSN 3 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts
-#EXTINF:-1,TSN 2 HD
+#EXTINF:-1,group-title="Group Viva",TSN 2 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts
-#EXTINF:-1,TSN 1 HD
+#EXTINF:-1,group-title="Group Viva",TSN 1 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts
 
 
@@ -41,7 +41,7 @@ http://107.150.60.122/live/cctv5hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://107.150.60.122/live/cctv5p.m3u8
 
-#EXTINF:-1 tvg-name="UNITE8 SPORTS 1HD" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",UNITE8 SPORTS 1HD
+#EXTINF:-1 tvg-name="group-title="Group Viva",UNITE8 SPORTS 1HD" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",UNITE8 SPORTS 1HD
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="UNITE8 SPORTS 2HD" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",UNITE8 SPORTS 2HD
 http://198.195.239.50:8095/tsports/index.m3u8
@@ -58,47 +58,11 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/31
 #EXTINF:-1 group-title="Group Event" tvg-logo="https://i.postimg.cc/LshzWQQg/ezgif-5030340034d38082.png",NOW SPORTS 618 (bc2)
 http://shatian.7766.org:7168/0.ts
 
-#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="Group Event", TVRI-Sport (play)
-http://103.148.44.38:8000/play/a05u/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="Group Event",TVRI-NASIONAL(play) 
-http://103.148.44.38:8000/play/a03t/index.m3u8
-
-#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="Group Event",TVRI SPORT (UDP) 
-http://202.169.224.202:8800/udp/239.1.2.3:1234
-
-#EXTINF:-1 tvg-logo="https://iili.io/KYJqv0G.png" group-title="Group Viva",FoxSports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
-
-#EXTINF:-1 group-title="Group Viva" tvg-id="match-futbol1-hd" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Матч! ФУТБОЛ 1 HD
-http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Group Viva" tvg-logo="https://i.postimg.cc/V6p3Rqfg/ezgif-354bbe37d96cb2b6.png",MATCH! FUTBOL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
-https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://mma.prnewswire.com/media/1919551/WillowTV_Logo.jpg?p=facebook" group-title="Group Viva",FIFA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CA: TSN 1" tvg-logo="https://docdog.top/logo/countries/canada/tsn1.png" group-title="Group Viva",CA: TSN 1
 http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/5508
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Group Viva",FR | BEIN SPORTS 1 HD
 http://185.160.192.64:80/mangin15/85784/14170
-
-#EXTINF:-1 group-title="Group Viva" tvg-id="" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png",FS1
-http://41.223.30.230/FOXSPORTS1/index.m3u8
-
-#EXTINF:-1 group-title="Group Viva" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Fox Deportes 
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-
 
 #EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",DAZN 1
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
