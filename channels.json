@@ -734,9 +734,21 @@
       "group": "Group Event"
     },
     {
+      "name": "[1st Test | Day 3] Sri Lanka vs West Indies (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[AFL Aussie Rules] Port Adelaide Power vs Adelaide Crows (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "Reserves] Lanús Reserve vs River Plate Reserve (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=ar&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -746,7 +758,19 @@
       "group": "Group Event"
     },
     {
+      "name": "[Austrian Grand Prix] Austrian Grand Prix Qualifying 1 (FUTBOLX)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbol-x.xyz",
+      "group": "Group Event"
+    },
+    {
       "name": "[Belarus Vysshaya Liga] Zhodino vs BATE (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Brazil Serie B] Operario-PR vs America MG (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -782,7 +806,379 @@
       "group": "Group Event"
     },
     {
+      "name": "[Copa Chile] Audax Italiano vs Magallanes | TNT Sports Chile (STRMXHD)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=tntsportschile",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Chile] Universidad Católica vs San Luis | TNT Sports Chile (STRMXHD)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=tntsportschile",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Argelia vs Austria | Dsports 2 (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=dsports2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Argelia vs Austria | Fox Sports 1 USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=fs1usa",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Argelia vs Austria | Sportv BR (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=sporttvbr1",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Argelia vs Austria | Unicanal PY (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=unicanalpy",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Argelia vs Austria | Universo USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=universo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Colombia vs Portugal | America TV (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=americatv",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Colombia vs Portugal | Canal 5 MX (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=canal5mx",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Colombia vs Portugal | Caracol TV (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=evento6",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Colombia vs Portugal | Chilevision (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=chilevision",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Colombia vs Portugal | Disney+ (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=disney9",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Colombia vs Portugal | Dsports (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=dsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Colombia vs Portugal | Fox ONE USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=foxoneusa",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Colombia vs Portugal | Sportv BR (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=sporttvbr1",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Colombia vs Portugal | TUDN MX (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=tudnmx",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Colombia vs Portugal | Telemundo USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=telemundo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Colombia vs Portugal | Unicanal PY (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=unicanalpy",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Croacia vs Ghana | CazéTV BR (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=cazetv",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Croacia vs Ghana | Dsports 2 (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=dsports2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Croacia vs Ghana | Fox Sports 1 USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=fs1usa",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Croacia vs Ghana | Trece PY (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=trecepy",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Croacia vs Ghana | Universo USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=universo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Egipto vs Irán | CazéTV 2 BR (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=cazetv2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Egipto vs Irán | Dsports + (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=dsportsplus",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Egipto vs Irán | Fox Sports 1 USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=fs1usa",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Egipto vs Irán | TYC Sports (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=tycsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Egipto vs Irán | Unicanal PY (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=unicanalpy",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Egipto vs Irán | Universo USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=universo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Jordania vs Argentina | CazéTV BR (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=cazetv",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Jordania vs Argentina | Disney+ (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=disney10",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Jordania vs Argentina | Dsports (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=dsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Jordania vs Argentina | Gen PY (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=genpy",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Jordania vs Argentina | TV Publica (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=tvpublica",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Jordania vs Argentina | TYC Sports (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=tycsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Jordania vs Argentina | Telefe (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=telefe",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Jordania vs Argentina | Telemundo USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=telemundo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Jordania vs Argentina | Trece PY (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=trecepy",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Nueva Zelanda vs Bélgica | CazéTV BR (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=cazetv",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Nueva Zelanda vs Bélgica | Dsports (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=dsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Nueva Zelanda vs Bélgica | Fox ONE USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=foxoneusa",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Nueva Zelanda vs Bélgica | Telemundo USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=telemundo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Nueva Zelanda vs Bélgica | Trece PY (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=trecepy",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Panamá vs Inglaterra | Canal 5 MX (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=canal5mx",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Panamá vs Inglaterra | Dsports (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=dsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Panamá vs Inglaterra | Fox ONE USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=foxoneusa",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Panamá vs Inglaterra | Gen PY (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=genpy",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Panamá vs Inglaterra | Sportv BR (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=sporttvbr1",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Panamá vs Inglaterra | TUDN MX (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=tudnmx",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Panamá vs Inglaterra | TV Publica (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=tvpublica",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Panamá vs Inglaterra | TYC Sports (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=tycsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] Panamá vs Inglaterra | Telemundo USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=telemundo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] RD del Congo vs Uzbekistán | CazéTV BR (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=cazetv",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] RD del Congo vs Uzbekistán | Dsports + (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=dsportsplus",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] RD del Congo vs Uzbekistán | Fox Sports 1 USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=fs1usa",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] RD del Congo vs Uzbekistán | TYC Sports (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=tycsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Del Mundo 2026] RD del Congo vs Uzbekistán | Universo USA (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=universo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa de la Liga] Comerciantes FC vs Estudiantil CNI | Bicolor+ (STRMXHD)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=bicolor2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa de la Liga] Comerciantes Unidos vs ACD Juan Pablo II | Bicolor+ (STRMXHD)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=bicolor",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa de la Liga] Sport Boys Association vs AD Cantolao | Bicolor+ (STRMXHD)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=bicolor",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa de la Liga] Sporting Cristal vs Unión Comercio | Bicolor+ (STRMXHD)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=bicolor",
+      "group": "Group Event"
+    },
+    {
       "name": "[Cricket T20 World Cup] Pakistan W vs Netherlands W (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Cricket T20 World Cup] West Indies W vs Ireland W (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -797,6 +1193,18 @@
       "name": "[Disability FA Cup] West Bromwich Albion Blind vs Blind Cup Final: Royal National College for the Blind (CDNTV)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203%20FHD%20UK&code=gb&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
+      "name": "[ESPN Knockout] Jon Míguez vs Samuel Molina | ESPN 2 (STRMXHD)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[English Rugby Super League] Hull FC vs Wigan Warriors (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1004,6 +1412,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIVB Volleyball Mens Nations League] Canada Volleyball vs Bulgaria Volleyball (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CBC%20HD%20CA&code=ca&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[Fighting] WWE Night of Champions (ROXIE)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
@@ -1016,7 +1430,25 @@
       "group": "Group Event"
     },
     {
+      "name": "[Finland Veikkausliiga] HJK vs KuPS (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[Finland Veikkausliiga] Ilves vs SJK (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Finland Veikkausliiga] Mariehamn vs Inter Turku (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Finland Ykkosliiga] Haka vs KTPK (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1028,7 +1460,7 @@
       "group": "Group Event"
     },
     {
-      "name": "[Formula 1] Austrian Grand Prix - Practice 3 (EMBEDHD)",
+      "name": "[Formula 1] Austrian Grand Prix - Qualifying (EMBEDHD)",
       "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
       "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
@@ -1037,6 +1469,90 @@
       "name": "[Formula 1] Formula 1 - Practice 3 vs Formula 1 (STRMHUB)",
       "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=ht2gdxicpk",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 1] Formula 1 - Qualifying vs Formula 1 (STRMHUB)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=ht2gdxicpk",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 1] GP Austria - Clasificación | Disney+ (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=disney5",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 1] GP Austria - Clasificación | ESPN 2 (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 1] GP Austria - Clasificación | F1 (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=daznf1",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 1] GP Austria - Clasificación | Fox Sports 1 AR (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=fox1ar",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 1] GP Austria - Práctica #3 | Disney+ (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=disney1",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 1] GP Austria - Práctica #3 | ESPN 2 (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 1] GP Austria - Práctica #3 | F1 (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=daznf1",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 1] GP Austria - Práctica #3 | Fox Sports 1 AR (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=fox1ar",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 1] GP Austria | Cámara On Board | Disney+ (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=disney6",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 1] GP Austria | On Board Colapinto | Disney+ (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=disney7",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 1] GP Austria | On Board Verstappen | Disney+ (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=disney8",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 2] Formula 2 - Austria Grand Prix - Sprint Race (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/8239/formula-2/easy/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Formula 2] Spielberg - Carrera Sprint | ESPN 2 (STRMXHD)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn2",
       "group": "Group Event"
     },
     {
@@ -1163,6 +1679,12 @@
       "name": "[Horse Racing] Horse Racing UK (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[ICC Womens T20 World Cup] West Indies Cricket Women vs Ireland Cricket Women (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix%20FHD%20UK&code=gb&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -1358,13 +1880,67 @@
       "group": "Group Event"
     },
     {
+      "name": "[MotoGP] GP Países Bajos - Clasificación | ESPN 2 (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/03/MotoGP-Logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MotoGP] GP Países Bajos - Sprint | ESPN 4 (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/03/MotoGP-Logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn4",
+      "group": "Group Event"
+    },
+    {
       "name": "[MotoGP] MotoGP Grand Prix of Netherlands (FAWA)",
       "logo": "https://1000logos.net/wp-content/uploads/2021/03/MotoGP-Logo-500x281.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
+      "name": "[MotoGP] TT Assen Sprint Race - MOTOGP (WATCHFTY)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/03/MotoGP-Logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/nascar6227/tt-assen-sprint-race/diamond/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
       "name": "[NRL] Manly Sea Eagles vs Melbourne Storm (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Norway OBOS-ligaen] Asane vs Ranheim (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Norway OBOS-ligaen] Haugesund vs Kongsvinger (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Norway OBOS-ligaen] Lyn vs Hodd (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Norway OBOS-ligaen] Sandnes vs Raufoss (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Norway OBOS-ligaen] Stabaek vs Bryne (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Norway OBOS-ligaen] Strommen vs Moss (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1400,6 +1976,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[Rugby Friendly] Barbarians vs Wales (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[Rugby Friendly] Japan B vs Maori All Blacks (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1418,6 +2000,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[Rugby World Championship] France U20 vs Fiji U20 (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[Rugby World Championship] Italy U20 vs Scotland U20 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1425,6 +2013,12 @@
     },
     {
       "name": "[Rugby World Championship] New Zealand U20 vs Japan U20 (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Rugby World Championship] Wales U20 vs Georgia U20 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1466,7 +2060,37 @@
       "group": "Group Event"
     },
     {
+      "name": "[Sweden Division 1] AFC Malmo vs Jonkoping (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Sweden Division 1] Arlanda vs Karlstad (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Sweden Division 1] Atvidaberg vs Rosengard (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Sweden Division 1] Gefle vs Stocksund (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[Sweden Division 1] Laholms vs Utsikten (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Sweden Division 1] Lunds vs Skovde AIK (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1484,8 +2108,44 @@
       "group": "Group Event"
     },
     {
+      "name": "[Sweden Superettan] Ljungskile vs Orebro (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Sweden Superettan] Varberg vs Oster (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[Sweden Women Allsvenskan] Malmo FF W vs Kristianstad W (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Tanzania Ligi Kuu Bara] Simba vs Singida Black Stars (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Tanzania Ligi Kuu Bara] Young Africans vs TRA United (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Tennis ATP] Tennis ATP Eastbourne (FAWA)",
+      "logo": "https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Tennis ATP] Tennis ATP Mallorca (FAWA)",
+      "logo": "https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
@@ -1502,9 +2162,51 @@
       "group": "Group Event"
     },
     {
+      "name": "[UEFA U19 European Championship - Women] Germany U19 vs Bosnia-Herzegovina U19 (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportdigital%20Fussball%20FHD%20DE&code=de&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[UFC Fight Night Prelims] Eric Nolan vs Farman Hasanov (CDNTV)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fightpass%20HD%20BR&code=&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
+      "name": "[UFC Fight Night] UFC Fight Night : Fiziev vs Torres (FAWA)",
+      "logo": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[UFC Fight Night] UFC Fight Night : Fiziev vs Torres 2 HD (FAWA)",
+      "logo": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[UFC] Preliminares | Paramount+ (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=paramount3",
+      "group": "Group Event"
+    },
+    {
+      "name": "[UFC] Rafael Fiziev vs Ignacio Torres | Paramount+ (STRMXHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=paramount3",
+      "group": "Group Event"
+    },
+    {
+      "name": "[UFC] UFC Fight Night Fiziev - Torres (EMBEDHD)",
+      "logo": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
+      "name": "[UFC] UFC Fight Night: Fiziev vs. Torres (WATCHFTY)",
+      "logo": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/600059254/ufc-fight-night-fiziev-vs-torres/platinum/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
