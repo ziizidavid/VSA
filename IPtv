@@ -10,7 +10,7 @@ https://fifaworldcup.cfd/api/stream?q=4k
 #EXTINF:-1 tvg-name="FOX HD" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",FOX HD
 https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="Group Viva",BBC One
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4958.ts
+http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:-1,FIFA WORLDCUP itv
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/501.ts
 #EXTINF:-1,FIFA WORLDCUP unite8
