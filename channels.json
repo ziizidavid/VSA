@@ -740,12 +740,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[AFL Aussie Rules] Port Adelaide Power vs Adelaide Crows (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "Reserves] Lanús Reserve vs River Plate Reserve (CDNTV)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=ar&user=cdnlivetv&plan=free",
@@ -761,6 +755,12 @@
       "name": "[Austrian Grand Prix] Austrian Grand Prix Qualifying 1 (FUTBOLX)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://futbol-x.xyz",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Belarus Vysshaya Liga] Dynamo Brest vs FC Minsk (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1190,12 +1190,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Disability FA Cup] West Bromwich Albion Blind vs Blind Cup Final: Royal National College for the Blind (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203%20FHD%20UK&code=gb&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
       "name": "[ESPN Knockout] Jon Míguez vs Samuel Molina | ESPN 2 (STRMXHD)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn2",
@@ -1203,6 +1197,18 @@
     },
     {
       "name": "[English Rugby Super League] Hull FC vs Wigan Warriors (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[English Rugby Super League] Toulouse Olympique vs Leigh (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Euro U19] Bosniaegovina U19 W vs Germany U19 W (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1418,6 +1424,18 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIVB Volleyball Mens Nations League] Germany Volleyball vs Poland Volleyball (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIVB Volleyball Mens Nations League] Japan Volleyball vs USA Volleyball (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%204%20FHD%20HR&code=hr&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[Fighting] WWE Night of Champions (ROXIE)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
@@ -1427,6 +1445,12 @@
       "name": "[Fighting] ZAYAS vs BOOTS (ROXIE)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Finland Veikkausliiga] Gnistan vs VPS (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1448,6 +1472,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[Finland Veikkausliiga] TPS vs Jaro (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[Finland Ykkosliiga] Haka vs KTPK (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1463,12 +1493,6 @@
       "name": "[Formula 1] Austrian Grand Prix - Qualifying (EMBEDHD)",
       "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
       "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Formula 1] Formula 1 - Practice 3 vs Formula 1 (STRMHUB)",
-      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=ht2gdxicpk",
       "group": "Group Event"
     },
     {
@@ -1544,6 +1568,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[Formula 1] Lenovo Austrian Grand Prix - Qual (WATCHFTY)",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401839076/lenovo-austrian-grand-prix/easy/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
       "name": "[Formula 2] Formula 2 - Austria Grand Prix - Sprint Race (WATCHFTY)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/8239/formula-2/easy/1?player=clappr&autoplay=true",
@@ -1553,6 +1583,24 @@
       "name": "[Formula 2] Spielberg - Carrera Sprint | ESPN 2 (STRMXHD)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Friendly Match] CSKA Sofia vs Qarabaq (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Friendly Match] Goteborg vs HamKam (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Friendly Match] Kristiansund vs Aalesund (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1667,6 +1715,12 @@
       "name": "[Fútbol] RD del Congo vs Uzbekistán | ESPAÑOL 2 (STP)",
       "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
       "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=vix4",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Golf PGA] Golf PGA Travelers Championship (FAWA)",
+      "logo": "https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1880,6 +1934,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[MMA Fighting] MMA Cage Warriors 208 (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[MotoGP] GP Países Bajos - Clasificación | ESPN 2 (STRMXHD)",
       "logo": "https://1000logos.net/wp-content/uploads/2021/03/MotoGP-Logo-500x281.png",
       "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn2",
@@ -1904,8 +1964,8 @@
       "group": "Group Event"
     },
     {
-      "name": "[NRL] Manly Sea Eagles vs Melbourne Storm (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "name": "[NHL Hockey] NHL Draft 2026 (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
@@ -1941,6 +2001,12 @@
     },
     {
       "name": "[Norway OBOS-ligaen] Strommen vs Moss (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Norway OBOS-ligaen] Stromsgodset vs Odd (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1982,13 +2048,7 @@
       "group": "Group Event"
     },
     {
-      "name": "[Rugby Friendly] Japan B vs Maori All Blacks (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Rugby World Championship] Argentina U20 vs USA U20 (FAWA)",
+      "name": "[Rugby World Championship] Australia U20 vs Spain U20 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -2006,13 +2066,13 @@
       "group": "Group Event"
     },
     {
-      "name": "[Rugby World Championship] Italy U20 vs Scotland U20 (FAWA)",
+      "name": "[Rugby World Championship] New Zealand U20 vs Japan U20 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[Rugby World Championship] New Zealand U20 vs Japan U20 (FAWA)",
+      "name": "[Rugby World Championship] South Africa U20 vs Uruguay U20 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -2114,6 +2174,18 @@
       "group": "Group Event"
     },
     {
+      "name": "[Sweden Superettan] Nordic United vs Oddevold (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Sweden Superettan] Sundsvall vs Ostersund (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[Sweden Superettan] Varberg vs Oster (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -2150,12 +2222,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Tennis WTA] Tennis WTA Bad Homburg (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[Tennis WTA] Tennis WTA Eastbourne (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -2165,12 +2231,6 @@
       "name": "[UEFA U19 European Championship - Women] Germany U19 vs Bosnia-Herzegovina U19 (CDNTV)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportdigital%20Fussball%20FHD%20DE&code=de&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[UFC Fight Night Prelims] Eric Nolan vs Farman Hasanov (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fightpass%20HD%20BR&code=&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -2207,6 +2267,30 @@
       "name": "[UFC] UFC Fight Night: Fiziev vs. Torres (WATCHFTY)",
       "logo": "https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png",
       "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/600059254/ufc-fight-night-fiziev-vs-torres/platinum/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Volleyball Nations League] Bulgaria vs Canada (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Volleyball Nations League] Poland vs Germany (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Volleyball Nations League] USA vs Japan (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[WWE Wrestling] WWE Night of Champions 1 (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
