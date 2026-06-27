@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Football World Cup 2026 4K 2",
+    "tvg_name": "Football World Cup 2026 4K 2",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "group_title": "Group Viva",
+    "url": "http://starhub.pro/live/farhat-3379/67897-913379/745269.ts"
+  },
+  {
+    "name": "NHK BSP4K",
+    "tvg_id": "NHKBSP4K.jp",
+    "tvg_name": "NHK BSP4K",
+    "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",
+    "group_title": "Group Viva",
+    "url": "http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls"
+  },
+  {
+    "name": "FWC FOx 4k",
+    "tvg_name": "FWC FOx 4k",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "group_title": "Group Viva",
+    "url": "https://fifaworldcup.cfd/api/stream?q=4k"
+  },
+  {
+    "name": "FOX HD",
+    "tvg_name": "FOX HD",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "group_title": "Group Viva",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8"
+  },
+  {
+    "name": "BBC One",
+    "tvg_chno": "11",
+    "tvg_id": "BBC.One.Lon.HD.uk",
+    "tvg_name": "BBC One",
+    "tvg_logo": "https://images.open-epg.com/x364.png",
+    "group_title": "Group Viva",
+    "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4958.ts"
+  },
+  {
+    "name": "FIFA WORLDCUP itv",
+    "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/501.ts"
+  },
+  {
+    "name": "FIFA WORLDCUP unite8",
+    "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1064.ts"
+  },
+  {
+    "name": "FIFA WORLDCUP fox",
+    "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1140.ts"
+  },
+  {
+    "name": "TSN 4 HD",
+    "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6654.ts"
+  },
+  {
+    "name": "TSN 3 HD",
+    "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts"
+  },
+  {
+    "name": "TSN 2 HD",
+    "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts"
+  },
+  {
+    "name": "TSN 1 HD",
+    "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts"
+  },
+  {
+    "name": "Fussball de 4k",
+    "group_title": "Group Viva",
+    "tvg_logo": "https://images.seeklogo.com/logo-png/17/1/deutscher-fussball-bund-logo-png_seeklogo-176510.png",
+    "url": "https://junkieembeds.pages.dev/1781977848/fe307db0b1ae446b94dfd0356cb06b35/_l2Vv33fFc8nx_aDTAGBGuaeabBsgjMf8hBmMD4XsY8/fusballtvuhd-de.m3u8"
+  },
+  {
+    "name": "CCTV5 hd",
+    "group_title": "Group Viva",
+    "tvg_logo": "https://epg.v1.mk/logo/cctv5.png",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub"
+  },
+  {
+    "name": "9 sport Iran",
+    "group_title": "Group Viva",
+    "tvg_logo": "https://imgs.search.brave.com/VeRBENb5ZGZDXtUrbvsWsd7VIBaLV2A8J5z0BYi1p-A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTIy/NjY2OTUyL3ZlY3Rv/ci9pcmFuLWJ1dHRv/bi13aXRoLWlyYW5p/YW4tZmxhZy1pc29s/YXRlZC1vbi13aGl0/ZS5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9emlSRE9QaGx2/S2ZNX0d5azk4UDU5/RTFFakRFaTlDeGtP/WEp2NGE0SE1DMD0",
+    "url": "https://live-aburayhan1101.telewebion.ir/ek/varzesh/live/108050p/index.m3u8"
+  },
+  {
+    "name": "CCTV 5",
+    "group_title": "Group Viva",
+    "tvg_logo": "http://pitek.diskon.cloud/gambar/forsat.jpg",
+    "vlc_options": {
+      "http-user-agent": "Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1"
+    },
+    "url": "http://107.150.60.122/live/cctv5hd.m3u8"
+  },
+  {
+    "name": "CCTV 5+",
+    "group_title": "Group Viva",
+    "tvg_logo": "http://pitek.diskon.cloud/gambar/forsat.jpg",
+    "vlc_options": {
+      "http-user-agent": "Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1"
+    },
+    "url": "http://107.150.60.122/live/cctv5p.m3u8"
+  },
+  {
+    "name": "UNITE8 SPORTS 1HD",
+    "tvg_name": "UNITE8 SPORTS 1HD",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "group_title": "FIFA 2026",
+    "url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "UNITE8 SPORTS 2HD",
+    "tvg_name": "UNITE8 SPORTS 2HD",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "group_title": "FIFA 2026",
+    "url": "http://198.195.239.50:8095/tsports/index.m3u8"
+  },
+  {
+    "name": "RTM SPORTS HD",
+    "group_title": "Group Viva",
+    "tvg_logo": "https://www.kds.tw/wp-content/uploads/2025/09/5ca85501a4694_01x0-480x320.jpg",
+    "vlc_options": {
+      "http-user-agent": "ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1"
+    },
+    "url": "https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd"
+  },
+  {
+    "name": "OKEY TV",
+    "tvg_id": "",
+    "tvg_name": "OKEY TV",
+    "tvg_logo": "https://tv.cic.net.id/uploads/TV_OKEY_MY.png",
+    "group_title": "Group Viva",
+    "url": "http://iptv.kilas7.com:80/kaukia/asdfrewq/32"
+  },
+  {
+    "name": "RTM SPORT(K7)",
+    "tvg_id": "",
+    "tvg_name": "RTM SPORT",
+    "tvg_logo": "https://tv.cic.net.id/uploads/RTM_SPORT_MY.png",
+    "group_title": "Group Event",
+    "url": "http://iptv.kilas7.com:80/kaukia/asdfrewq/31"
+  },
+  {
+    "name": "NOW SPORTS 618 (bc2)",
+    "group_title": "Group Event",
+    "tvg_logo": "https://i.postimg.cc/LshzWQQg/ezgif-5030340034d38082.png",
+    "url": "http://shatian.7766.org:7168/0.ts"
+  },
+  {
+    "name": "TVRI-Sport (play)",
+    "tvg_id": "Tvri.Sport.id",
+    "tvg_name": "tvri sport",
+    "tvg_logo": "https://mimipipi22.github.io/logo/sports/tvrisport.jpg",
+    "group_title": "Group Event",
+    "url": "http://103.148.44.38:8000/play/a05u/index.m3u8"
+  },
+  {
+    "name": "TVRI-NASIONAL(play)",
+    "group_title": "Group Event",
+    "tvg_logo": "https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg",
+    "url": "http://103.148.44.38:8000/play/a03t/index.m3u8"
+  },
+  {
+    "name": "TVRI SPORT (UDP)",
+    "tvg_id": "Tvri.Sport.id",
+    "tvg_name": "tvri sport",
+    "tvg_logo": "https://mimipipi22.github.io/logo/sports/tvrisport.jpg",
+    "group_title": "Group Event",
+    "url": "http://202.169.224.202:8800/udp/239.1.2.3:1234"
+  },
+  {
+    "name": "FoxSports 1",
+    "group_title": "Group Viva",
+    "tvg_logo": "https://iili.io/KYJqv0G.png",
+    "vlc_options": {
+      "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    },
+    "kodi_properties": {
+      "inputstream.adaptive.license_type": "clearkey",
+      "inputstream.adaptive.license_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+    },
+    "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd"
+  },
+  {
+    "name": "Матч! ФУТБОЛ 1 HD",
+    "group_title": "Group Viva",
+    "tvg_id": "match-futbol1-hd",
+    "tvg_name": "МАТЧ! Футбол 1 HD",
+    "tvg_logo": "https://static.g-cdn.app/streams/match-futbol1-hd.png",
+    "url": "http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test"
+  },
+  {
+    "name": "MATCH! FUTBOL 1",
+    "group_title": "Group Viva",
+    "tvg_logo": "https://i.postimg.cc/V6p3Rqfg/ezgif-354bbe37d96cb2b6.png",
+    "vlc_options": {
+      "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+    },
+    "kodi_properties": {
+      "inputstream.adaptive.license_type": "clearkey",
+      "inputstream.adaptive.license_key": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
+    },
+    "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd"
+  },
+  {
+    "name": "FIFA",
+    "group_title": "Group Viva",
+    "tvg_id": "",
+    "tvg_logo": "https://mma.prnewswire.com/media/1919551/WillowTV_Logo.jpg?p=facebook"
+    "kodi_properties": {
+      "inputstream.adaptive.manifest_type": "mpd",
+      "inputstream.adaptive.license_type": "clearkey",
+      "inputstream.adaptive.license_key": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc"
+    },
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd"
+  },
+  {
+    "name": "CA: TSN 1",
+    "group_title": "Group Viva",
+    "tvg_id": "",
+    "tvg_name": "CA: TSN 1",
+    "tvg_logo": "https://docdog.top/logo/countries/canada/tsn1.png",
+    "url": "http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/5508"
+  },
+  {
+    "name": "FR | BEIN SPORTS 1 HD",
+    "group_title": "Group Viva",
+    "tvg_logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "url": "http://185.160.192.64:80/mangin15/85784/14170"
+  },
+  {
+    "name": "FS1",
+    "group_title": "Group Viva",
+    "tvg_id": "",
+    "tvg_name": "FS1",
+    "tvg_logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png",
+    "url": "http://41.223.30.230/FOXSPORTS1/index.m3u8"
+  },
+  {
+    "name": "Fox Deportes",
+    "group_title": "Group Viva",
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",
+    "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+  },
+  {
+    "name": "DAZN 1",
+    "group_title": "Group Viva",
+    "tvg_name": "DAZN 1",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
+  },
+  {
+    "name": "ESPN",
+    "group_title": "Group Viva",
+    "tvg_name": "ESPN",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8"
+  },
+  {
+    "name": "TSN1",
+    "group_title": "Group Viva",
+    "tvg_chno": "140",
+    "tvg_id": "TSN.1.ca2",
+    "tvg_name": "TSN1",
+    "tvg_logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png",
+    "url": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts"
+  },
+  {
+    "name": "TUDN",
+    "group_title": "Group Viva",
+    "tvg_name": "TUDN",
+    "tvg_logo": "https://simple.wikipedia.org/wiki/RT%C3%892#/media/File:RTE2logo.png",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd"
+  },
+  {
+    "name": "WIN Sports",
+    "group_title": "Group Viva",
+    "tvg_name": "WIN Sports",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
+  },
+  {
+    "name": "Caze TV BR",
+    "group_title": "Group Viva",
+    "tvg_name": "Caze TV BR",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+  },
+  {
+    "name": "GO Live",
+    "group_title": "Group Viva",
+    "tvg_name": "GO Live",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8"
+  },
+  {
+    "name": "Claro Sports 1",
+    "group_title": "Group Viva",
+    "url": "http://45.167.1.136:8000/play/a00d"
+  },
+  {
+    "name": "United 1 (in)",
+    "group_title": "Group Event",
+    "tvg_name": "United 1 (in)",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "url": "http://starhub.pro/live/farhat-3379/67897-913379/741567.ts"
+  },
+  {
+    "name": "United 2 (eng)",
+    "group_title": "Group Event",
+    "tvg_name": "United 2 (eng)",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "url": "http://202.70.146.135:8000/play/a06s/index.m3u8"
+  },
+  {
+    "name": "beIN SPORTS 4k",
+    "group_title": "Group Viva",
+    "tvg_name": "beIN SPORTS 4k",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "url": "http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8"
+  },
+  {
+    "name": "Bioscope Plus",
+    "group_title": "Group Viva",
+    "tvg_name": "Bioscope Plus",
+    "tvg_logo": "https://i.postimg.cc/661Rm2z8/image.png",
+    "url": "https://streamsportixa.ajmainearafat.workers.dev/live.m3u8"
+  },
+  {
+    "name": "Win Sports",
+    "group_title": "Group Viva",
+    "tvg_name": "Win Sports",
+    "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
+  },
+  {
+    "name": "Bein",
+    "group_title": "Group Viva",
+    "tvg_name": "Bein Sports",
+    "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+  },
+  {
+    "name": "Dazn",
+    "group_title": "Group Viva",
+    "tvg_name": "DAZN",
+    "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
+  },
+  {
+    "name": "Tvp",
+    "group_title": "Group Viva",
+    "tvg_name": "TVP Sports",
+    "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8"
+  },
+  {
+    "name": "D sport",
+    "group_title": "Group Viva",
+    "tvg_name": "D Sports",
+    "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8"
+  },
+  {
+    "name": "TUDN",
+    "group_title": "Group Viva",
+    "tvg_name": "Tudn Sports",
+    "tvg_logo": "https://upload.wikimedia.org/wiki.../1280px-2026_FIFA_World_Cup_emblem.svg.png",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8"
+  },
+  {
+    "name": "Fox Sports 2",
+    "group_title": "Group Viva",
+    "tvg_chno": "54",
+    "tvg_id": "FS2.Fox.Sports.2.HD.us2",
+    "tvg_name": "Fox Sports 2",
+    "tvg_logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png",
+    "url": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts"
+  },
+  {
+    "name": "TSN 1",
+    "group_title": "Group Viva",
+    "tvg_name": "TSN1",
+    "tvg_logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+    "vlc_options": {
+      "http-referrer": "https://soccerball.st/rampages/unoair1/",
+      "http-origin": "https://soccerball.st/rampages/unoair1/",
+      "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+    },
+    "url": "https://soccerball.st/s1.php"
+  },
+  {
+    "name": "WC2026",
+    "group_title": "Group Viva",
+    "tvg_name": "WC2026",
+    "tvg_logo": "https://i.ibb.co.com/GvTZ8fjF/wc26nw.png",
+    "vlc_options": {
+      "http-referrer": "https://www.rtbgo.bn/",
+      "http-user-agent": "RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+    },
+    "url": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8"
+  },
+  {
+    "name": "WC2026 2",
+    "group_title": "Group Viva",
+    "tvg_name": "WC2026 2",
+    "tvg_logo": "https://i.ibb.co.com/GvTZ8fjF/wc26nw.png",
+    "vlc_options": {
+      "http-referrer": "https://www.rtbgo.bn/",
+      "http-user-agent": "RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+    },
+    "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8"
+  }
+]
