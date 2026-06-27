@@ -1,4 +1,3 @@
-```yaml
 name: Sync IPTV
 
 on:
@@ -163,7 +162,7 @@ jobs:
                   wc2026.append(
                       row + "\n" + url
                   )
-                  ```yaml
+
           # ==========================
           # WRITE IPTV
           # ==========================
@@ -329,7 +328,7 @@ jobs:
           )
 
           PY
-          ```yaml
+
       - name: Commit Changes
         run: |
           git config user.name "github-actions[bot]"
