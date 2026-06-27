@@ -1,7 +1,6 @@
 #EXTM3U:
 
-#EXTINF:-1 tvg-name="Football World Cup 2026 4K VPN" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",Football World Cup 2026 4K VPN
-http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
+
 #EXTINF:-1 tvg-name="Football World Cup 2026 4K 2" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",Football World Cup 2026 4K 2
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png" group-title="Group Viva",NHK BSP4K
@@ -11,31 +10,25 @@ https://fifaworldcup.cfd/api/stream?q=4k
 #EXTINF:-1 tvg-name="FOX HD" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",FOX HD
 https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="Group Viva",BBC One
-http://193.239.186.231/BBC1/index.m3u8
-#EXTM3U
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4958.ts
+#EXTINF:-1,FIFA WORLDCUP itv
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/501.ts
+#EXTINF:-1,FIFA WORLDCUP unite8
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1064.ts
+#EXTINF:-1,FIFA WORLDCUP fox
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1140.ts
+#EXTINF:-1,TSN 4 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6654.ts
+#EXTINF:-1,TSN 3 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts
+#EXTINF:-1,TSN 2 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts
+#EXTINF:-1,TSN 1 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/05/13115423/Fox-One-Logo.jpg" group-title="FOX",FOX 1080p [No VPN]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/250px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",FOX 4K [No VPN]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/7ruw77zpm1/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/05/13115423/Fox-One-Logo.jpg" group-title="FOX",FS1 [No VPN]
-https://vizio.kuvuslov.cymru/fs1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Group Viva" tvg-logo="https://imgs.search.brave.com/jh0j6c_UNEDcCd9_p2xQeqzIN32FlPM_spAOifh-nvs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXBhcmF0Y2hpLmNv/bS9pbWFnZXMvY2hh/bmVsbHMtbG9nby9p/cmliL2lyaWItZmFy/YXRhci5zdmc",FARATAR 4k IRAN
-https://live-aburayhan1105.telewebion.ir/ek/faratar/live/2160p/index.m3u8
 #EXTINF:-1 group-title="Group Viva" tvg-logo="https://images.seeklogo.com/logo-png/17/1/deutscher-fussball-bund-logo-png_seeklogo-176510.png",Fussball de 4k
 https://junkieembeds.pages.dev/1781977848/fe307db0b1ae446b94dfd0356cb06b35/_l2Vv33fFc8nx_aDTAGBGuaeabBsgjMf8hBmMD4XsY8/fusballtvuhd-de.m3u8
-#EXTINF:-1 group-title="Group Viva" tvg-logo="https://epg.v1.mk/logo/cctv5.png",Caze Tv (YT BR)
-https://live13a.jynrrs.com/live/20233432.m3u8
 #EXTINF:-1 group-title="Group Viva" tvg-logo="https://epg.v1.mk/logo/cctv5.png",CCTV5 hd
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="Group Viva" tvg-logo="https://imgs.search.brave.com/VeRBENb5ZGZDXtUrbvsWsd7VIBaLV2A8J5z0BYi1p-A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTIy/NjY2OTUyL3ZlY3Rv/ci9pcmFuLWJ1dHRv/bi13aXRoLWlyYW5p/YW4tZmxhZy1pc29s/YXRlZC1vbi13aGl0/ZS5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9emlSRE9QaGx2/S2ZNX0d5azk4UDU5/RTFFakRFaTlDeGtP/WEp2NGE0SE1DMD0",9 sport Iran
