@@ -46,12 +46,6 @@
       "embed": "https://xyzstreams.shop/wc-1-embed.html"
     },
     {
-      "name": "Football World Cup 2026 4K VPN",
-      "logo": "https://i.postimg.cc/661Rm2z8/image.png",
-      "stream": "http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8",
-      "group": "Group Viva"
-    },
-    {
       "name": "Football World Cup 2026 4K 2",
       "logo": "https://i.postimg.cc/661Rm2z8/image.png",
       "stream": "http://starhub.pro/live/farhat-3379/67897-913379/745269.ts",
@@ -78,25 +72,13 @@
     {
       "name": "BBC One",
       "logo": "https://images.open-epg.com/x364.png",
-      "stream": "http://193.239.186.231/BBC1/index.m3u8",
-      "group": "Group Viva"
-    },
-    {
-      "name": "FARATAR 4k IRAN",
-      "logo": "https://imgs.search.brave.com/jh0j6c_UNEDcCd9_p2xQeqzIN32FlPM_spAOifh-nvs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXBhcmF0Y2hpLmNv/bS9pbWFnZXMvY2hh/bmVsbHMtbG9nby9p/cmliL2lyaWItZmFy/YXRhci5zdmc",
-      "stream": "https://live-aburayhan1105.telewebion.ir/ek/faratar/live/2160p/index.m3u8",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4958.ts",
       "group": "Group Viva"
     },
     {
       "name": "Fussball de 4k",
       "logo": "https://images.seeklogo.com/logo-png/17/1/deutscher-fussball-bund-logo-png_seeklogo-176510.png",
       "stream": "https://junkieembeds.pages.dev/1781977848/fe307db0b1ae446b94dfd0356cb06b35/_l2Vv33fFc8nx_aDTAGBGuaeabBsgjMf8hBmMD4XsY8/fusballtvuhd-de.m3u8",
-      "group": "Group Viva"
-    },
-    {
-      "name": "Caze Tv (YT BR)",
-      "logo": "https://epg.v1.mk/logo/cctv5.png",
-      "stream": "https://live13a.jynrrs.com/live/20233432.m3u8",
       "group": "Group Viva"
     },
     {
@@ -304,24 +286,48 @@
       "group": "Group Viva"
     }
   ],
-  "FOX": [
+  "Unknown": [
     {
-      "name": "FOX 1080p [No VPN]",
-      "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2025/05/13115423/Fox-One-Logo.jpg",
-      "stream": "#KODIPROP:inputstream=inputstream.adaptive",
-      "group": "FOX"
+      "name": "FIFA WORLDCUP itv",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/501.ts",
+      "group": "Unknown"
     },
     {
-      "name": "FOX 4K [No VPN]",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/250px-Fox_Broadcasting_Company_logo_%282019%29.svg.png",
-      "stream": "#KODIPROP:inputstream=inputstream.adaptive",
-      "group": "FOX"
+      "name": "FIFA WORLDCUP unite8",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1064.ts",
+      "group": "Unknown"
     },
     {
-      "name": "FS1 [No VPN]",
-      "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2025/05/13115423/Fox-One-Logo.jpg",
-      "stream": "https://vizio.kuvuslov.cymru/fs1/tracks-v1a1/mono.m3u8",
-      "group": "FOX"
+      "name": "FIFA WORLDCUP fox",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1140.ts",
+      "group": "Unknown"
+    },
+    {
+      "name": "TSN 4 HD",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6654.ts",
+      "group": "Unknown"
+    },
+    {
+      "name": "TSN 3 HD",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts",
+      "group": "Unknown"
+    },
+    {
+      "name": "TSN 2 HD",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts",
+      "group": "Unknown"
+    },
+    {
+      "name": "TSN 1 HD",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts",
+      "group": "Unknown"
     }
   ],
   "FIFA 2026": [
