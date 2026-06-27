@@ -72,7 +72,7 @@
     {
       "name": "BBC One",
       "logo": "https://images.open-epg.com/x364.png",
-      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4958.ts",
+      "stream": "http://193.239.186.231/BBC1/index.m3u8",
       "group": "Group Viva"
     },
     {
