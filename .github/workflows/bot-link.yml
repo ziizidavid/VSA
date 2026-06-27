@@ -1,3 +1,4 @@
+```yaml
 name: Sync IPTV
 
 on:
@@ -13,18 +14,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Download DOMS
+      - name: Download DOMS Event Playlist
         run: |
-          curl -fsSL "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8" -o events.m3u8 || true
+          curl -fsSL \
+          "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8" \
+          -o events.m3u8 || true
 
-      - name: Download WORLD CUP HD
+      - name: Download World Cup Playlist
         run: |
-          curl -fsSL "https://raw.githubusercontent.com/HeruAje23/IPTV-VOUCHER/refs/heads/master/IPTV2026.m3u" -o wc2026.m3u || true
+          curl -fsSL \
+          "https://raw.githubusercontent.com/HeruAje23/IPTV-VOUCHER/refs/heads/master/IPTV2026.m3u" \
+          -o wc2026.m3u || true
 
-      - name: Build IPTV & JSON
+      - name: Validate embed.json
+        run: |
+          python3 << 'PY'
+          import json
+
+          with open("embed.json","r",encoding="utf-8") as f:
+              json.load(f)
+
+          print("embed.json OK")
+          PY
+
+      - name: Build IPTV & Channels
         run: |
           python3 << 'PY'
           from pathlib import Path
@@ -41,6 +57,10 @@ jobs:
               errors="ignore"
           )
 
+          # ==========================
+          # REMOVE OLD AUTO BLOCKS
+          # ==========================
+
           blocks = [
               (
                   "# --- BEGIN DOMS EVENT ---",
@@ -53,6 +73,7 @@ jobs:
           ]
 
           for begin, end in blocks:
+
               text = re.sub(
                   rf"\n?{re.escape(begin)}.*?{re.escape(end)}",
                   "",
@@ -60,86 +81,92 @@ jobs:
                   flags=re.S
               )
 
+          # ==========================
+          # DOMS EVENT
+          # ==========================
+
           doms = ""
 
           if Path("events.m3u8").exists():
 
-              try:
+              doms = Path(
+                  "events.m3u8"
+              ).read_text(
+                  encoding="utf-8",
+                  errors="ignore"
+              )
 
-                  doms = Path(
-                      "events.m3u8"
-                  ).read_text(
-                      encoding="utf-8",
-                      errors="ignore"
-                  )
+              doms = doms.replace(
+                  "#EXTM3U",
+                  ""
+              )
 
-                  doms = doms.replace(
-                      "#EXTM3U",
-                      ""
-                  )
+              doms = re.sub(
+                  r'group-title="[^"]*"',
+                  'group-title="Group Event"',
+                  doms
+              )
 
-                  doms = re.sub(
-                      r'group-title="[^"]*"',
-                      'group-title="Group Event"',
-                      doms
-                  )
-
-              except Exception as e:
-                  print(e)
+          # ==========================
+          # WORLD CUP
+          # ==========================
 
           wc2026 = []
 
           if Path("wc2026.m3u").exists():
 
-              try:
+              lines = Path(
+                  "wc2026.m3u"
+              ).read_text(
+                  encoding="utf-8",
+                  errors="ignore"
+              ).splitlines()
 
-                  lines = Path(
-                      "wc2026.m3u"
-                  ).read_text(
-                      encoding="utf-8",
-                      errors="ignore"
-                  ).splitlines()
+              inside = False
 
-                  inside = False
+              for i, line in enumerate(lines):
 
-                  for i, line in enumerate(lines):
+                  if "#WORLD CUP 2026#" in line.upper():
+                      inside = True
+                      continue
 
-                      if "#WORLD CUP 2026#" in line.upper():
-                          inside = True
-                          continue
+                  if not inside:
+                      continue
 
-                      if inside and line.startswith("#EXTINF"):
+                  if not line.startswith("#EXTINF"):
+                      continue
 
-                          if i + 1 >= len(lines):
-                              continue
+                  if i + 1 >= len(lines):
+                      continue
 
-                          url = lines[i + 1].strip()
+                  url = lines[i + 1].strip()
 
-                          title = line.upper()
+                  title = line.upper()
 
-                          blacklist = [
-                              "MLB",
-                              "CRICKET",
-                              "IPL",
-                              "T20",
-                              "BASEBALL"
-                          ]
+                  blacklist = [
+                      "MLB",
+                      "CRICKET",
+                      "IPL",
+                      "T20",
+                      "BASEBALL"
+                  ]
 
-                          if any(x in title for x in blacklist):
-                              continue
+                  if any(x in title for x in blacklist):
+                      continue
 
-                          row = re.sub(
-                              r'group-title="[^"]*"',
-                              'group-title="Group Alternatif HD"',
-                              line
-                          )
+                  row = re.sub(
+                      r'group-title="[^"]*"',
+                      'group-title="Group Alternatif HD"',
+                      line
+                  )
 
-                          wc2026.append(
-                              row + "\n" + url
-                          )
-
-              except Exception as e:
-                  print(e)
+                  wc2026.append(
+                      row + "\n" + url
+                  )
+                  ```yaml
+          # ==========================
+          # WRITE IPTV
+          # ==========================
 
           text = text.rstrip()
 
@@ -159,6 +186,10 @@ jobs:
               text,
               encoding="utf-8"
           )
+
+          # ==========================
+          # GENERATE channels.json
+          # ==========================
 
           channels = {}
 
@@ -218,32 +249,67 @@ jobs:
 
           if embed_file.exists():
 
-              try:
+              print("Loading embed.json...")
 
-                  embeds = json.loads(
-                      embed_file.read_text(
-                          encoding="utf-8"
-                      )
+              embeds = json.loads(
+                  embed_file.read_text(
+                      encoding="utf-8"
+                  )
+              )
+
+              if not isinstance(embeds, dict):
+                  raise Exception(
+                      "embed.json root must be an object"
                   )
 
-                  for group, items in embeds.items():
+              for group, items in embeds.items():
 
-                      channels.setdefault(
-                          group,
-                          []
-                      )
-
-                      channels[group] = (
-                          items +
-                          channels[group]
-                      )
-
-                  print(
-                      "embed.json merged"
+                  channels.setdefault(
+                      group,
+                      []
                   )
 
-              except Exception as e:
-                  print(e)
+                  existing = {
+                      c["name"]
+                      for c in channels[group]
+                  }
+
+                  for item in items:
+
+                      if "name" not in item:
+                          raise Exception(
+                              "Embed missing name"
+                          )
+
+                      if (
+                          "embed" not in item
+                          and
+                          "stream" not in item
+                      ):
+                          raise Exception(
+                              f"{item['name']} missing embed/stream"
+                          )
+
+                      if item["name"] not in existing:
+
+                          channels[group].insert(
+                              0,
+                              item
+                          )
+
+                          existing.add(
+                              item["name"]
+                          )
+
+              print(
+                  "embed.json merged successfully"
+              )
+
+          else:
+
+              print(
+                  "embed.json not found"
+              )
 
           Path(
               "channels.json"
@@ -263,7 +329,7 @@ jobs:
           )
 
           PY
-
+          ```yaml
       - name: Commit Changes
         run: |
           git config user.name "github-actions[bot]"
@@ -276,5 +342,17 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Auto sync IPTV"
+          git commit -m "Auto sync IPTV & channels.json"
+
+          git pull --rebase origin main || true
+
           git push
+
+      - name: Done
+        run: |
+          echo "======================================"
+          echo "IPtv updated successfully"
+          echo "channels.json generated"
+          echo "embed.json merged"
+          echo "======================================"
+
