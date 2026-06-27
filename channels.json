@@ -76,6 +76,48 @@
       "group": "Group Viva"
     },
     {
+      "name": "itv",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/501.ts",
+      "group": "Group Viva"
+    },
+    {
+      "name": "unite8",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1064.ts",
+      "group": "Group Viva"
+    },
+    {
+      "name": "fox",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1140.ts",
+      "group": "Group Viva"
+    },
+    {
+      "name": "TSN 4 HD",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6654.ts",
+      "group": "Group Viva"
+    },
+    {
+      "name": "TSN 3 HD",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts",
+      "group": "Group Viva"
+    },
+    {
+      "name": "TSN 2 HD",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts",
+      "group": "Group Viva"
+    },
+    {
+      "name": "TSN 1 HD",
+      "logo": "",
+      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts",
+      "group": "Group Viva"
+    },
+    {
       "name": "Fussball de 4k",
       "logo": "https://images.seeklogo.com/logo-png/17/1/deutscher-fussball-bund-logo-png_seeklogo-176510.png",
       "stream": "https://junkieembeds.pages.dev/1781977848/fe307db0b1ae446b94dfd0356cb06b35/_l2Vv33fFc8nx_aDTAGBGuaeabBsgjMf8hBmMD4XsY8/fusballtvuhd-de.m3u8",
@@ -106,6 +148,12 @@
       "group": "Group Viva"
     },
     {
+      "name": "UNITE8 SPORTS 1HD",
+      "logo": "https://i.postimg.cc/661Rm2z8/image.png",
+      "stream": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
+      "group": "Group Viva"
+    },
+    {
       "name": "RTM SPORTS HD",
       "logo": "https://www.kds.tw/wp-content/uploads/2025/09/5ca85501a4694_01x0-480x320.jpg",
       "stream": "#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1",
@@ -118,30 +166,6 @@
       "group": "Group Viva"
     },
     {
-      "name": "FoxSports 1",
-      "logo": "https://iili.io/KYJqv0G.png",
-      "stream": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
-      "group": "Group Viva"
-    },
-    {
-      "name": "Матч! ФУТБОЛ 1 HD",
-      "logo": "https://static.g-cdn.app/streams/match-futbol1-hd.png",
-      "stream": "http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test",
-      "group": "Group Viva"
-    },
-    {
-      "name": "MATCH! FUTBOL 1",
-      "logo": "https://i.postimg.cc/V6p3Rqfg/ezgif-354bbe37d96cb2b6.png",
-      "stream": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
-      "group": "Group Viva"
-    },
-    {
-      "name": "FIFA",
-      "logo": "https://mma.prnewswire.com/media/1919551/WillowTV_Logo.jpg?p=facebook",
-      "stream": "#KODIPROP:inputstream.adaptive.manifest_type=mpd",
-      "group": "Group Viva"
-    },
-    {
       "name": "CA: TSN 1",
       "logo": "https://docdog.top/logo/countries/canada/tsn1.png",
       "stream": "http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/5508",
@@ -151,18 +175,6 @@
       "name": "FR | BEIN SPORTS 1 HD",
       "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
       "stream": "http://185.160.192.64:80/mangin15/85784/14170",
-      "group": "Group Viva"
-    },
-    {
-      "name": "FS1",
-      "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png",
-      "stream": "http://41.223.30.230/FOXSPORTS1/index.m3u8",
-      "group": "Group Viva"
-    },
-    {
-      "name": "Fox Deportes",
-      "logo": "https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",
-      "stream": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
       "group": "Group Viva"
     },
     {
@@ -286,57 +298,7 @@
       "group": "Group Viva"
     }
   ],
-  "Unknown": [
-    {
-      "name": "FIFA WORLDCUP itv",
-      "logo": "",
-      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/501.ts",
-      "group": "Unknown"
-    },
-    {
-      "name": "FIFA WORLDCUP unite8",
-      "logo": "",
-      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1064.ts",
-      "group": "Unknown"
-    },
-    {
-      "name": "FIFA WORLDCUP fox",
-      "logo": "",
-      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1140.ts",
-      "group": "Unknown"
-    },
-    {
-      "name": "TSN 4 HD",
-      "logo": "",
-      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6654.ts",
-      "group": "Unknown"
-    },
-    {
-      "name": "TSN 3 HD",
-      "logo": "",
-      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts",
-      "group": "Unknown"
-    },
-    {
-      "name": "TSN 2 HD",
-      "logo": "",
-      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts",
-      "group": "Unknown"
-    },
-    {
-      "name": "TSN 1 HD",
-      "logo": "",
-      "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts",
-      "group": "Unknown"
-    }
-  ],
   "FIFA 2026": [
-    {
-      "name": "UNITE8 SPORTS 1HD",
-      "logo": "https://i.postimg.cc/661Rm2z8/image.png",
-      "stream": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-      "group": "FIFA 2026"
-    },
     {
       "name": "UNITE8 SPORTS 2HD",
       "logo": "https://i.postimg.cc/661Rm2z8/image.png",
@@ -355,24 +317,6 @@
       "name": "NOW SPORTS 618 (bc2)",
       "logo": "https://i.postimg.cc/LshzWQQg/ezgif-5030340034d38082.png",
       "stream": "http://shatian.7766.org:7168/0.ts",
-      "group": "Group Event"
-    },
-    {
-      "name": "TVRI-Sport (play)",
-      "logo": "https://mimipipi22.github.io/logo/sports/tvrisport.jpg",
-      "stream": "http://103.148.44.38:8000/play/a05u/index.m3u8",
-      "group": "Group Event"
-    },
-    {
-      "name": "TVRI-NASIONAL(play)",
-      "logo": "https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg",
-      "stream": "http://103.148.44.38:8000/play/a03t/index.m3u8",
-      "group": "Group Event"
-    },
-    {
-      "name": "TVRI SPORT (UDP)",
-      "logo": "https://mimipipi22.github.io/logo/sports/tvrisport.jpg",
-      "stream": "http://202.169.224.202:8800/udp/239.1.2.3:1234",
       "group": "Group Event"
     },
     {
