@@ -26,7 +26,7 @@
       "embed": "https://xyzstreams.shop/wc-5-embed.html"
     },
     {
-      "name": "(4k TSN CANADA",
+      "name": "(4K) TSN CANADA",
       "logo": "assets/logo.png",
       "embed": "https://xyzstreams.shop/wc-6-embed.html"
     },
@@ -34,7 +34,7 @@
       "name": "Bein Max Arabic",
       "logo": "assets/logo.png",
       "embed": "https://xyzstreams.shop/wc-7-embed.html"
-    }
+    },
     {
       "name": "(4K) Bein Max Arabic",
       "logo": "assets/logo.png",
@@ -45,9 +45,10 @@
       "logo": "assets/logo.png",
       "embed": "https://xyzstreams.shop/wc-9-embed.html"
     },
-       {
+    {
       "name": "WC",
       "logo": "assets/logo.png",
       "embed": "https://xyzstreams.shop/wc-10-embed.html"
-    },
+    }
+  ]
 }
