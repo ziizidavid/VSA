@@ -45,5 +45,9 @@
       "logo": "assets/logo.png",
       "embed": "https://xyzstreams.shop/wc-9-embed.html"
     },
-  ]
+       {
+      "name": "WC",
+      "logo": "assets/logo.png",
+      "embed": "https://xyzstreams.shop/wc-10-embed.html"
+    },
 }
