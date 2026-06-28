@@ -740,12 +740,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Banana Ball World Tour] Savannah Bananas vs Party Animals (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
       "name": "[Baseball] Arizona Diamondbacks at Tampa Bay Rays | English 1 (STRMCNTR)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
@@ -872,9 +866,9 @@
       "group": "Group Event"
     },
     {
-      "name": "[Brazilian Serie B] Ceará vs Juventude (CDNTV)",
+      "name": "[CFL] Ottawa Redblacks vs Montreal Alouettes (CDNTV)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -884,9 +878,27 @@
       "group": "Group Event"
     },
     {
+      "name": "[Canadian Premier League] Supra du Quebec vs Cavalry (CDNTV)",
+      "logo": "https://i.gyazo.com/f61986e2ccfbf88f7d753b4e7f2c9fdc.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%202%20FHD%20US&code=us&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[Chile Copa] D Puerto Montt vs D Concepcion (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Chile Copa] U De Chile vs San Felipe (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Chilean Cup] Universidad de Chile vs Union San Felipe (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4711953/universidad-de-chile-union-san-felipe/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -917,6 +929,12 @@
       "name": "[Copa Chile] Universidad Chile vs Unión San Felipe | ESPAÑOL 1 (STP)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://streamtpday1.xyz/global2.php?stream=max1",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Chile] Universidad de Chile vs Unión San Felipe (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401871872/universidad-de-chile-union-san-felipe/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -986,12 +1004,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Copa Simón Bolívar - Tarija] Unión Tarija vs Nacional Senac (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4748177/union-tarija-nacional-senac/regular/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
       "name": "[Copa de la Liga] Alianza Lima vs Alianza Atlético | Bicolor + (STRMXHD)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=bicolor",
@@ -1034,15 +1046,15 @@
       "group": "Group Event"
     },
     {
-      "name": "[Euro U19] Germany U19 vs Denmark U19 (FAWA)",
+      "name": "[Cup Grp. D] Universidad de Chile vs Union San Felipe (WATCHFTY)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5496053/universidad-de-chile-union-san-felipe/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup - Round of 32] South Africa vs Canada (WATCHFTY)",
+      "name": "[Euro U19] Germany U19 vs Denmark U19 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4745607/south-africa-canada/easy/1?player=clappr&autoplay=true",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1067,12 +1079,6 @@
       "name": "[FIFA World Cup] Bulgarian Feed (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=fq0wnvxdtq",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Canada vs South Africa (CDNTV)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=%5B%E1%B4%9Cs%5D%20FOX%205%20(WNYW)%20NEW%20YORK%20FHD%20%5B%E1%B4%9B%E1%B4%9C%CA%99%C9%AA%5D&code=&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -1226,18 +1232,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup] South Africa vs Canada (WATCHFTY)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/760486/south-africa-canada/easy/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] South Africa vs Canada (iSTRMEAST)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52670?ad=111",
-      "group": "Group Event"
-    },
-    {
       "name": "[FIFA World Cup] South Africa vs Canada 1 (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1295,18 +1289,6 @@
       "name": "[FIFA World Cup] Ukrainian Feed (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=zakndyzarz",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIVB Volleyball Mens Nations League] Italy Volleyball vs Slovenia Volleyball (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIVB Volleyball Mens Nations League] USA Volleyball vs Serbia Volleyball (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -1568,12 +1550,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Baltimore Orioles - Washington Nationals (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Baltimore Orioles vs. Washington Nationals | MLB (STRMXHD)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=mlb1",
@@ -1598,27 +1574,9 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Chicago Cubs vs Milwaukee Brewers (CDNTV)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Chicago Cubs vs Milwaukee Brewers (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Chicago White Sox - Kansas City Royals (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Chicago White Sox vs Kansas City Royals (iSTRMEAST)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52673?ad=111",
       "group": "Group Event"
     },
     {
@@ -1634,18 +1592,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Cleveland Guardians - Seattle Mariners (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Cleveland Guardians vs Seattle Mariners (WATCHFTY)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401815941/cleveland-guardians-seattle-mariners/sigma/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Cleveland Guardians vs Seattle Mariners (iSTRMEAST)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52661?ad=111",
@@ -1658,12 +1604,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Colorado Rockies vs Minnesota Twins (MP66)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://mlb24all.ir",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Colorado Rockies vs Minnesota Twins (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
@@ -1673,12 +1613,6 @@
       "name": "[MLB] Cubs vs Brewers (WEBCAST)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://mlbwebcast.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Detroit Tigers - Houston Astros (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
     },
     {
@@ -1724,18 +1658,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Kansas City Royals vs Chicago White Sox (CDNTV)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Chicago%20Sports%20Network%20CHSN%20US&code=us&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Kansas City Royals vs Chicago White Sox (MP66)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://mlb24all.ir",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Kansas City Royals vs Chicago White Sox (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
@@ -1751,12 +1673,6 @@
       "name": "[MLB] Los Angeles Angels vs Athletics (WATCHFTY)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4555251/los-angeles-angels-athletics/regular/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Los Angeles Angels vs Athletics (iSTRMEAST)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52682?ad=111",
       "group": "Group Event"
     },
     {
@@ -1802,33 +1718,9 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Miami Marlins vs St. Louis Cardinals (MP66)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://mlb24all.ir",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Miami Marlins vs St. Louis Cardinals (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Milwaukee Brewers - Chicago Cubs (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Milwaukee Brewers vs Chicago Cubs (WATCHFTY)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401815944/milwaukee-brewers-chicago-cubs/sigma/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Milwaukee Brewers vs Chicago Cubs (iSTRMEAST)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52678?ad=111",
       "group": "Group Event"
     },
     {
@@ -1838,27 +1730,9 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Minnesota Twins - Colorado Rockies (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Minnesota Twins vs Colorado Rockies (iSTRMEAST)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52675?ad=111",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Nationals vs Orioles (WEBCAST)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://mlbwebcast.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] New York Mets - Philadelphia Phillies (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
     },
     {
@@ -1898,12 +1772,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Pittsburgh Pirates - Cincinnati Reds (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Pittsburgh Pirates vs Cincinnati Reds (iSTRMEAST)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52656?ad=111",
@@ -1940,6 +1808,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[MLB] San Diego Padres vs Los Angeles Dodgers (WATCHFTY)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401815950/san-diego-padres-los-angeles-dodgers/platinum/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
       "name": "[MLB] San Diego Padres vs Los Angeles Dodgers (iSTRMEAST)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52687?ad=111",
@@ -1949,6 +1823,12 @@
       "name": "[MLB] San Francisco Giants - Atlanta Braves (EMBEDHD)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] San Francisco Giants vs Atlanta Braves (WATCHFTY)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4555004/san-francisco-giants-atlanta-braves/easy/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -1976,30 +1856,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] St. Louis Cardinals - Miami Marlins (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] St. Louis Cardinals vs Miami Marlins (WATCHFTY)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401815947/st-louis-cardinals-miami-marlins/easy/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] St. Louis Cardinals vs Miami Marlins (iSTRMEAST)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52679?ad=111",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Tampa Bay Rays - Arizona Diamondbacks (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Texas Rangers at Toronto Blue Jays (SPRTSPASS)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://sportspass.cfd/mlb/bluejays.html",
@@ -2009,12 +1865,6 @@
       "name": "[MLB] Texas Rangers vs Toronto Blue Jays (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Toronto Blue Jays - Texas Rangers (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
     },
     {
@@ -2156,12 +2006,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[NASCAR] Toyota / Save Mart 350 - NASCAR (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/nascar6108/toyota-save-mart-350/diamond/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
       "name": "[Nascar] 2026 NASCAR Cup Series at Sonoma (iSTRMEAST)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52685?ad=111",
@@ -2169,12 +2013,6 @@
     },
     {
       "name": "[Nascar] Nascar Cup Series Toyota Save Mart 350 (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Peru Copa] Cesar Vallejo vs Carlos Mannucci (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -2252,12 +2090,6 @@
       "group": "Group Event"
     },
     {
-      "name": "Round of 32 (SPRTSPASS)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportspass.cfd/soccer/fifa2026.html",
-      "group": "Group Event"
-    },
-    {
       "name": "[Volleyball Nations League] Poland vs Argentina (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -2312,9 +2144,9 @@
       "group": "Group Event"
     },
     {
-      "name": "[WNBA] Portland Fire vs Washington Mystics (CDNTV)",
+      "name": "[WNBA] New York Liberty vs Golden State Valkyries (CDNTV)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Monumental%20Sports%20Network%20US&code=&user=cdnlivetv&plan=free",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20HD%20US&code=us&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
