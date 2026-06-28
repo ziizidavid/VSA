@@ -734,12 +734,6 @@
       "group": "Group Event"
     },
     {
-      "name": "Aperture] Newell's Old Boys Reserve vs Vélez Sarsfield Reserve (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20Primera%20HD%20ARG&code=ar&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
       "name": "[Baseball] Arizona Diamondbacks at Tampa Bay Rays | English 1 (STRMCNTR)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
@@ -839,18 +833,6 @@
       "name": "[Belarus Vysshaya Liga] Isloch vs Belshina (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Chinese Super League] Dalian Yingbo vs Shanghai Shenhua (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5186532/dalian-yingbo-shanghai-shenhua/regular/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Club Friendlies] Fredrikstad vs IF Elfsborg (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4749290/fredrikstad-if-elfsborg/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -1415,12 +1397,6 @@
       "name": "[Formula 3] Spielberg - Carrera | Disney+ (STRMXHD)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=disney1",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Friendly Match] AIK vs Vasteras SK (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1994,6 +1970,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[UEFA U19 European Championship] Spain U19 vs Wales U19 (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=S4C%20FHD%20UK&code=gb&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[Volleyball Nations League] Belgium vs Turkey (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -2012,21 +1994,27 @@
       "group": "Group Event"
     },
     {
+      "name": "[Volleyball Nations League] Canada vs Brazil (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4668187/canada-brazil/regular/2?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
       "name": "[Volleyball Nations League] France vs Japan (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[WNBA] Golden State vs. New York | ESPN 3 (STRMXHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn3",
+      "name": "[Volleyball Nations League] France vs Japan (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4668123/france-japan/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
-      "name": "[World Rally] World Rally Championship Greece (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "name": "[WNBA] Golden State vs. New York | ESPN 3 (STRMXHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn3",
       "group": "Group Event"
     }
   ]
