@@ -6,11 +6,11 @@ http://mysave23.com/live/PeH5kPWFfG/infamous7funny/745270.ts
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751355.ts
 #EXTINF:-1 tvg-name="Football World Cup 2026 4K 2" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",Football World Cup 2026 4K 2
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-#EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="Fussball TV 1 4K DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/1280px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png?_=20250101230447" group-title="Group Viva",FUSSBALL.TV 1 UHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+#EXTM3U
+#EXTINF:-1 tvg-logo="FB1U" group-title="football", Fussball 1 UHD
+#EXT-X-KID: 1f09d5788fbbb03a053d03cc731f31a9
+#EXT-X-KEY: d493d5a70c793362324638f61d1726ac
+https://cf-geo/svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
 #EXTINF:-1 tvg-id="FUSSBALL.TV.2.de" tvg-name="Fussball TV 2 4K DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/1280px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png?_=20250101230447" group-title="Group Viva",FUSSBALL.TV 2 UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
