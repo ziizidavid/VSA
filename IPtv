@@ -4,28 +4,10 @@
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/745270.ts
 #EXTINF:-1 tvg-name="New 2 (4K)" tvg-logo="https://i.postimg.cc/d3PxS0Vm/20260613-165514.jpg"group-title="Group Viva" group-title="Group Viva",New 2 (4K)
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751355.ts
-#EXTINF:-1 tvg-name="Football World Cup 2026 4K 2" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",Football World Cup 2026 4K 2
+#EXTINF:-1 tvg-name="Fussball 1 UHD" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",Fussball 1 UHD
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-#EXTM3U
-#EXTINF:-1 tvg-logo="FB1U" group-title="football", Fussball 1 UHD
-#EXT-X-KID: 1f09d5788fbbb03a053d03cc731f31a9
-#EXT-X-KEY: d493d5a70c793362324638f61d1726ac
-https://cf-geo/svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="FUSSBALL.TV.2.de" tvg-name="Fussball TV 2 4K DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/1280px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png?_=20250101230447" group-title="Group Viva",FUSSBALL.TV 2 UHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="FUSSBALL.TV.3.de" tvg-name="Fussball TV 3 4K DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/1280px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png?_=20250101230447" group-title="Group Viva",FUSSBALL.TV 3 UHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
-https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png" group-title="Group Viva",NHK BSP4K
 http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="Group Viva",BBC One
 http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:-1,group-title="Group Viva",itv
