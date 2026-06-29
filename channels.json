@@ -1,18 +1,10 @@
 {
-  "New (4K)": [
+  "Viva": [
     {
-      "name": "New (4K)",
-      "logo": "https://i.postimg.cc/RFYx7cfR/20260612-205410.jpg",
+      "name": "NOW HK (4K)",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/28/HK_now_TV_logo.svg",
       "stream": "http://mysave23.com/live/PeH5kPWFfG/infamous7funny/745270.ts",
-      "group": "New (4K)"
-    }
-  ],
-  "New 2 (4K)": [
-    {
-      "name": "New 2 (4K)",
-      "logo": "https://i.postimg.cc/d3PxS0Vm/20260613-165514.jpg",
-      "stream": "http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751355.ts",
-      "group": "New 2 (4K)"
+      "group": "Viva"
     }
   ],
   "Group Viva": [
@@ -62,7 +54,13 @@
       "embed": "http://main.epgmaker.com/live/y49sz6KMQs/"
     },
     {
-      "name": "Football World Cup 2026 4K 2",
+      "name": "New 2 (4K)",
+      "logo": "https://i.postimg.cc/d3PxS0Vm/20260613-165514.jpg",
+      "stream": "http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751355.ts",
+      "group": "Group Viva"
+    },
+    {
+      "name": "Fussball 1 UHD",
       "logo": "https://i.postimg.cc/661Rm2z8/image.png",
       "stream": "http://starhub.pro/live/farhat-3379/67897-913379/745269.ts",
       "group": "Group Viva"
@@ -119,54 +117,6 @@
       "name": "TSN 1 HD",
       "logo": "",
       "stream": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts",
-      "group": "Group Viva"
-    },
-    {
-      "name": "Fussball de 4k",
-      "logo": "https://images.seeklogo.com/logo-png/17/1/deutscher-fussball-bund-logo-png_seeklogo-176510.png",
-      "stream": "https://junkieembeds.pages.dev/1781977848/fe307db0b1ae446b94dfd0356cb06b35/_l2Vv33fFc8nx_aDTAGBGuaeabBsgjMf8hBmMD4XsY8/fusballtvuhd-de.m3u8",
-      "group": "Group Viva"
-    },
-    {
-      "name": "CCTV5 hd",
-      "logo": "https://epg.v1.mk/logo/cctv5.png",
-      "stream": "http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub",
-      "group": "Group Viva"
-    },
-    {
-      "name": "9 sport Iran",
-      "logo": "https://imgs.search.brave.com/VeRBENb5ZGZDXtUrbvsWsd7VIBaLV2A8J5z0BYi1p-A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTIy/NjY2OTUyL3ZlY3Rv/ci9pcmFuLWJ1dHRv/bi13aXRoLWlyYW5p/YW4tZmxhZy1pc29s/YXRlZC1vbi13aGl0/ZS5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9emlSRE9QaGx2/S2ZNX0d5azk4UDU5/RTFFakRFaTlDeGtP/WEp2NGE0SE1DMD0",
-      "stream": "https://live-aburayhan1101.telewebion.ir/ek/varzesh/live/108050p/index.m3u8",
-      "group": "Group Viva"
-    },
-    {
-      "name": "CCTV 5",
-      "logo": "http://pitek.diskon.cloud/gambar/forsat.jpg",
-      "stream": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1",
-      "group": "Group Viva"
-    },
-    {
-      "name": "CCTV 5+",
-      "logo": "http://pitek.diskon.cloud/gambar/forsat.jpg",
-      "stream": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1",
-      "group": "Group Viva"
-    },
-    {
-      "name": "UNITE8 SPORTS 1HD",
-      "logo": "https://i.postimg.cc/661Rm2z8/image.png",
-      "stream": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-      "group": "Group Viva"
-    },
-    {
-      "name": "RTM SPORTS HD",
-      "logo": "https://www.kds.tw/wp-content/uploads/2025/09/5ca85501a4694_01x0-480x320.jpg",
-      "stream": "#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1",
-      "group": "Group Viva"
-    },
-    {
-      "name": "OKEY TV",
-      "logo": "https://tv.cic.net.id/uploads/TV_OKEY_MY.png",
-      "stream": "http://iptv.kilas7.com:80/kaukia/asdfrewq/32",
       "group": "Group Viva"
     },
     {
@@ -230,18 +180,6 @@
       "group": "Group Viva"
     },
     {
-      "name": "beIN SPORTS 4k",
-      "logo": "https://i.postimg.cc/661Rm2z8/image.png",
-      "stream": "http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8",
-      "group": "Group Viva"
-    },
-    {
-      "name": "Bioscope Plus",
-      "logo": "https://i.postimg.cc/661Rm2z8/image.png",
-      "stream": "https://streamsportixa.ajmainearafat.workers.dev/live.m3u8",
-      "group": "Group Viva"
-    },
-    {
       "name": "Win Sports",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",
       "stream": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8",
@@ -302,27 +240,7 @@
       "group": "Group Viva"
     }
   ],
-  "FIFA 2026": [
-    {
-      "name": "UNITE8 SPORTS 2HD",
-      "logo": "https://i.postimg.cc/661Rm2z8/image.png",
-      "stream": "http://198.195.239.50:8095/tsports/index.m3u8",
-      "group": "FIFA 2026"
-    }
-  ],
   "Group Event": [
-    {
-      "name": "RTM SPORT(K7)",
-      "logo": "https://tv.cic.net.id/uploads/RTM_SPORT_MY.png",
-      "stream": "http://iptv.kilas7.com:80/kaukia/asdfrewq/31",
-      "group": "Group Event"
-    },
-    {
-      "name": "NOW SPORTS 618 (bc2)",
-      "logo": "https://i.postimg.cc/LshzWQQg/ezgif-5030340034d38082.png",
-      "stream": "http://shatian.7766.org:7168/0.ts",
-      "group": "Group Event"
-    },
     {
       "name": "United 1 (in)",
       "logo": "https://i.postimg.cc/661Rm2z8/image.png",
@@ -972,15 +890,15 @@
       "group": "Group Event"
     },
     {
-      "name": "[Cricket Test Series] England vs New Zealand (FAWA)",
+      "name": "[Euro U19] Croatia U19 vs Ukraine U19 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[Cricket] Sri Lanka vs West Indies (CDNTV)",
+      "name": "[Euro U19] Italy U19 vs Serbia U19 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -999,6 +917,42 @@
       "name": "[FIFA World Cup] Arabic Feed 2 (STRMCNTR)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Brazil vs Japan (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Brazil vs Japan (STRMHUB)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Brazil vs Japan (WATCHFTY)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/760487/brazil-japan/easy/2?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Brazil vs Japan 1 (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Brazil vs Japan HD (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Brazil vs JapanILI (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1122,9 +1076,15 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIFA World Cup] Japan vs Brazil (CDNTV)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=%5B%E1%B4%9Cs%5D%20FOX%205%20(WNYW)%20NEW%20YORK%20FHD%20%5B%E1%B4%9B%E1%B4%9C%CA%99%C9%AA%5D&code=&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[FIFA World Cup] Japan vs Brazil (STRMSGATE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1",
+      "stream": "#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD3",
       "group": "Group Event"
     },
     {
@@ -1200,9 +1160,45 @@
       "group": "Group Event"
     },
     {
+      "name": "[Faroe Islands Premier League] HB Torshavn vs Skala Itrottarfelag (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Faroe Islands Premier League] Toftir vs AB Argir (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Faroe Islands Premier League] Vikingur vs NSI Runavik (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Fifa World Cup] Brazil - Japan (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
       "name": "[Fighting] WWE RAW (ROXIE)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Friendly Match] CSKA 1948 Sofia vs Partizan (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Friendly Match] Crvena zvezda vs Slovan Bratislava (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1213,6 +1209,36 @@
     },
     {
       "name": "[Horse Racing] Horse Racing 2 (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Iceland League] Akranes vs Fram (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Latvia Virsliga] Auda vs Riga FC (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Latvia Virsliga] Jelgava vs Grobina (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Lithuania Toplyga] FA Siauliai vs Transinvest (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Lithuania Toplyga] FK Panevezys vs Suduva (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1386,6 +1412,18 @@
       "group": "Group Event"
     },
     {
+      "name": "[Peru Copa] Deportivo Garcilaso vs Binacional (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Peru Copa] FBC Melgar vs Moquegua (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[Snooker] Snooker Champions Leaguee 1 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1401,6 +1439,12 @@
       "name": "[Soccer] Brazil vs Japan (ROXIE)",
       "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
+      "group": "Group Event"
+    },
+    {
+      "name": "Round of 32 (SPRTSPASS)",
+      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportspass.cfd/soccer/fifa2026.html",
       "group": "Group Event"
     },
     {
@@ -1488,6 +1532,18 @@
       "group": "Group Event"
     },
     {
+      "name": "[UEFA European Under-19 Championship] Italy U19 vs Serbia U19 (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401869420/italy-u19-serbia-u19/regular/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[UEFA European Under-19 Championship] Serbia U19 vs Italy U19 (CDNTV)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=RTS%202%20FHD%20RS&code=rs&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[Wimbledon] Día #1 | Nava (USA) vs. Buse (PER) | ESPN 2 (STRMXHD)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn2",
@@ -1500,15 +1556,33 @@
       "group": "Group Event"
     },
     {
-      "name": "[World - Club Friendly] Partizan vs CSKA 1948 (CDNTV)",
+      "name": "[World Championship] Brazil vs Japan (iSTRMEAST)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%203%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free",
+      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52696?ad=111",
       "group": "Group Event"
     },
     {
-      "name": "[World - Club Friendly] Slovan Bratislava vs Crvena Zvezda (CDNTV)",
+      "name": "[World Cup Qualifications - Asia] Iran vs Syria (WATCHFTY)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4749490/iran-syria/sigma/2?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Brazil vs Japan 1 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbol-x.xyz",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Brazil vs Japan 3 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbol-x.xyz",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Brazil vs Japan 4 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbol-x.xyz",
       "group": "Group Event"
     }
   ]
