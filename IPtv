@@ -24,50 +24,14 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts
 #EXTINF:-1,group-title="Group Viva",TSN 1 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts
-
-
-#EXTINF:-1 group-title="Group Viva" tvg-logo="https://images.seeklogo.com/logo-png/17/1/deutscher-fussball-bund-logo-png_seeklogo-176510.png",Fussball de 4k
-https://junkieembeds.pages.dev/1781977848/fe307db0b1ae446b94dfd0356cb06b35/_l2Vv33fFc8nx_aDTAGBGuaeabBsgjMf8hBmMD4XsY8/fusballtvuhd-de.m3u8
-#EXTINF:-1 group-title="Group Viva" tvg-logo="https://epg.v1.mk/logo/cctv5.png",CCTV5 hd
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="Group Viva" tvg-logo="https://imgs.search.brave.com/VeRBENb5ZGZDXtUrbvsWsd7VIBaLV2A8J5z0BYi1p-A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTIy/NjY2OTUyL3ZlY3Rv/ci9pcmFuLWJ1dHRv/bi13aXRoLWlyYW5p/YW4tZmxhZy1pc29s/YXRlZC1vbi13aGl0/ZS5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9emlSRE9QaGx2/S2ZNX0d5azk4UDU5/RTFFakRFaTlDeGtP/WEp2NGE0SE1DMD0",9 sport Iran
-https://live-aburayhan1101.telewebion.ir/ek/varzesh/live/108050p/index.m3u8
-#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="Group Viva",CCTV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://107.150.60.122/live/cctv5hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="Group Viva",CCTV 5+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://107.150.60.122/live/cctv5p.m3u8
-
-#EXTINF:-1 tvg-name="group-title="Group Viva",UNITE8 SPORTS 1HD" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",UNITE8 SPORTS 1HD
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="UNITE8 SPORTS 2HD" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",UNITE8 SPORTS 2HD
-http://198.195.239.50:8095/tsports/index.m3u8
-
-#EXTINF:-1 group-title="Group Viva" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5ca85501a4694_01x0-480x320.jpg", RTM SPORTS HD 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
-
-#EXTINF:-1 tvg-id="" tvg-name="OKEY TV" tvg-logo="https://tv.cic.net.id/uploads/TV_OKEY_MY.png" group-title="Group Viva",OKEY TV
-http://iptv.kilas7.com:80/kaukia/asdfrewq/32
-#EXTINF:-1 tvg-id="" tvg-name="RTM SPORT" tvg-logo="https://tv.cic.net.id/uploads/RTM_SPORT_MY.png" group-title="Group Event",RTM SPORT(K7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/31
-
-#EXTINF:-1 group-title="Group Event" tvg-logo="https://i.postimg.cc/LshzWQQg/ezgif-5030340034d38082.png",NOW SPORTS 618 (bc2)
-http://shatian.7766.org:7168/0.ts
-
-
 #EXTINF:-1 tvg-id="" tvg-name="CA: TSN 1" tvg-logo="https://docdog.top/logo/countries/canada/tsn1.png" group-title="Group Viva",CA: TSN 1
 http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/5508
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Group Viva",FR | BEIN SPORTS 1 HD
 http://185.160.192.64:80/mangin15/85784/14170
-
 #EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",DAZN 1
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",ESPN
 https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
-
 #EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="Group Viva",TSN1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
 #EXTINF:-1 tvg-name="TUDN" tvg-logo="https://simple.wikipedia.org/wiki/RT%C3%892#/media/File:RTE2logo.png" group-title="Group Viva",TUDN
@@ -84,10 +48,6 @@ http://45.167.1.136:8000/play/a00d
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 #EXTINF:-1 tvg-name="United 2 (eng)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Event",United 2 (eng)
 http://202.70.146.135:8000/play/a06s/index.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 4k" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",beIN SPORTS 4k
-http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
-#EXTINF:-1 tvg-name="Bioscope Plus" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",Bioscope Plus
-https://streamsportixa.ajmainearafat.workers.dev/live.m3u8
 
 #EXTINF:-1 tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Group Viva",Win Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
