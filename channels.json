@@ -902,15 +902,9 @@
       "group": "Group Event"
     },
     {
-      "name": "[Euro U19] Bosnia-Herzegovina U19 W vs Sweden U19 W (FAWA)",
+      "name": "[European Championship U22] Bulgaria U22 vs France U22 (WATCHFTY)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Euro U19] Poland U19 W vs Germany U19 W (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4665508/bulgaria-u22-france-u22/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -1040,6 +1034,36 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIFA World Cup] France vs Sweden (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] France vs Sweden (STRMHUB)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] France vs Sweden 1 (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] France vs Sweden HD (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] France vs SwedenILI (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[FIFA World Cup] French Feed 1 (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=thjmdciaen",
@@ -1094,12 +1118,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup] Ivory Coast vs Norway (WATCHFTY)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/760490/ivory-coast-norway/easy/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
       "name": "[FIFA World Cup] Ivory Coast vs Norway 1 (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1133,12 +1151,6 @@
       "name": "[FIFA World Cup] Norway at Ivory Coast | Spanish 1 (STRMCNTR)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Norway vs Ivory Coast (CDNTV)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=LiveNOW%20from%20FOX%20US&code=&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -1220,6 +1232,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIFA World Cup] Sweden vs France (CDNTV)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[FIFA World Cup] Sweden vs France (STRMSGATE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1",
@@ -1238,7 +1256,7 @@
       "group": "Group Event"
     },
     {
-      "name": "[Fifa World Cup] Ivory Coast - Norway (EMBEDHD)",
+      "name": "[Fifa World Cup] France - Sweden (EMBEDHD)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
@@ -1250,19 +1268,7 @@
       "group": "Group Event"
     },
     {
-      "name": "[Finland Cup] VPS vs Inter Turku (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[Friendly Match] Grosuplje vs Rijeka (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Friendly Match] Shamrock Rovers vs Hibernian (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1581,18 +1587,6 @@
     },
     {
       "name": "[Horse Racing] Horse Racing 2 (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Latvia Virsliga] FK Liepaja vs Ogre United (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Latvia Virsliga] RFS vs BFC Daugavpils (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -2006,12 +2000,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Soccer] France vs Sweden (ROXIE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
-      "group": "Group Event"
-    },
-    {
       "name": "Round of 32 (SPRTSPASS)",
       "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
       "stream": "#EXTVLCOPT:http-referrer=https://sportspass.shop/soccer/fifa2026.html",
@@ -2102,12 +2090,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[UEFA U19 European Championship - Women] Germany U19 vs Poland U19 (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=pl&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
       "name": "[Wimbledon] Dia #2 | Boulter (GBR) vs. Grant (ITA) | Espn 3 (STRMXHD)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn3",
@@ -2117,12 +2099,6 @@
       "name": "[Wimbledon] Dia #2 | Majchrzak (POL) vs. Tabilo (CHI) | Espn 2 (STRMXHD)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn2",
-      "group": "Group Event"
-    },
-    {
-      "name": "[World Championship] Côte d'Ivoire vs Norway (iSTRMEAST)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52736?ad=111",
       "group": "Group Event"
     }
   ]
