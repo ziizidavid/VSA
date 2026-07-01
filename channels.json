@@ -656,18 +656,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Belarus Vysshaya Liga] Slavia Mozyr vs ML Vitebsk (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Canada Premier League] Forge vs Vancouver FC (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[Canada Premier League] HFX Wanderers vs Atl Ottawa (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -689,12 +677,6 @@
       "name": "[Chile Copa] Limache vs Coquimbo (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Club Friendlies] Ferencvaros vs Qarabag Agdam (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4753380/ferencvaros-qarabag-agdam/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -818,6 +800,54 @@
       "group": "Group Event"
     },
     {
+      "name": "[Copa del Mundo] Bélgica vs Senegal | ESPAÑOL 1 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=dsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa del Mundo] Bélgica vs Senegal | ESPAÑOL 2 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=vtvplus",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa del Mundo] Bélgica vs Senegal | ESPAÑOL 3 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=americatv",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa del Mundo] Bélgica vs Senegal | ESPAÑOL 4 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=winsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa del Mundo] Bélgica vs Senegal | ESPAÑOL 5 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=telemundo",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa del Mundo] Bélgica vs Senegal | INGLÉS 1 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=foxsports1_usa",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa del Mundo] EE. UU. vs Bosnia-Herzegovina | ESPAÑOL 1 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=dsports",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa del Mundo] EE. UU. vs Bosnia-Herzegovina | ESPAÑOL 2 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=vtvplus",
+      "group": "Group Event"
+    },
+    {
       "name": "[Copa del Mundo] Inglaterra vs RD del Congo | ESPAÑOL 1 (PLIBRE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=dsports",
@@ -836,21 +866,21 @@
       "group": "Group Event"
     },
     {
-      "name": "[Cricket T20] England vs India (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Euro U19] Denmark U19 vs Spain U19 (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "name": "[Copa del Mundo] Inglaterra vs RD del Congo | ESPAÑOL 4 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=vtvplus",
       "group": "Group Event"
     },
     {
       "name": "[Euro U19] Wales U19 vs Germany U19 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[European League (W) - Semi Finals] Slovenia (W) vs Slovakia (W) (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4743391/slovenia-w-slovakia-w/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -872,7 +902,19 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIFA World Cup] Belgium vs Senegal (STRMHUB)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y",
+      "group": "Group Event"
+    },
+    {
       "name": "[FIFA World Cup] Belgium vs Senegal 1 (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Belgium vs Senegal BE (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -968,12 +1010,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup] England vs DR Congo (WATCHFTY)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4749271/england-congo-dr/easy/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
       "name": "[FIFA World Cup] England vs DR Congo 1 (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1041,6 +1077,12 @@
     },
     {
       "name": "[FIFA World Cup] English Feed | FOX 2 (XYZSTRM)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://xyzstreams.st",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] English Feed | FS1 (XYZSTRM)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://xyzstreams.st",
       "group": "Group Event"
@@ -1130,6 +1172,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIFA World Cup] Senegal vs Belgium (CDNTV)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[FIFA World Cup] Senegal vs Belgium (STRMSGATE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1",
@@ -1190,6 +1238,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[Fifa World Cup] Belgium - Senegal (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
       "name": "[Fifa World Cup] England - Congo DR (EMBEDHD)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
@@ -1203,54 +1257,6 @@
     },
     {
       "name": "[Finland Cup] HJK vs Ilves (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Friendly Match] Celje vs Hajduk Split (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Friendly Match] Ferencvaros vs Qarabag (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Friendly Match] Helmond vs Panathinaikos (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Friendly Match] Omonia vs Dinamo Bucuresti (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Friendly Match] Slavia Prague vs Vlasim (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Friendly Match] Tiszakecske vs Brno (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Friendly Match] Winterthur vs St Gallen (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Friendly Match] Zaglebie vs Podbrezova (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1538,24 +1544,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Baltimore Orioles - Chicago White Sox (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Baltimore Orioles vs Chicago White Sox (WATCHFTY)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401815979/baltimore-orioles-chicago-white-sox/easy/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Baltimore Orioles vs Chicago White Sox (iSTRMEAST)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52781?ad=111",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Boston Red Sox - Washington Nationals (EMBEDHD)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
@@ -1595,12 +1583,6 @@
       "name": "[MLB] Chicago White Sox at Baltimore Orioles | English 1 (STRMCNTR)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Chicago White Sox vs Baltimore Orioles (CDNTV)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=MASN%20US&code=us&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -1880,6 +1862,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[MLB] Texas Rangers vs Cleveland Guardians (MP66)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://mlb24all.ir",
+      "group": "Group Event"
+    },
+    {
       "name": "[MLB] Texas Rangers vs Cleveland Guardians (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
@@ -1895,6 +1883,18 @@
       "name": "[MLB] Toronto Blue Jays - New York Mets (EMBEDHD)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Toronto Blue Jays vs New York Mets (WATCHFTY)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401815981/toronto-blue-jays-new-york-mets/easy/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Toronto Blue Jays vs New York Mets (iSTRMEAST)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52792?ad=111",
       "group": "Group Event"
     },
     {
@@ -1958,12 +1958,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Sweden Division 1] Eskilsminne vs Kristianstad (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[Tennis Masters] Tennis Wimbledoner Court (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -2000,15 +1994,21 @@
       "group": "Group Event"
     },
     {
-      "name": "[UEFA European Under-19 Championship] Spain U19 vs Denmark U19 (CDNTV)",
+      "name": "[UEFA European Under-19 Championship] Wales U19 vs Germany U19 (WATCHFTY)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=es&user=cdnlivetv&plan=free",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401869754/wales-u19-germany-u19/prime/2?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
       "name": "[UEFA U19 Championship] Denmark U19 vs Spain U19 (WATCHFTY)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5344657/denmark-u19-spain-u19/regular/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[UEFA U19 Championship] Wales U19 vs Germany U19 (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5344658/wales-u19-germany-u19/prime/2?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
