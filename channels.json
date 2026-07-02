@@ -656,27 +656,33 @@
       "group": "Group Event"
     },
     {
-      "name": "[Canada Premier League] HFX Wanderers vs Atl Ottawa (FAWA)",
+      "name": "[AEW Wrestling] AEW Dynamite 1 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Canadian Premier League] Atl. Ottawa vs HFX Wanderers (CDNTV)",
-      "logo": "https://i.gyazo.com/f61986e2ccfbf88f7d753b4e7f2c9fdc.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%202%20FHD%20US&code=us&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Canadian Premier League] Forge FC vs Vancouver Fc (WATCHFTY)",
-      "logo": "https://i.gyazo.com/f61986e2ccfbf88f7d753b4e7f2c9fdc.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4664876/forge-fc-vancouver-fc/easy/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
       "name": "[Chile Copa] Limache vs Coquimbo (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Chile Copa] U De Chile vs Union La Calera (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Chilean Cup] Deportes Limache vs Coquimbo Unido (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4711948/deportes-limache-coquimbo-unido/regular/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Chile] Deportes Limache vs Coquimbo Unido (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401871878/deportes-limache-coquimbo-unido/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -872,15 +878,15 @@
       "group": "Group Event"
     },
     {
-      "name": "[Euro U19] Wales U19 vs Germany U19 (FAWA)",
+      "name": "[Cup Grp. A] Deportes Limache vs Coquimbo Unido (WATCHFTY)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5497966/deportes-limache-coquimbo-unido/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
-      "name": "[European League (W) - Semi Finals] Slovenia (W) vs Slovakia (W) (WATCHFTY)",
+      "name": "[Ecuador Liga Pro] LDU Quito vs Orense (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4743391/slovenia-w-slovakia-w/regular/1?player=clappr&autoplay=true",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -896,57 +902,15 @@
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup] Belgium vs Senegal (FAWA)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[FIFA World Cup] Belgium vs Senegal (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y",
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup] Belgium vs Senegal 1 (FAWA)",
+      "name": "[FIFA World Cup] Bosnia-Herzegovina vs USA (CDNTV)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Belgium vs Senegal BE (FAWA)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Belgium vs Senegal HD (FAWA)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Belgium vs SenegalILI (FAWA)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Bosnia-Herzegovina at United States | Arabic 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Bosnia-Herzegovina at United States | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Bosnia-Herzegovina at United States | Spanish 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -959,24 +923,6 @@
       "name": "[FIFA World Cup] Bulgarian Feed (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=fq0wnvxdtq",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Congo DR at England | Arabic 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Congo DR at England | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Congo DR at England | Spanish 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
       "group": "Group Event"
     },
     {
@@ -995,36 +941,6 @@
       "name": "[FIFA World Cup] Dutch Feed (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=erl37sx1pg",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] England vs Congo DR (STRMHUB)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=zoojqh2zjh",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] England vs DR Congo (FAWA)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] England vs DR Congo 1 (FAWA)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] England vs DR Congo HD (FAWA)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] England vs DR CongoILI (FAWA)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1154,30 +1070,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[FIFA World Cup] Senegal at Belgium | Arabic 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Senegal at Belgium | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Senegal at Belgium | Spanish 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[FIFA World Cup] Senegal vs Belgium (CDNTV)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
       "name": "[FIFA World Cup] Senegal vs Belgium (STRMSGATE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1",
@@ -1232,19 +1124,43 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIFA World Cup] USA vs Bosnia-Herzegovina (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] USA vs Bosnia-Herzegovina BE (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] USA vs Bosnia-Herzegovina HD (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] USA vs Bosnia-HerzegovinaILI (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[FIFA World Cup] Ukrainian Feed (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=zakndyzarz",
       "group": "Group Event"
     },
     {
-      "name": "[Fifa World Cup] Belgium - Senegal (EMBEDHD)",
+      "name": "[FIFA World Cup] United States vs Bosnia-Herzegovina (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y",
       "group": "Group Event"
     },
     {
-      "name": "[Fifa World Cup] England - Congo DR (EMBEDHD)",
+      "name": "[Fifa World Cup] United States - Bosnia-Herzegovina (EMBEDHD)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
@@ -1253,12 +1169,6 @@
       "name": "[Fighting] AEW (ROXIE)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Finland Cup] HJK vs Ilves (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
@@ -1325,12 +1235,6 @@
       "name": "[Fútbol] Bélgica vs Senegal | ESPAÑOL 3 (STP)",
       "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
       "stream": "#EXTVLCOPT:http-referrer=https://streamtp.sbs/global2.php?stream=telemundousa",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Cobresal vs La Serena | ESPAÑOL 1 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtp.sbs/global2.php?stream=max1",
       "group": "Group Event"
     },
     {
@@ -1418,24 +1322,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Fútbol] Inglaterra vs RD del Congo | ESPAÑOL 1 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtp.sbs/global2.php?stream=dsports",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Inglaterra vs RD del Congo | ESPAÑOL 2 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtp.sbs/global2.php?stream=vix1",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Fútbol] Inglaterra vs RD del Congo | ESPAÑOL 3 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtp.sbs/global2.php?stream=telemundousa",
-      "group": "Group Event"
-    },
-    {
       "name": "[Fútbol] O'Higgins vs Colo-Colo | ESPAÑOL 1 (STP)",
       "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
       "stream": "#EXTVLCOPT:http-referrer=https://streamtp.sbs/global2.php?stream=max1",
@@ -1484,75 +1370,75 @@
       "group": "Group Event"
     },
     {
-      "name": "[Fútbol] Univ. Concepción vs Ñublense | ESPAÑOL 1 (STP)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streamtp.sbs/global2.php?stream=max3",
-      "group": "Group Event"
-    },
-    {
       "name": "[Fútbol] Universidad Chile vs Unión La Calera | ESPAÑOL 1 (STP)",
       "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
       "stream": "#EXTVLCOPT:http-referrer=https://streamtp.sbs/global2.php?stream=max1",
       "group": "Group Event"
     },
     {
-      "name": "[Georgia Cup] Dinamo Tbilisi vs Dila Gori (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Georgia Cup] Iberia 1999 vs Torpedo Kutaisi (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB Baseball] Baltimore Orioles vs Chicago White Sox (FAWA)",
+      "name": "[MLB Baseball] Arizona Diamondbacks vs San Francisco Giants (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[MLB Baseball] Boston Red Sox vs Washington Nationals (FAWA)",
+      "name": "[MLB Baseball] Athletics vs Los Angeles Dodgers (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[MLB Baseball] Chicago Cubs vs San Diego Padres (FAWA)",
+      "name": "[MLB Baseball] Atlanta Braves vs St Louis Cardinals (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[MLB Baseball] Cleveland Guardians vs Texas Rangers (FAWA)",
+      "name": "[MLB Baseball] Colorado Rockies vs Miami Marlins (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[MLB Baseball] New York Yankees vs Detroit Tigers (FAWA)",
+      "name": "[MLB Baseball] Houston Astros vs Minnesota Twins (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[MLB Baseball] Toronto Blue Jays vs New York Mets (FAWA)",
+      "name": "[MLB Baseball] Kansas City Royals vs Tampa Bay Rays (FAWA)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Boston Red Sox - Washington Nationals (EMBEDHD)",
+      "name": "[MLB Baseball] Milwaukee Brewers vs Cincinnati Reds (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB Baseball] Philadelphia Phillies vs Pittsburgh Pirates (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Atlanta Braves - St. Louis Cardinals (EMBEDHD)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Boston Red Sox vs Washington Nationals (iSTRMEAST)",
+      "name": "[MLB] Atlanta Braves vs St. Louis Cardinals (WATCHFTY)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52789?ad=111",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401815983/atlanta-braves-st-louis-cardinals/easy/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Atlanta Braves vs St. Louis Cardinals (iSTRMEAST)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52801?ad=111",
       "group": "Group Event"
     },
     {
@@ -1562,81 +1448,21 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Chicago Cubs - San Diego Padres (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Chicago Cubs vs San Diego Padres (WATCHFTY)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4556202/chicago-cubs-san-diego-padres/easy/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Chicago Cubs vs San Diego Padres (iSTRMEAST)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52791?ad=111",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Chicago White Sox at Baltimore Orioles | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Chicago White Sox vs Baltimore Orioles (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Cincinnati Reds at Milwaukee Brewers | English 1 (STRMCNTR)",
+      "name": "[MLB] Cincinnati Reds vs Milwaukee Brewers (CDNTV)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
       "name": "[MLB] Cincinnati Reds vs Milwaukee Brewers (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Cleveland Guardians - Texas Rangers (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Cleveland Guardians vs Texas Rangers (WATCHFTY)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401815984/cleveland-guardians-texas-rangers/sigma/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Cleveland Guardians vs Texas Rangers (iSTRMEAST)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52784?ad=111",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Detroit Tigers at New York Yankees | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Detroit Tigers vs New York Yankees (CDNTV)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Detroit Tigers vs New York Yankees (MP66)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://mlb24all.ir",
       "group": "Group Event"
     },
     {
@@ -1658,9 +1484,21 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Los Angeles Dodgers at Athletics Athletics | English 1 (STRMCNTR)",
+      "name": "[MLB] Houston Astros - Minnesota Twins (EMBEDHD)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Kansas City Royals - Tampa Bay Rays (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Kansas City Royals vs Tampa Bay Rays (iSTRMEAST)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52808?ad=111",
       "group": "Group Event"
     },
     {
@@ -1682,27 +1520,21 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Miami Marlins at Colorado Rockies | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Miami Marlins vs Colorado Rockies (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Milwaukee Brewers vs. Cincinnati Reds | ESPN 4 (STRMXHD)",
-      "logo": "https://i.gyazo.com/3e1119df65dee3290afdad55b84ac332.webp",
-      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn4",
+      "name": "[MLB] Milwaukee Brewers - Cincinnati Reds (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Minnesota Twins at Houston Astros | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
+      "name": "[MLB] Milwaukee Brewers vs. Cincinnati Reds | ESPN 4 (STRMXHD)",
+      "logo": "https://i.gyazo.com/3e1119df65dee3290afdad55b84ac332.webp",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn4",
       "group": "Group Event"
     },
     {
@@ -1718,39 +1550,9 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] New York Mets at Toronto Blue Jays | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] New York Mets vs Toronto Blue Jays (CDNTV)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=SportsNet%20New%20York%20FHD%20US&code=us&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] New York Mets vs Toronto Blue Jays (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] New York Yankees - Detroit Tigers (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] New York Yankees vs Detroit Tigers (WATCHFTY)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401815980/new-york-yankees-detroit-tigers/regular/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] New York Yankees vs Detroit Tigers (iSTRMEAST)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52786?ad=111",
       "group": "Group Event"
     },
     {
@@ -1760,15 +1562,33 @@
       "group": "Group Event"
     },
     {
+      "name": "[MLB] Philadelphia Phillies - Pittsburgh Pirates (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Philadelphia Phillies vs Pittsburgh Pirates (WATCHFTY)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401815982/philadelphia-phillies-pittsburgh-pirates/easy/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Philadelphia Phillies vs Pittsburgh Pirates (iSTRMEAST)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52799?ad=111",
+      "group": "Group Event"
+    },
+    {
       "name": "[MLB] Pirates vs Phillies (WEBCAST)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://mlbwebcast.com",
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Pittsburgh Pirates at Philadelphia Phillies | English 1 (STRMCNTR)",
+      "name": "[MLB] Pittsburgh Pirates vs Philadelphia Phillies (MP66)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
+      "stream": "#EXTVLCOPT:http-referrer=https://mlb24all.ir",
       "group": "Group Event"
     },
     {
@@ -1796,27 +1616,9 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] San Diego Padres at Chicago Cubs | English 1 (STRMCNTR)",
+      "name": "[MLB] San Diego Padres vs Chicago Cubs (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] San Diego Padres vs Chicago Cubs (CDNTV)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] San Diego Padres vs Chicago Cubs (MP66)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://mlb24all.ir",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] San Francisco Giants at Arizona Diamondbacks | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
+      "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
       "group": "Group Event"
     },
     {
@@ -1826,9 +1628,15 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] St. Louis Cardinals at Atlanta Braves | English 1 (STRMCNTR)",
+      "name": "[MLB] St. Louis Cardinals vs Atlanta Braves (CDNTV)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=ca&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] St. Louis Cardinals vs Atlanta Braves (MP66)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://mlb24all.ir",
       "group": "Group Event"
     },
     {
@@ -1838,33 +1646,21 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Tampa Bay Rays at Kansas City Royals | English 1 (STRMCNTR)",
+      "name": "[MLB] Tampa Bay Rays vs Kansas City Royals (CDNTV)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=us&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Tampa Bay Rays vs Kansas City Royals (MP66)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://mlb24all.ir",
       "group": "Group Event"
     },
     {
       "name": "[MLB] Tampa Bay Rays vs Kansas City Royals (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Texas Rangers at Cleveland Guardians | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Texas Rangers vs Cleveland Guardians (CDNTV)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20FHD%20HU&code=hu&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Texas Rangers vs Cleveland Guardians (MP66)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://mlb24all.ir",
       "group": "Group Event"
     },
     {
@@ -1880,24 +1676,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[MLB] Toronto Blue Jays - New York Mets (EMBEDHD)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Toronto Blue Jays vs New York Mets (WATCHFTY)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401815981/toronto-blue-jays-new-york-mets/easy/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Toronto Blue Jays vs New York Mets (iSTRMEAST)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52792?ad=111",
-      "group": "Group Event"
-    },
-    {
       "name": "[MLB] Toronto Blue Jays vs. New York Mets | ESPN 5 (STRMXHD)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn5",
@@ -1907,24 +1685,6 @@
       "name": "[MLB] Twins vs Astros (WEBCAST)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://mlbwebcast.com",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Washington Nationals at Boston Red Sox | English 1 (STRMCNTR)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Washington Nationals vs Boston Red Sox (CDNTV)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%20US&code=us&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[MLB] Washington Nationals vs Boston Red Sox (MP66)",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://mlb24all.ir",
       "group": "Group Event"
     },
     {
@@ -1940,75 +1700,21 @@
       "group": "Group Event"
     },
     {
-      "name": "[Soccer] Belgium vs Senegal (ROXIE)",
+      "name": "[Soccer] England vs Congo (ROXIE)",
       "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
       "group": "Group Event"
     },
     {
-      "name": "[Soccer] USA vs Bosnia (ROXIE)",
-      "logo": "https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
+      "name": "[USL League One] Charlotte Independence vs Corpus Christi FC (WATCHFTY)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2452.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401841900/charlotte-independence-corpus-christi-fc/regular/3?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
-      "name": "[Super Cup - Semi Finals] Dila Gori vs Dinamo Tbilisi (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4748890/dila-gori-dinamo-tbilisi/regular/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Tennis Masters] Tennis Wimbledoner Court (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Tennis Masters] Tennis Wimbledont 1 (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Tennis Masters] Tennis Wimbledont 12 (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Tennis Masters] Tennis Wimbledont 2 (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[UEFA European Under-19 Championship] Denmark U19 vs Spain U19 (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4703106/denmark-u19-spain-u19/regular/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[UEFA European Under-19 Championship] Germany U19 vs Wales U19 (CDNTV)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=S4C%20FHD%20UK&code=gb&user=cdnlivetv&plan=free",
-      "group": "Group Event"
-    },
-    {
-      "name": "[UEFA European Under-19 Championship] Wales U19 vs Germany U19 (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401869754/wales-u19-germany-u19/prime/2?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[UEFA U19 Championship] Denmark U19 vs Spain U19 (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5344657/denmark-u19-spain-u19/regular/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[UEFA U19 Championship] Wales U19 vs Germany U19 (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5344658/wales-u19-germany-u19/prime/2?player=clappr&autoplay=true",
+      "name": "[USL League One] Chattanooga Red Wolves vs Westchester SC (WATCHFTY)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2452.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4712191/chattanooga-red-wolves-westchester-sc/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -2021,6 +1727,12 @@
       "name": "[Wimbledon] Cobertura Regional | ESPN 3 (STRMXHD)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn3",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Championship] USA vs Bosnia & Herzegovina (iSTRMEAST)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52804?ad=111",
       "group": "Group Event"
     }
   ]
