@@ -656,12 +656,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[AFL Aussie Rules] Geelong Cats vs Brisbane Lions (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[Basketball Eurobasket] Kosovo vs Albania (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -692,31 +686,7 @@
       "group": "Group Event"
     },
     {
-      "name": "[Basketball WC Qualifs] Egypt vs Mali (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[Basketball WC Qualifs] Jordan vs Iran (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Basketball WC Qualifs] Libya vs South Sudan (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Basketball WC Qualifs] Lithuania vs Great Britain (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Basketball WC Qualifs] Madagascar vs DR Congo (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -740,12 +710,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Basketball WC Qualifs] Ukraine vs Georgia (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[Belarus Vysshaya Liga] BATE vs FC Gomel (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -755,6 +719,12 @@
       "name": "[Belarus Vysshaya Liga] FC Minsk vs Dinamo Minsk (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Besta deildin] Thor Akureyri vs KR Reykjavik (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4656841/thor-akureyri-kr-reykjavik/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
@@ -770,9 +740,21 @@
       "group": "Group Event"
     },
     {
+      "name": "[Copa Chile] Huachipato vs Deportes Concepción | TNT Sports CL (STRMXHD)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=tntsportschile",
+      "group": "Group Event"
+    },
+    {
       "name": "[Copa Chile] O'Higgins vs Colo-Colo | ESPAÑOL 1 (PLIBRE)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=tntsportschile",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa Chile] O'Higgins vs Colo-Colo | TNT Sports CL (STRMXHD)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=tntsportschile",
       "group": "Group Event"
     },
     {
@@ -944,6 +926,18 @@
       "group": "Group Event"
     },
     {
+      "name": "[Copa del Mundo] España vs Austria | ESPAÑOL 3 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=caracol",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Copa del Mundo] España vs Austria | ESPAÑOL 4 (PLIBRE)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=telemundo",
+      "group": "Group Event"
+    },
+    {
       "name": "[Copa del Mundo] Portugal vs Croacia | ESPAÑOL 1 (PLIBRE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=dsports",
@@ -975,12 +969,6 @@
     },
     {
       "name": "[Estonia Meistriliiga] Kuressaare vs Flora (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Euro U19] Croatia U19 vs Italy U19 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1043,6 +1031,12 @@
       "name": "[FIFA World Cup] Austria at Spain | Spanish 1 (STRMCNTR)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Austria vs Spain (CDNTV)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free",
       "group": "Group Event"
     },
     {
@@ -1238,6 +1232,30 @@
       "group": "Group Event"
     },
     {
+      "name": "[FIFA World Cup] Spain vs Austria (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Spain vs Austria (STRMHUB)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Spain vs Austria HD (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Spain vs AustriaILI (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[FIFA World Cup] Spanish Feed (STRMCNTR)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
@@ -1283,6 +1301,12 @@
       "name": "[FIFA World Cup] Ukrainian Feed (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=zakndyzarz",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Fifa World Cup] Spain - Austria (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
     },
     {
@@ -1448,12 +1472,6 @@
       "group": "Group Event"
     },
     {
-      "name": "[Golf] Golf US Senior Open (FAWA)",
-      "logo": "https://i.gyazo.com/14a883f22796f631e6f97c34dbeb6ada.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[Horse Racing] Horse Racing 1 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1480,6 +1498,18 @@
     {
       "name": "[Kazakhstan Premier League] Kairat Almaty vs Okzhetpes (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB Baseball] Colorado Rockies vs Miami Marlins (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB Baseball] Milwaukee Brewers vs Cincinnati Reds (FAWA)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
@@ -1520,9 +1550,21 @@
       "group": "Group Event"
     },
     {
+      "name": "[MLB] Cincinnati Reds vs Milwaukee Brewers (CDNTV)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free",
+      "group": "Group Event"
+    },
+    {
       "name": "[MLB] Cincinnati Reds vs Milwaukee Brewers (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Colorado Rockies - Miami Marlins (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
       "group": "Group Event"
     },
     {
@@ -1565,6 +1607,24 @@
       "name": "[MLB] Miami Marlins vs Colorado Rockies (ROXIE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
       "stream": "#EXTVLCOPT:http-referrer=https://roxiestreams.info",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Milwaukee Brewers - Cincinnati Reds (EMBEDHD)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://exposestrat.com",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Milwaukee Brewers vs Cincinnati Reds (WATCHFTY)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401815996/milwaukee-brewers-cincinnati-reds/platinum/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[MLB] Milwaukee Brewers vs Cincinnati Reds (iSTRMEAST)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52825?ad=111",
       "group": "Group Event"
     },
     {
@@ -1724,25 +1784,7 @@
       "group": "Group Event"
     },
     {
-      "name": "[NRL] Cronulla Sharks W vs Newcastle Knights W (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
       "name": "[Norway OBOS-ligaen] Lyn vs Asane (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[PGA TOUR: John Deere Classic (USA)] PGA TOUR: John Deere Classic (USA) (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/23_84Z2eFAc/pga-tour-john-deere-classic-pga-526234/echo/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Rugby World Championship] France U20 vs Spain U20 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1755,24 +1797,6 @@
     },
     {
       "name": "[Rugby World Championship] South Africa U20 vs Georgia U20 (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Rugby World Championship] Wales U20 vs Uruguay U20 (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Snooker] Snooker Champions Leaguee 1 (FAWA)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
-      "group": "Group Event"
-    },
-    {
-      "name": "[Snooker] Snooker Champions Leaguee 2 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1880,6 +1904,18 @@
       "group": "Group Event"
     },
     {
+      "name": "[UEFA European Under-19 Championship] Serbia U19 vs Ukraine U19 (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4703102/serbia-u19-ukraine-u19/regular/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[UEFA U19 Championship] Serbia U19 vs Ukraine U19 (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5344664/serbia-u19-ukraine-u19/regular/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
       "name": "[Wimbledon] Día #4 - Cobertura Internacional | ESPN 2 (STRMXHD)",
       "logo": "https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png",
       "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn2",
@@ -1889,6 +1925,72 @@
       "name": "[Wimbledon] Día #4 - Cobertura Regional | ESPN 3 (STRMXHD)",
       "logo": "https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png",
       "stream": "#EXTVLCOPT:http-referrer=https://stream-xhd.com/live1.php?stream=espn3",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Championship] Spain vs Austria (iSTRMEAST)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/52821?ad=111",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Spain vs Austria | Alt Feed 1 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbolx-live.hf.space/embed/hd2",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Spain vs Austria | Alt Feed 2 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbolx-live.hf.space/embed/hd3",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Spain vs Austria | Alt Feed 3 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbolx-live.hf.space/embed/hd4",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Spain vs Austria | Backup 1 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbolx-live.hf.space/embed/hd8",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Spain vs Austria | Backup 2 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbolx-live.hf.space/embed/hd9",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Spain vs Austria | Backup 3 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbolx-live.hf.space/embed/hd11",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Spain vs Austria | Ext. Feed 1 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbolx-live.hf.space/embed/hd5",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Spain vs Austria | Ext. Feed 2 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbolx-live.hf.space/embed/hd6",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Spain vs Austria | Ext. Feed 3 (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbolx-live.hf.space/embed/hd7",
+      "group": "Group Event"
+    },
+    {
+      "name": "[World Cup] Spain vs Austria | Main Feed (FUTBOLX)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://futbolx-live.hf.space/embed/hd1",
       "group": "Group Event"
     }
   ]
