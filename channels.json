@@ -662,6 +662,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[Belarus Vysshaya Liga] BATE vs FC Gomel (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[Copa Chile] Huachipato vs Deportes Concepción | ESPAÑOL 1 (PLIBRE)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=https://la20hd.com/vivo/canales.php?stream=tntsportschile",
@@ -866,6 +872,18 @@
       "group": "Group Event"
     },
     {
+      "name": "[Estonia Meistriliiga] Kuressaare vs Flora (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Euro U19] Croatia U19 vs Italy U19 (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[FIFA World Cup] Algeria at Switzerland | Arabic 1 (STRMCNTR)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
@@ -887,6 +905,12 @@
       "name": "[FIFA World Cup] Algeria vs Switzerland (STRMSGATE)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Arabic Feed (STRMCNTR)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
       "group": "Group Event"
     },
     {
@@ -959,6 +983,12 @@
       "name": "[FIFA World Cup] Dutch Feed (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=erl37sx1pg",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] English Feed (STRMCNTR)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
       "group": "Group Event"
     },
     {
@@ -1097,6 +1127,12 @@
       "name": "[FIFA World Cup] Serbian Feed (STRMHUB)",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
       "stream": "#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=md47hloawt",
+      "group": "Group Event"
+    },
+    {
+      "name": "[FIFA World Cup] Spanish Feed (STRMCNTR)",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://streams.center",
       "group": "Group Event"
     },
     {
@@ -1292,6 +1328,12 @@
       "group": "Group Event"
     },
     {
+      "name": "[Golf PGA] Golf PGA Tour John Deere Classic (FAWA)",
+      "logo": "https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
       "name": "[Golf] Golf BMW International Open (FAWA)",
       "logo": "https://i.gyazo.com/14a883f22796f631e6f97c34dbeb6ada.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
@@ -1305,6 +1347,12 @@
     },
     {
       "name": "[Horse Racing] Horse Racing 2 (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Kazakhstan Premier League] Kairat Almaty vs Okzhetpes (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1478,37 +1526,31 @@
       "group": "Group Event"
     },
     {
-      "name": "[NPB] Hanshin Tigers vs Chunichi Dragons (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4626495/hanshin-tigers-chunichi-dragons/regular/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
-      "name": "[NPB] Yokohama Baystars vs Hiroshima Toyo Carp (WATCHFTY)",
-      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
-      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4626483/yokohama-baystars-hiroshima-toyo-carp/regular/1?player=clappr&autoplay=true",
-      "group": "Group Event"
-    },
-    {
       "name": "[NRL] Cronulla Sharks W vs Newcastle Knights W (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[Rugby World Championship] Argentina U20 vs Ireland U20 (FAWA)",
+      "name": "[Norway OBOS-ligaen] Lyn vs Asane (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
-      "name": "[Rugby World Championship] Australia U20 vs Fiji U20 (FAWA)",
+      "name": "[Rugby World Championship] England U20 vs USA U20 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
     },
     {
       "name": "[Rugby World Championship] France U20 vs Spain U20 (FAWA)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[Rugby World Championship] New Zealand U20 vs Scotland U20 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
       "group": "Group Event"
@@ -1631,6 +1673,18 @@
       "name": "[Tennis Masters] Tennis Wimbledont 8 (FAWA)",
       "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
       "stream": "#EXTVLCOPT:http-referrer=http://www.fawanews.sc/",
+      "group": "Group Event"
+    },
+    {
+      "name": "[UEFA European Under-19 Championship] Croatia U19 vs Italy U19 (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401869423/croatia-u19-italy-u19/regular/1?player=clappr&autoplay=true",
+      "group": "Group Event"
+    },
+    {
+      "name": "[UEFA U19 Championship] Croatia U19 vs Italy U19 (WATCHFTY)",
+      "logo": "https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png",
+      "stream": "#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5344663/croatia-u19-italy-u19/regular/1?player=clappr&autoplay=true",
       "group": "Group Event"
     },
     {
